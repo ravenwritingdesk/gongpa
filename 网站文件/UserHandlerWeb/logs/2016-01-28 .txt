@@ -1,0 +1,37 @@
+2016-01-28 14:18:16.383|[6]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-28 15:07:27.924|[6]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-28 15:14:16.271|[12]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-28 15:29:51.118|[46]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-28 15:31:33.594|[30]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-28 15:45:02.986|[50]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-28 15:47:16.164|[54]|DEBUG|Log.UserHandler|数据调试 uid: 5441  userip: 223.104.31.43   usertoken:0AA31CE74A51B006D3A8A0588BDFABDB  url: http://interface.9zsw.cn:8094/MobileRechargeCenter/Default.aspx?Platform=IPhonePlayer&UserID=5441&Token=0AA31CE74A51B006D3A8A0588BDFABDB
+2016-01-28 15:47:16.210|[54]|INFO |Log.UserHandler|-----------获得要充值的uid5441---------------
+2016-01-28 15:47:16.834|[54]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[bamotu] 用户ID：[5441]---------------
+2016-01-28 16:31:39.884|[6]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-28 18:15:53.202|[6]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-28 18:19:59.635|[35]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-28 18:23:59.205|[48]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-28 19:16:40.675|[6]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-28 19:34:43.738|[14]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-28 20:58:25.574|[6]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-28 21:39:33.717|[6]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-28 22:02:48.469|[6]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-28 22:03:51.056|[17]|DEBUG|Log.UserHandler|数据调试 uid: 5441  userip: 106.6.116.75   usertoken:C0A421971E1FEE47C244274E5350B893  url: http://interface.9zsw.cn:8094/MobileRechargeCenter/Default.aspx?Platform=IPhonePlayer&UserID=5441&Token=C0A421971E1FEE47C244274E5350B893
+2016-01-28 22:03:51.103|[17]|INFO |Log.UserHandler|-----------获得要充值的uid5441---------------
+2016-01-28 22:03:51.696|[17]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[bamotu] 用户ID：[5441]---------------
+2016-01-28 22:04:00.853|[17]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5441 token：C0A421971E1FEE47C244274E5350B893 ----
+2016-01-28 22:04:13.785|[33]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5441date：Thu Jan 28 2016 22:03:54 GMT+0800 (CST)orderType：201----
+2016-01-28 22:04:17.171|[10]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5441 token：C0A421971E1FEE47C244274E5350B893 ----
+2016-01-28 22:04:25.329|[24]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5441date：Thu Jan 28 2016 22:04:05 GMT+0800 (CST)orderType：200----
+2016-01-28 22:05:01.287|[36]|DEBUG|Log.UserHandler|数据调试 uid: 5441  userip: 106.6.116.75   usertoken:C0A421971E1FEE47C244274E5350B893  url: http://interface.9zsw.cn:8094/MobileRechargeCenter/Default.aspx?Platform=IPhonePlayer&UserID=5441&Token=C0A421971E1FEE47C244274E5350B893
+2016-01-28 22:05:01.287|[36]|INFO |Log.UserHandler|-----------获得要充值的uid5441---------------
+2016-01-28 22:05:01.303|[36]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[bamotu] 用户ID：[5441]---------------
+2016-01-28 22:05:05.733|[26]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5441 token：C0A421971E1FEE47C244274E5350B893 ----
+2016-01-28 22:05:31.863|[5]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5441date：Thu Jan 28 2016 22:05:12 GMT+0800 (CST)orderType：200----
+2016-01-28 22:05:51.114|[40]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5441 充值金额：1,orderType:200,password:,token:C0A421971E1FEE47C244274E5350B893,isWeb:FalseuserHostAddress:106.6.116.75----
+2016-01-28 22:05:51.161|[40]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5441 充值金额：1返回：订单提交成功!----
+2016-01-28 22:06:58.974|[40]|DEBUG|Log.UserHandler|数据调试 uid: 5441  userip: 106.6.116.75   usertoken:C0A421971E1FEE47C244274E5350B893  url: http://interface.9zsw.cn:8094/MobileRechargeCenter/Default.aspx?Platform=IPhonePlayer&UserID=5441&Token=C0A421971E1FEE47C244274E5350B893
+2016-01-28 22:06:58.974|[40]|INFO |Log.UserHandler|-----------获得要充值的uid5441---------------
+2016-01-28 22:06:58.990|[40]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[bamotu] 用户ID：[5441]---------------
+2016-01-28 22:07:12.390|[45]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5441date：Thu Jan 28 2016 22:06:53 GMT+0800 (CST)orderType：200----
+2016-01-28 23:00:55.153|[6]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--

@@ -1,0 +1,871 @@
+2016-04-16 00:00:04.437|[266]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 00:00:04.437|[266]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 00:00:04.437|[266]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 00:00:04.437|[266]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 00:05:04.441|[257]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 00:05:04.441|[257]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 00:05:04.441|[257]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 00:05:04.441|[257]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 00:10:04.445|[39]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 00:10:04.445|[39]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 00:10:04.445|[39]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 00:10:04.445|[39]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 00:15:04.449|[43]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 00:15:04.449|[43]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 00:15:04.449|[43]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 00:15:04.449|[43]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 00:20:04.453|[304]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 00:20:04.453|[304]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 00:20:04.453|[304]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 00:20:04.453|[304]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 00:25:04.457|[278]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 00:25:04.457|[278]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 00:25:04.457|[278]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 00:25:04.457|[278]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 00:30:04.461|[272]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 00:30:04.461|[272]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 00:30:04.461|[272]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 00:30:04.461|[272]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 00:35:04.481|[54]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 00:35:04.481|[54]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 00:35:04.481|[54]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 00:35:04.481|[54]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 00:40:04.485|[47]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 00:40:04.485|[47]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 00:40:04.485|[47]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 00:40:04.485|[47]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 00:45:04.489|[45]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 00:45:04.489|[45]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 00:45:04.489|[45]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 00:45:04.489|[45]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 00:50:04.493|[136]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 00:50:04.493|[136]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 00:50:04.493|[136]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 00:50:04.493|[136]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 00:55:04.498|[145]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 00:55:04.498|[145]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 00:55:04.498|[145]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 00:55:04.498|[145]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 01:00:04.502|[154]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 01:00:04.502|[154]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 01:00:04.502|[154]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 01:00:04.502|[154]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 01:05:04.506|[155]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 01:05:04.506|[155]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 01:05:04.506|[155]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 01:05:04.506|[155]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 01:10:04.510|[163]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 01:10:04.510|[163]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 01:10:04.510|[163]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 01:10:04.510|[163]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 01:15:04.514|[165]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 01:15:04.514|[165]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 01:15:04.514|[165]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 01:15:04.514|[165]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 01:20:04.518|[179]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 01:20:04.518|[179]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 01:20:04.518|[179]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 01:20:04.518|[179]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 01:25:04.522|[187]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 01:25:04.522|[187]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 01:25:04.522|[187]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 01:25:04.522|[187]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 01:30:04.542|[199]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 01:30:04.542|[199]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 01:30:04.542|[199]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 01:30:04.542|[199]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 01:35:04.546|[3]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 01:35:04.546|[3]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 01:35:04.546|[3]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 01:35:04.546|[3]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 01:40:04.550|[207]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 01:40:04.550|[207]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 01:40:04.550|[207]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 01:40:04.550|[207]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 01:45:04.554|[300]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 01:45:04.554|[300]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 01:45:04.554|[300]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 01:45:04.554|[300]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 01:50:04.559|[258]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 01:50:04.559|[258]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 01:50:04.559|[258]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 01:50:04.559|[258]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 01:55:04.563|[286]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 01:55:04.563|[286]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 01:55:04.563|[286]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 01:55:04.563|[286]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 02:00:04.567|[215]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 02:00:04.567|[215]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 02:00:04.567|[215]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 02:00:04.567|[215]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 07:20:01.204|[AgentTask]|INFO |Log.TaskService| Task Start
+2016-04-16 07:25:03.026|[17]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 07:25:03.098|[17]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 07:25:03.116|[17]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 07:25:03.116|[17]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 07:30:05.422|[29]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 07:30:05.422|[29]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 07:30:05.422|[29]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 07:30:05.422|[29]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 07:35:05.611|[39]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 07:35:05.611|[39]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 07:35:05.611|[39]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 07:35:05.611|[39]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 07:40:05.875|[48]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 07:40:05.875|[48]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 07:40:05.875|[48]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 07:40:05.875|[48]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 07:45:06.198|[60]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 07:45:06.198|[60]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 07:45:06.198|[60]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 07:45:06.198|[60]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 07:50:06.554|[69]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 07:50:06.554|[69]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 07:50:06.554|[69]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 07:50:06.554|[69]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 07:55:06.967|[77]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 07:55:06.967|[77]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 07:55:06.967|[77]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 07:55:06.967|[77]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 08:00:08.996|[96]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 08:00:08.996|[96]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 08:00:08.996|[96]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 08:00:08.996|[96]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 08:05:09.381|[107]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 08:05:09.381|[107]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 08:05:09.381|[107]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 08:05:09.381|[107]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 08:10:09.795|[119]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 08:10:09.795|[119]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 08:10:09.795|[119]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 08:10:09.795|[119]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 08:15:10.241|[127]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 08:15:10.241|[127]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 08:15:10.241|[127]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 08:15:10.241|[127]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 08:20:10.722|[137]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 08:20:10.722|[137]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 08:20:10.722|[137]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 08:20:10.722|[137]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 08:25:11.262|[147]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 08:25:11.262|[147]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 08:25:11.262|[147]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 08:25:11.262|[147]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 08:30:11.787|[159]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 08:30:11.787|[159]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 08:30:11.787|[159]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 08:30:11.787|[159]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 08:35:14.358|[170]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 08:35:14.358|[170]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 08:35:14.358|[170]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 08:35:14.358|[170]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 08:40:14.823|[182]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 08:40:14.823|[182]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 08:40:14.823|[182]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 08:40:14.823|[182]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 08:45:15.332|[194]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 08:45:15.332|[194]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 08:45:15.332|[194]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 08:45:15.332|[194]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 08:50:15.875|[206]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 08:50:15.875|[206]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 08:50:15.875|[206]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 08:50:15.875|[206]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 08:55:16.432|[217]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 08:55:16.432|[217]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 08:55:16.432|[217]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 08:55:16.432|[217]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 09:00:17.004|[227]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 09:00:17.004|[227]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 09:00:17.004|[227]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 09:00:17.004|[227]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 09:05:17.590|[240]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 09:05:17.590|[240]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 09:05:17.590|[240]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 09:05:17.590|[240]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 09:10:18.185|[251]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 09:10:18.185|[251]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 09:10:18.185|[251]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 09:10:18.185|[251]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 09:15:18.782|[253]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 09:15:18.782|[253]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 09:15:18.782|[253]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 09:15:18.782|[253]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 09:20:19.319|[262]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 09:20:19.319|[262]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 09:20:19.319|[262]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 09:20:19.319|[262]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 09:25:19.793|[265]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 09:25:19.793|[265]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 09:25:19.793|[265]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 09:25:19.793|[265]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 09:30:20.206|[272]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 09:30:20.206|[272]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 09:30:20.206|[272]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 09:30:20.206|[272]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 09:35:20.569|[276]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 09:35:20.569|[276]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 09:35:20.569|[276]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 09:35:20.569|[276]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 09:40:20.889|[283]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 09:40:20.889|[283]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 09:40:20.889|[283]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 09:40:20.889|[283]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 09:45:21.149|[284]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 09:45:21.149|[284]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 09:45:21.149|[284]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 09:45:21.149|[284]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 09:50:19.350|[292]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 09:50:19.350|[292]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 09:50:19.350|[292]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 09:50:19.350|[292]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 09:55:19.376|[295]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 09:55:19.376|[295]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 09:55:19.376|[295]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 09:55:19.376|[295]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 10:00:19.696|[300]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 10:00:19.696|[300]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 10:00:19.696|[300]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 10:00:19.696|[300]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 10:05:19.985|[305]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 10:05:19.985|[305]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 10:05:19.985|[305]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 10:05:19.985|[305]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 10:10:20.244|[311]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 10:10:20.244|[311]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 10:10:20.244|[311]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 10:10:20.244|[311]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 10:15:20.471|[314]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 10:15:20.471|[314]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 10:15:20.471|[314]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 10:15:20.471|[314]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 10:20:20.653|[319]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 10:20:20.653|[319]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 10:20:20.653|[319]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 10:20:20.653|[319]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 10:25:20.819|[329]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 10:25:20.819|[329]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 10:25:20.819|[329]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 10:25:20.819|[329]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 10:30:20.956|[334]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 10:30:20.956|[334]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 10:30:20.956|[334]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 10:30:20.956|[334]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 10:35:21.063|[336]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 10:35:21.063|[336]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 10:35:21.063|[336]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 10:35:21.063|[336]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 10:40:21.168|[343]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 10:40:21.168|[343]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 10:40:21.169|[343]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 10:40:21.169|[343]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 10:45:21.243|[347]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 10:45:21.243|[347]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 10:45:21.243|[347]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 10:45:21.243|[347]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 10:50:21.317|[352]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 10:50:21.317|[352]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 10:50:21.317|[352]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 10:50:21.317|[352]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 10:55:21.361|[357]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 10:55:21.361|[357]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 10:55:21.361|[357]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 10:55:21.363|[357]|INFO |Log.TaskService|开始执行更新抽水
+2016-04-16 10:55:21.522|[357]|INFO |Log.TaskService|执行更新抽水时间：2016-04-16 10:55:21
+2016-04-16 10:55:21.522|[357]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 11:00:19.399|[360]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 11:00:19.399|[360]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 11:00:19.399|[360]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 11:05:19.394|[368]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 11:05:19.394|[368]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 11:05:19.394|[368]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 11:10:19.529|[372]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 11:10:19.529|[372]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 11:10:19.529|[372]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 11:10:19.529|[372]|INFO |Log.TaskService|开始执行更新抽水
+2016-04-16 11:10:19.536|[372]|INFO |Log.TaskService|执行更新抽水时间：2016-04-16 11:10:19
+2016-04-16 11:10:19.536|[372]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 11:15:19.636|[376]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 11:15:19.636|[376]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 11:15:19.636|[376]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 11:20:19.742|[372]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 11:20:19.742|[372]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 11:20:19.742|[372]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 11:20:19.742|[372]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 11:25:19.846|[372]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 11:25:19.846|[372]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 11:25:19.846|[372]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 11:25:19.846|[372]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 11:30:19.922|[381]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 11:30:19.922|[381]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 11:30:19.922|[381]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 11:30:19.922|[381]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 11:35:19.981|[376]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 11:35:19.981|[376]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 11:35:19.981|[376]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 11:35:19.981|[376]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 11:40:20.057|[370]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 11:40:20.057|[370]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 11:40:20.057|[370]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 11:40:20.057|[370]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 11:45:20.132|[373]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 11:45:20.132|[373]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 11:45:20.132|[373]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 11:45:20.132|[373]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 11:50:20.177|[362]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 11:50:20.177|[362]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 11:50:20.177|[362]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 11:50:20.177|[362]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 11:55:20.221|[359]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 11:55:20.221|[359]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 11:55:20.221|[359]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 11:55:20.221|[359]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 12:00:20.266|[352]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 12:00:20.266|[352]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 12:00:20.266|[352]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 12:00:20.266|[352]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 12:05:20.294|[348]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 12:05:20.294|[348]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 12:05:20.294|[348]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 12:05:20.294|[348]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 12:10:20.308|[340]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 12:10:20.308|[340]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 12:10:20.308|[340]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 12:10:20.308|[340]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 12:15:20.320|[329]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 12:15:20.320|[329]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 12:15:20.320|[329]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 12:15:20.320|[329]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 12:20:20.331|[330]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 12:20:20.331|[330]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 12:20:20.331|[330]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 12:20:20.331|[330]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 12:25:20.343|[318]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 12:25:20.343|[318]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 12:25:20.343|[318]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 12:25:20.343|[318]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 12:30:20.354|[312]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 12:30:20.354|[312]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 12:30:20.354|[312]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 12:30:20.354|[312]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 12:35:20.366|[301]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 12:35:20.366|[301]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 12:35:20.366|[301]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 12:35:20.366|[301]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 12:40:20.377|[298]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 12:40:20.377|[298]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 12:40:20.377|[298]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 12:40:20.377|[298]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 12:45:20.389|[289]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 12:45:20.389|[289]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 12:45:20.389|[289]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 12:45:20.389|[289]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 12:50:20.401|[283]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 12:50:20.401|[283]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 12:50:20.401|[283]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 12:50:20.401|[283]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 12:55:20.413|[275]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 12:55:20.413|[275]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 12:55:20.413|[275]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 12:55:20.413|[275]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 13:00:20.425|[272]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 13:00:20.425|[272]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 13:00:20.425|[272]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 13:00:20.425|[272]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 13:05:20.436|[263]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 13:05:20.436|[263]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 13:05:20.436|[263]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 13:05:20.436|[263]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 13:10:20.448|[257]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 13:10:20.448|[257]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 13:10:20.448|[257]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 13:10:20.448|[257]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 13:15:20.459|[246]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 13:15:20.459|[246]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 13:15:20.459|[246]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 13:15:20.459|[246]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 13:20:20.442|[243]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 13:20:20.442|[243]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 13:20:20.442|[243]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 13:20:20.442|[243]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 13:25:20.453|[234]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 13:25:20.453|[234]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 13:25:20.453|[234]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 13:25:20.453|[234]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 13:30:20.436|[227]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 13:30:20.436|[227]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 13:30:20.436|[227]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 13:30:20.436|[227]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 13:35:20.447|[221]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 13:35:20.447|[221]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 13:35:20.447|[221]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 13:35:20.447|[221]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 13:40:20.429|[215]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 13:40:20.429|[215]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 13:40:20.429|[215]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 13:40:20.429|[215]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 13:45:20.412|[206]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 13:45:20.412|[206]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 13:45:20.412|[206]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 13:45:20.412|[206]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 13:50:20.421|[201]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 13:50:20.421|[201]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 13:50:20.421|[201]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 13:50:20.421|[201]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 13:55:20.404|[195]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 13:55:20.404|[195]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 13:55:20.404|[195]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 13:55:20.404|[195]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 14:00:20.387|[187]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 14:00:20.387|[187]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 14:00:20.387|[187]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 14:00:20.387|[187]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 14:05:20.398|[180]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 14:05:20.398|[180]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 14:05:20.398|[180]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 14:05:20.398|[180]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 14:10:20.381|[180]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 14:10:20.381|[180]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 14:10:20.381|[180]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 14:10:20.381|[180]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 14:15:20.392|[165]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 14:15:20.392|[165]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 14:15:20.393|[165]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 14:15:20.393|[165]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 14:20:20.374|[159]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 14:20:20.374|[159]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 14:20:20.374|[159]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 14:20:20.374|[159]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 14:25:20.362|[150]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 14:25:20.362|[150]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 14:25:20.362|[150]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 14:25:20.362|[150]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 14:30:20.374|[145]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 14:30:20.374|[145]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 14:30:20.374|[145]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 14:30:20.374|[145]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 14:35:20.357|[138]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 14:35:20.357|[138]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 14:35:20.357|[138]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 14:35:20.357|[138]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 14:40:20.340|[130]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 14:40:20.340|[130]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 14:40:20.340|[130]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 14:40:20.340|[130]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 14:45:20.351|[123]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 14:45:20.351|[123]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 14:45:20.351|[123]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 14:45:20.351|[123]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 14:50:20.334|[115]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 14:50:20.334|[115]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 14:50:20.334|[115]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 14:50:20.334|[115]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 14:55:20.345|[109]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 14:55:20.345|[109]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 14:55:20.345|[109]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 14:55:20.345|[109]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 15:00:20.326|[103]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 15:00:20.326|[103]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 15:00:20.326|[103]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 15:00:20.326|[103]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 15:05:20.308|[96]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 15:05:20.308|[96]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 15:05:20.308|[96]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 15:05:20.308|[96]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 15:10:20.320|[93]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 15:10:20.320|[93]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 15:10:20.320|[93]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 15:10:20.321|[93]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 15:15:20.302|[82]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 15:15:20.302|[82]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 15:15:20.303|[82]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 15:15:20.303|[82]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 15:20:20.313|[73]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 15:20:20.313|[73]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 15:20:20.313|[73]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 15:20:20.313|[73]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 15:25:20.296|[64]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 15:25:20.296|[64]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 15:25:20.296|[64]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 15:25:20.296|[64]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 15:30:20.284|[47]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 15:30:20.284|[47]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 15:30:20.284|[47]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 15:30:20.284|[47]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 15:35:20.297|[33]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 15:35:20.297|[33]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 15:35:20.297|[33]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 15:35:20.297|[33]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 15:40:20.311|[24]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 15:40:20.311|[24]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 15:40:20.311|[24]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 15:40:20.311|[24]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 15:45:20.281|[13]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 15:45:20.281|[13]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 15:45:20.281|[13]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 15:45:20.281|[13]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 15:50:20.269|[388]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 15:50:20.269|[388]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 15:50:20.269|[388]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 15:50:20.269|[388]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 15:55:20.272|[400]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 15:55:20.272|[400]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 15:55:20.273|[400]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 15:55:20.273|[400]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 16:00:20.289|[411]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 16:00:20.289|[411]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 16:00:20.289|[411]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 16:00:20.289|[411]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 16:05:20.278|[423]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 16:05:20.278|[423]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 16:05:20.278|[423]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 16:05:20.278|[423]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 16:10:20.277|[432]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 16:10:20.277|[432]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 16:10:20.277|[432]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 16:10:20.277|[432]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 16:15:20.291|[445]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 16:15:20.291|[445]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 16:15:20.291|[445]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 16:15:20.291|[445]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 16:20:20.275|[456]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 16:20:20.275|[456]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 16:20:20.275|[456]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 16:20:20.275|[456]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 16:25:20.289|[471]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 16:25:20.289|[471]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 16:25:20.289|[471]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 16:25:20.289|[471]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 16:30:20.302|[472]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 16:30:20.302|[472]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 16:30:20.302|[472]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 16:30:20.302|[472]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 16:35:20.316|[484]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 16:35:20.316|[484]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 16:35:20.316|[484]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 16:35:20.316|[484]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 16:40:20.332|[482]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 16:40:20.332|[482]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 16:40:20.332|[482]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 16:40:20.332|[482]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 16:45:20.333|[468]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 16:45:20.333|[468]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 16:45:20.333|[468]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 16:45:20.333|[468]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 16:50:20.350|[457]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 16:50:20.350|[457]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 16:50:20.350|[457]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 16:50:20.350|[457]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 16:55:20.326|[446]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 16:55:20.326|[446]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 16:55:20.326|[446]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 16:55:20.326|[446]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 17:00:20.343|[437]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 17:00:20.343|[437]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 17:00:20.343|[437]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 17:00:20.343|[437]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 17:05:20.361|[425]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 17:05:20.361|[425]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 17:05:20.361|[425]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 17:05:20.361|[425]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 17:10:20.360|[413]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 17:10:20.360|[413]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 17:10:20.360|[413]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 17:10:20.360|[413]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 17:15:20.374|[398]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 17:15:20.374|[398]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 17:15:20.374|[398]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 17:15:20.374|[398]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 17:20:20.385|[10]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 17:20:20.385|[10]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 17:20:20.385|[10]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 17:20:20.385|[10]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 17:25:20.400|[23]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 17:25:20.400|[23]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 17:25:20.400|[23]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 17:25:20.400|[23]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 17:30:20.384|[37]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 17:30:20.384|[37]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 17:30:20.384|[37]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 17:30:20.384|[37]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 17:35:20.393|[42]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 17:35:20.393|[42]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 17:35:20.393|[42]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 17:35:20.393|[42]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 17:40:20.405|[53]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 17:40:20.405|[53]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 17:40:20.405|[53]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 17:40:20.405|[53]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 17:45:20.418|[64]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 17:45:20.418|[64]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 17:45:20.418|[64]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 17:45:20.418|[64]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 17:50:20.430|[75]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 17:50:20.430|[75]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 17:50:20.430|[75]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 17:50:20.430|[75]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 17:55:20.444|[86]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 17:55:20.444|[86]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 17:55:20.444|[86]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 17:55:20.444|[86]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 18:00:20.456|[98]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 18:00:20.456|[98]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 18:00:20.456|[98]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 18:00:20.456|[98]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 18:05:20.440|[109]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 18:05:20.440|[109]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 18:05:20.440|[109]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 18:05:20.440|[109]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 18:10:20.446|[121]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 18:10:20.446|[121]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 18:10:20.446|[121]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 18:10:20.446|[121]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 18:15:20.452|[133]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 18:15:20.452|[133]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 18:15:20.452|[133]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 18:15:20.452|[133]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 18:20:20.469|[142]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 18:20:20.469|[142]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 18:20:20.469|[142]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 18:20:20.469|[142]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 18:25:20.473|[151]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 18:25:20.473|[151]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 18:25:20.473|[151]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 18:25:20.473|[151]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 18:30:20.491|[164]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 18:30:20.491|[164]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 18:30:20.491|[164]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 18:30:20.491|[164]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 18:35:20.495|[176]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 18:35:20.495|[176]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 18:35:20.495|[176]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 18:35:20.495|[176]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 18:40:20.508|[190]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 18:40:20.508|[190]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 18:40:20.508|[190]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 18:40:20.508|[190]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 18:45:20.493|[205]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 18:45:20.494|[205]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 18:45:20.494|[205]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 18:45:20.494|[205]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 19:20:00.614|[AgentTask]|INFO |Log.TaskService| Task Start
+2016-04-16 19:25:01.315|[15]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 19:25:01.319|[15]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 19:25:01.336|[15]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 19:25:01.337|[15]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 19:30:01.298|[31]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 19:30:01.298|[31]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 19:30:01.298|[31]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 19:30:01.298|[31]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 19:35:01.316|[44]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 19:35:01.316|[44]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 19:35:01.316|[44]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 19:35:01.316|[44]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 19:40:01.332|[58]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 19:40:01.332|[58]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 19:40:01.332|[58]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 19:40:01.332|[58]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 19:45:01.362|[68]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 19:45:01.362|[68]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 19:45:01.362|[68]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 19:45:01.362|[68]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 19:50:01.410|[83]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 19:50:01.410|[83]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 19:50:01.410|[83]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 19:50:01.410|[83]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 19:55:01.447|[91]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 19:55:01.447|[91]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 19:55:01.447|[91]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 19:55:01.447|[91]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 20:00:01.496|[109]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 20:00:01.496|[109]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 20:00:01.496|[109]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 20:00:01.496|[109]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 20:05:01.544|[122]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 20:05:01.544|[122]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 20:05:01.544|[122]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 20:05:01.544|[122]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 20:10:01.546|[137]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 20:10:01.546|[137]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 20:10:01.546|[137]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 20:10:01.546|[137]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 20:15:01.556|[148]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 20:15:01.556|[148]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 20:15:01.556|[148]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 20:15:01.556|[148]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 20:20:01.568|[149]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 20:20:01.568|[149]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 20:20:01.568|[149]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 20:20:01.568|[149]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 20:25:01.581|[156]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 20:25:01.582|[156]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 20:25:01.582|[156]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 20:25:01.582|[156]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 20:30:01.594|[151]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 20:30:01.594|[151]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 20:30:01.594|[151]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 20:30:01.594|[151]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 20:35:01.606|[163]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 20:35:01.606|[163]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 20:35:01.606|[163]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 20:35:01.606|[163]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 20:40:01.619|[169]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 20:40:01.619|[169]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 20:40:01.619|[169]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 20:40:01.619|[169]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 20:45:01.635|[170]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 20:45:01.635|[170]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 20:45:01.635|[170]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 20:45:01.635|[170]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 20:50:01.647|[176]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 20:50:01.647|[176]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 20:50:01.647|[176]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 20:50:01.647|[176]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 20:55:01.660|[176]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 20:55:01.660|[176]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 20:55:01.660|[176]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 20:55:01.660|[176]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 21:00:01.672|[181]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 21:00:01.672|[181]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 21:00:01.672|[181]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 21:00:01.672|[181]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 21:05:01.685|[185]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 21:05:01.685|[185]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 21:05:01.685|[185]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 21:05:01.685|[185]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 21:10:01.697|[188]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 21:10:01.698|[188]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 21:10:01.698|[188]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 21:10:01.698|[188]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 21:15:01.710|[197]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 21:15:01.710|[197]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 21:15:01.710|[197]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 21:15:01.710|[197]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 21:20:01.721|[204]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 21:20:01.721|[204]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 21:20:01.721|[204]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 21:20:01.721|[204]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 21:25:01.733|[203]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 21:25:01.733|[203]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 21:25:01.733|[203]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 21:25:01.733|[203]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 21:30:01.744|[208]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 21:30:01.744|[208]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 21:30:01.744|[208]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 21:30:01.744|[208]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 21:35:01.759|[213]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 21:35:01.759|[213]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 21:35:01.759|[213]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 21:35:01.759|[213]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 21:40:01.770|[224]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 21:40:01.770|[224]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 21:40:01.770|[224]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 21:40:01.770|[224]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 21:45:01.782|[226]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 21:45:01.782|[226]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 21:45:01.782|[226]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 21:45:01.782|[226]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 21:50:01.793|[232]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 21:50:01.793|[232]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 21:50:01.793|[232]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 21:50:01.793|[232]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 21:55:01.805|[235]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 21:55:01.805|[235]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 21:55:01.805|[235]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 21:55:01.805|[235]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 22:00:01.816|[236]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 22:00:01.816|[236]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 22:00:01.816|[236]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 22:00:01.816|[236]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 22:05:01.828|[242]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 22:05:01.828|[242]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 22:05:01.828|[242]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 22:05:01.828|[242]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 22:10:01.839|[247]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 22:10:01.839|[247]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 22:10:01.839|[247]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 22:10:01.839|[247]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 22:15:01.851|[249]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 22:15:01.851|[249]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 22:15:01.851|[249]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 22:15:01.851|[249]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 22:20:01.862|[252]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 22:20:01.862|[252]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 22:20:01.862|[252]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 22:20:01.862|[252]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 22:25:01.874|[257]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 22:25:01.874|[257]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 22:25:01.874|[257]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 22:25:01.874|[257]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 22:30:01.885|[262]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 22:30:01.885|[262]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 22:30:01.885|[262]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 22:30:01.886|[262]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 22:35:01.898|[272]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 22:35:01.898|[272]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 22:35:01.898|[272]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 22:35:01.898|[272]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 22:40:01.909|[277]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 22:40:01.909|[277]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 22:40:01.909|[277]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 22:40:01.909|[277]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 22:45:01.921|[282]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 22:45:01.921|[282]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 22:45:01.921|[282]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 22:45:01.921|[282]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 22:50:01.932|[281]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 22:50:01.932|[281]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 22:50:01.932|[281]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 22:50:01.932|[281]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 22:55:01.944|[281]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 22:55:01.944|[281]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 22:55:01.944|[281]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 22:55:01.944|[281]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 23:00:01.955|[290]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 23:00:01.955|[290]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 23:00:01.955|[290]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 23:00:01.955|[290]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 23:05:01.967|[295]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 23:05:01.967|[295]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 23:05:01.967|[295]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 23:05:01.967|[295]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 23:10:01.978|[300]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 23:10:01.978|[300]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 23:10:01.978|[300]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 23:10:01.979|[300]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 23:15:01.990|[305]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 23:15:01.990|[305]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 23:15:01.990|[305]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 23:15:01.990|[305]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 23:20:02.001|[310]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 23:20:02.001|[310]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 23:20:02.001|[310]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 23:20:02.001|[310]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 23:25:02.013|[315]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 23:25:02.013|[315]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 23:25:02.013|[315]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 23:25:02.013|[315]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 23:30:02.024|[320]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 23:30:02.024|[320]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 23:30:02.024|[320]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 23:30:02.024|[320]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 23:35:02.036|[325]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 23:35:02.036|[325]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 23:35:02.036|[325]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 23:35:02.036|[325]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 23:40:02.048|[333]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 23:40:02.048|[333]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 23:40:02.048|[333]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 23:40:02.048|[333]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 23:45:02.059|[330]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 23:45:02.059|[330]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 23:45:02.059|[330]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 23:45:02.098|[330]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 23:50:02.071|[330]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 23:50:02.071|[330]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 23:50:02.071|[330]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 23:50:02.071|[330]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0
+2016-04-16 23:55:02.082|[337]|INFO |Log.TaskService|ReadXMLFile Start
+2016-04-16 23:55:02.082|[337]|DEBUG|Log.TaskService|读取到计划名更新抽水，PlanType【0】,时间类型0，是否有效1
+2016-04-16 23:55:02.082|[337]|INFO |Log.TaskService|获得执行计划的日期为：2016-04-16 11:5 
+2016-04-16 23:55:02.082|[337]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效0

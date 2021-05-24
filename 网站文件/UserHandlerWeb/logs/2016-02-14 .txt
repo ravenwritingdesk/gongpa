@@ -1,0 +1,18 @@
+2016-02-14 18:27:12.643|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-02-14 18:27:16.141|[5]|DEBUG|Log.UserHandler|数据调试 uid: 5453  userip: 183.130.105.133   usertoken:BBEA8F8C4F1CC7BBDC80AD21C4CE507B  url: http://interface.5k5z.com:8094/MobileRechargeCenter/Default.aspx?Platform=WindowsPlayer&UserID=5453&Token=BBEA8F8C4F1CC7BBDC80AD21C4CE507B
+2016-02-14 18:27:16.224|[5]|INFO |Log.UserHandler|-----------获得要充值的uid5453---------------
+2016-02-14 18:27:16.672|[5]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[cskwan] 用户ID：[5453]---------------
+2016-02-14 18:27:20.041|[5]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5453date：Sun Feb 14 2016 18:22:33 GMT+0800 (?D1ú±ê×?ê±??)orderType：200----
+2016-02-14 18:27:24.872|[5]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5453 充值金额：20,orderType:200,password:,token:BBEA8F8C4F1CC7BBDC80AD21C4CE507B,isWeb:FalseuserHostAddress:183.130.105.133----
+2016-02-14 18:27:24.934|[5]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5453 充值金额：20返回：订单提交成功!----
+2016-02-14 18:27:30.041|[11]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5453 充值金额：20,orderType:200,password:,token:BBEA8F8C4F1CC7BBDC80AD21C4CE507B,isWeb:FalseuserHostAddress:183.130.105.133----
+2016-02-14 18:27:30.047|[11]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5453 充值金额：20返回：订单提交成功!----
+2016-02-14 18:27:32.104|[13]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5453 token：BBEA8F8C4F1CC7BBDC80AD21C4CE507B ----
+2016-02-14 18:27:32.796|[5]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5453date：Sun Feb 14 2016 18:22:46 GMT+0800 (?D1ú±ê×?ê±??)orderType：201----
+2016-02-14 18:27:33.284|[13]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5453 token：BBEA8F8C4F1CC7BBDC80AD21C4CE507B ----
+2016-02-14 18:27:33.916|[12]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5453date：Sun Feb 14 2016 18:22:47 GMT+0800 (?D1ú±ê×?ê±??)orderType：200----
+2016-02-14 18:28:11.241|[13]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-02-14 18:28:18.646|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-02-14 18:28:46.584|[6]|DEBUG|Log.UserHandler|数据调试 uid: 5453  userip: 183.130.105.133   usertoken:BBEA8F8C4F1CC7BBDC80AD21C4CE507B  url: http://interface.5k5z.com:8094/MobileRechargeCenter/Default.aspx?Platform=WindowsPlayer&UserID=5453&Token=BBEA8F8C4F1CC7BBDC80AD21C4CE507B
+2016-02-14 18:28:46.587|[6]|INFO |Log.UserHandler|-----------获得要充值的uid5453---------------
+2016-02-14 18:28:46.597|[6]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[cskwan] 用户ID：[5453]---------------

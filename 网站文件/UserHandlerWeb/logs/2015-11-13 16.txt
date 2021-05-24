@@ -1,0 +1,82 @@
+2015-11-13 16:00:00.020|[47]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5110date：Fri Nov 13 2015 16:00:17 GMT+0800 (CST)orderType：201----
+2015-11-13 16:00:04.868|[44]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5110 token：2EA2006835CA6457DCB63D26EDEAD485 ----
+2015-11-13 16:00:57.384|[47]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5110 token：2EA2006835CA6457DCB63D26EDEAD485 ----
+2015-11-13 16:00:57.630|[46]|INFO |Log.UserHandler|用户【qh123456】进行充值开始调用生成订单存储：生成单号【f996fe24bdbe4e039ee71ec669376c27】充值金额【10】充值类型【ALIPAY】
+2015-11-13 16:00:59.108|[46]|INFO |Log.UserHandler|调用支付宝接口：单号【f996fe24bdbe4e039ee71ec669376c27】充值金额【1000】，返回：result.resultCode：【0】result.resultMsg：【OK】
+2015-11-13 16:00:59.501|[51]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5110 token：2EA2006835CA6457DCB63D26EDEAD485 ----
+2015-11-13 16:01:18.851|[53]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5110date：Fri Nov 13 2015 16:00:22 GMT+0800 (CST)orderType：200----
+2015-11-13 16:01:39.851|[44]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5110date：Fri Nov 13 2015 16:00:23 GMT+0800 (CST)orderType：201----
+2015-11-13 16:11:27.250|[38]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-13 16:11:43.723|[37]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5110 token：2EA2006835CA6457DCB63D26EDEAD485 ----
+2015-11-13 16:11:45.780|[44]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5110date：Fri Nov 13 2015 16:12:01 GMT+0800 (CST)orderType：200----
+2015-11-13 16:11:48.106|[38]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5110date：Fri Nov 13 2015 16:12:03 GMT+0800 (CST)orderType：201----
+2015-11-13 16:11:49.844|[37]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5110date：Fri Nov 13 2015 16:12:05 GMT+0800 (CST)orderType：200----
+2015-11-13 16:13:04.481|[44]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5110date：Fri Nov 13 2015 16:13:19 GMT+0800 (CST)orderType：200----
+2015-11-13 16:13:11.312|[44]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5110date：Fri Nov 13 2015 16:13:26 GMT+0800 (CST)orderType：200----
+2015-11-13 16:13:12.016|[41]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5110date：Fri Nov 13 2015 16:13:27 GMT+0800 (CST)orderType：200----
+2015-11-13 16:13:12.207|[42]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5110date：Fri Nov 13 2015 16:13:27 GMT+0800 (CST)orderType：200----
+2015-11-13 16:13:13.636|[44]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5110date：Fri Nov 13 2015 16:13:28 GMT+0800 (CST)orderType：200----
+2015-11-13 16:13:27.665|[38]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5110 token：2EA2006835CA6457DCB63D26EDEAD485 ----
+2015-11-13 16:13:29.095|[42]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5110date：Fri Nov 13 2015 16:13:44 GMT+0800 (CST)orderType：201----
+2015-11-13 16:13:36.125|[38]|DEBUG|Log.UserHandler|---开始调用取消订单接口userid：5110ApplyNumber：100027CancelReason：----
+2015-11-13 16:13:37.035|[44]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5110date：Fri Nov 13 2015 16:13:52 GMT+0800 (CST)orderType：201----
+2015-11-13 16:13:39.107|[38]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5110date：Fri Nov 13 2015 16:13:54 GMT+0800 (CST)orderType：200----
+2015-11-13 16:13:39.830|[42]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5110 token：2EA2006835CA6457DCB63D26EDEAD485 ----
+2015-11-13 16:13:40.614|[45]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5110date：Fri Nov 13 2015 16:13:55 GMT+0800 (CST)orderType：201----
+2015-11-13 16:13:42.165|[44]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5110date：Fri Nov 13 2015 16:13:57 GMT+0800 (CST)orderType：200----
+2015-11-13 16:13:43.967|[45]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5110date：Fri Nov 13 2015 16:13:59 GMT+0800 (CST)orderType：201----
+2015-11-13 16:13:45.727|[44]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5110date：Fri Nov 13 2015 16:14:01 GMT+0800 (CST)orderType：200----
+2015-11-13 16:13:48.148|[41]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5110date：Fri Nov 13 2015 16:14:03 GMT+0800 (CST)orderType：200----
+2015-11-13 16:14:01.481|[45]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5110date：Fri Nov 13 2015 16:14:16 GMT+0800 (CST)orderType：200----
+2015-11-13 16:15:31.195|[45]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5110 token：2EA2006835CA6457DCB63D26EDEAD485 ----
+2015-11-13 16:15:32.749|[39]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5110date：Fri Nov 13 2015 16:15:48 GMT+0800 (CST)orderType：200----
+2015-11-13 16:15:34.171|[44]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5110date：Fri Nov 13 2015 16:15:49 GMT+0800 (CST)orderType：200----
+2015-11-13 16:15:34.761|[45]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5110 token：2EA2006835CA6457DCB63D26EDEAD485 ----
+2015-11-13 16:15:35.702|[42]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5110date：Fri Nov 13 2015 16:15:50 GMT+0800 (CST)orderType：201----
+2015-11-13 16:16:13.671|[44]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5110 token：2EA2006835CA6457DCB63D26EDEAD485 ----
+2015-11-13 16:16:14.204|[39]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5110date：Fri Nov 13 2015 16:16:29 GMT+0800 (CST)orderType：200----
+2015-11-13 16:16:20.592|[48]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5110date：Fri Nov 13 2015 16:16:35 GMT+0800 (CST)orderType：200----
+2015-11-13 16:16:21.564|[42]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5110 token：2EA2006835CA6457DCB63D26EDEAD485 ----
+2015-11-13 16:16:21.905|[45]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5110date：Fri Nov 13 2015 16:16:37 GMT+0800 (CST)orderType：201----
+2015-11-13 16:16:22.571|[44]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5110 token：2EA2006835CA6457DCB63D26EDEAD485 ----
+2015-11-13 16:16:22.913|[48]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5110date：Fri Nov 13 2015 16:16:38 GMT+0800 (CST)orderType：200----
+2015-11-13 16:28:16.388|[48]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-13 16:31:13.206|[47]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-13 16:31:19.002|[47]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5110date：Fri Nov 13 2015 16:31:34 GMT+0800 (CST)orderType：201----
+2015-11-13 16:31:21.617|[36]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5110 token：2EA2006835CA6457DCB63D26EDEAD485 ----
+2015-11-13 16:31:24.140|[46]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5110date：Fri Nov 13 2015 16:31:39 GMT+0800 (CST)orderType：200----
+2015-11-13 16:31:25.577|[47]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5110 token：2EA2006835CA6457DCB63D26EDEAD485 ----
+2015-11-13 16:31:26.304|[49]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5110date：Fri Nov 13 2015 16:31:41 GMT+0800 (CST)orderType：201----
+2015-11-13 16:31:31.676|[45]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5110date：Fri Nov 13 2015 16:31:47 GMT+0800 (CST)orderType：200----
+2015-11-13 16:31:33.229|[36]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5110date：Fri Nov 13 2015 16:31:48 GMT+0800 (CST)orderType：201----
+2015-11-13 16:31:37.057|[46]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5110date：Fri Nov 13 2015 16:31:52 GMT+0800 (CST)orderType：200----
+2015-11-13 16:31:37.482|[47]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5110 token：2EA2006835CA6457DCB63D26EDEAD485 ----
+2015-11-13 16:31:38.186|[45]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5110date：Fri Nov 13 2015 16:31:53 GMT+0800 (CST)orderType：201----
+2015-11-13 16:31:39.689|[36]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5110date：Fri Nov 13 2015 16:31:55 GMT+0800 (CST)orderType：200----
+2015-11-13 16:31:40.041|[46]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5110 token：2EA2006835CA6457DCB63D26EDEAD485 ----
+2015-11-13 16:31:40.626|[36]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5110date：Fri Nov 13 2015 16:31:56 GMT+0800 (CST)orderType：201----
+2015-11-13 16:32:00.981|[36]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5110date：Fri Nov 13 2015 16:32:16 GMT+0800 (CST)orderType：200----
+2015-11-13 16:42:13.698|[61]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5110date：Fri Nov 13 2015 16:42:27 GMT+0800 (CST)orderType：200----
+2015-11-13 16:42:13.699|[49]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5110date：Fri Nov 13 2015 16:42:29 GMT+0800 (CST)orderType：201----
+2015-11-13 16:42:13.700|[56]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5110 token：2EA2006835CA6457DCB63D26EDEAD485 ----
+2015-11-13 16:42:21.599|[61]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5110 token：2EA2006835CA6457DCB63D26EDEAD485 ----
+2015-11-13 16:42:22.579|[56]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5110date：Fri Nov 13 2015 16:42:38 GMT+0800 (CST)orderType：200----
+2015-11-13 16:42:31.169|[58]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5110date：Fri Nov 13 2015 16:42:46 GMT+0800 (CST)orderType：200----
+2015-11-13 16:42:32.473|[60]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5110date：Fri Nov 13 2015 16:42:47 GMT+0800 (CST)orderType：201----
+2015-11-13 16:42:32.882|[49]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5110 token：2EA2006835CA6457DCB63D26EDEAD485 ----
+2015-11-13 16:47:27.325|[58]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-13 16:48:49.978|[56]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5110date：Fri Nov 13 2015 16:49:05 GMT+0800 (CST)orderType：200----
+2015-11-13 16:48:51.061|[61]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5110 token：2EA2006835CA6457DCB63D26EDEAD485 ----
+2015-11-13 16:48:51.512|[49]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5110date：Fri Nov 13 2015 16:49:07 GMT+0800 (CST)orderType：201----
+2015-11-13 16:48:51.967|[36]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5110 token：2EA2006835CA6457DCB63D26EDEAD485 ----
+2015-11-13 16:48:52.660|[58]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5110date：Fri Nov 13 2015 16:49:08 GMT+0800 (CST)orderType：200----
+2015-11-13 16:48:53.156|[56]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5110date：Fri Nov 13 2015 16:49:08 GMT+0800 (CST)orderType：200----
+2015-11-13 16:48:53.363|[61]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5110 token：2EA2006835CA6457DCB63D26EDEAD485 ----
+2015-11-13 16:48:53.507|[50]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5110date：Fri Nov 13 2015 16:49:09 GMT+0800 (CST)orderType：201----
+2015-11-13 16:48:55.262|[36]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5110date：Fri Nov 13 2015 16:49:10 GMT+0800 (CST)orderType：200----
+2015-11-13 16:48:56.768|[60]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5110 token：2EA2006835CA6457DCB63D26EDEAD485 ----
+2015-11-13 16:48:57.994|[50]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5110date：Fri Nov 13 2015 16:49:13 GMT+0800 (CST)orderType：200----
+2015-11-13 16:52:38.263|[50]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-13 16:55:59.566|[61]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-13 16:56:34.326|[60]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-13 16:58:09.363|[58]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--

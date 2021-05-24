@@ -1,0 +1,14 @@
+2016-02-03 02:15:07.344|[5]|DEBUG|Log.UserHandler|数据调试 uid: 5446  userip: 123.179.241.195   usertoken:5B303F47EDFE552018AEFD9746A205E9  url: http://interface.9zsw.cn:8094/MobileRechargeCenter/Default.aspx?Platform=WindowsPlayer&UserID=5446&Token=5B303F47EDFE552018AEFD9746A205E9
+2016-02-03 02:15:07.922|[5]|INFO |Log.UserHandler|-----------获得要充值的uid5446---------------
+2016-02-03 02:15:08.499|[5]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[15500601263] 用户ID：[5446]---------------
+2016-02-03 02:15:11.603|[11]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5446date：Wed Feb 03 2016 02:15:02 GMT+0800 (?D1ú±ê×?ê±??)orderType：200----
+2016-02-03 02:15:13.569|[11]|DEBUG|Log.UserHandler|---开始调用取消订单接口userid：5446ApplyNumber：100033CancelReason：----
+2016-02-03 02:15:13.772|[11]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5446date：Wed Feb 03 2016 02:15:04 GMT+0800 (?D1ú±ê×?ê±??)orderType：200----
+2016-02-03 02:15:15.363|[5]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5446date：Wed Feb 03 2016 02:15:06 GMT+0800 (?D1ú±ê×?ê±??)orderType：200----
+2016-02-03 02:15:15.753|[11]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5446 token：5B303F47EDFE552018AEFD9746A205E9 ----
+2016-02-03 02:15:17.032|[11]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5446date：Wed Feb 03 2016 02:15:07 GMT+0800 (?D1ú±ê×?ê±??)orderType：200----
+2016-02-03 02:18:30.036|[53]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-02-03 02:26:54.197|[25]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-02-03 02:48:41.526|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-02-03 02:51:52.518|[53]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-02-03 11:07:32.332|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--

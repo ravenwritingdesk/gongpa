@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NavTabs name="RechargeCenterTab">
+  <!--Tab Index属性和 QPNativeWeb的 SystemSetInfo 表中的 SetName 为 RechargeCenterTab 对应-->
+  <Tab Index ="1" Title="我要充值" Url="#" IsEnabled="true"></Tab>
+  <Tab Index ="2" Title="充值记录" Url="#" IsEnabled="true"></Tab>
+  <Tab Index ="3" Title="我要兑奖" Url="#" IsEnabled="true"></Tab>
+  <Tab Index ="4" Title="兑奖记录" Url="#" IsEnabled="true"></Tab>
+  <Tab Index ="5" Title="赠 送" Url="#" IsEnabled="true"></Tab>
+  <Tab Index ="6" Title="赠送记录" Url="#" IsEnabled="true"></Tab>
+</NavTabs>

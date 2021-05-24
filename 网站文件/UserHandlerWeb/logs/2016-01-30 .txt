@@ -1,0 +1,39 @@
+2016-01-30 14:03:25.987|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-30 14:05:29.196|[12]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-30 14:06:03.235|[18]|DEBUG|Log.UserHandler|数据调试 uid: 5443  userip: 117.150.224.239   usertoken:8050DA0E0E8004265CF609BDB470E81C  url: http://interface.9zsw.cn:8094/MobileRechargeCenter/Default.aspx?Platform=Android&UserID=5443&Token=8050DA0E0E8004265CF609BDB470E81C
+2016-01-30 14:06:03.266|[18]|INFO |Log.UserHandler|-----------获得要充值的uid5443---------------
+2016-01-30 14:06:03.562|[18]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[zmpimm] 用户ID：[5443]---------------
+2016-01-30 14:06:06.729|[41]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5443 token：8050DA0E0E8004265CF609BDB470E81C ----
+2016-01-30 14:06:11.082|[31]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5443date：Sat Jan 30 2016 14:05:55 GMT+0800 (CST)orderType：201----
+2016-01-30 14:06:12.985|[42]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5443 token：8050DA0E0E8004265CF609BDB470E81C ----
+2016-01-30 14:06:13.718|[12]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5443date：Sat Jan 30 2016 14:05:58 GMT+0800 (CST)orderType：200----
+2016-01-30 14:07:53.823|[45]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-30 18:18:45.728|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-30 18:18:46.508|[8]|DEBUG|Log.UserHandler|数据调试 uid: 5444  userip: 42.123.70.241   usertoken:DBEB1A167DC3856F62D34220CE6FE62D  url: http://interface.9zsw.cn:8094/MobileRechargeCenter/Default.aspx?Platform=WindowsPlayer&UserID=5444&Token=DBEB1A167DC3856F62D34220CE6FE62D
+2016-01-30 18:18:46.539|[8]|INFO |Log.UserHandler|-----------获得要充值的uid5444---------------
+2016-01-30 18:18:47.085|[8]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[sadfsdaf] 用户ID：[5444]---------------
+2016-01-30 18:18:51.766|[9]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5444date：Sat Jan 30 2016 18:18:35 GMT+0800 (?D1ú±ê×?ê±??)orderType：200----
+2016-01-30 18:18:54.074|[9]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5444 token：DBEB1A167DC3856F62D34220CE6FE62D ----
+2016-01-30 18:18:58.286|[8]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5444date：Sat Jan 30 2016 18:18:42 GMT+0800 (?D1ú±ê×?ê±??)orderType：201----
+2016-01-30 18:18:58.942|[9]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5444 token：DBEB1A167DC3856F62D34220CE6FE62D ----
+2016-01-30 18:18:59.800|[8]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5444date：Sat Jan 30 2016 18:18:43 GMT+0800 (?D1ú±ê×?ê±??)orderType：200----
+2016-01-30 18:19:18.426|[13]|DEBUG|Log.UserHandler|数据调试 uid: 5444  userip: 42.123.70.241   usertoken:DBEB1A167DC3856F62D34220CE6FE62D  url: http://interface.9zsw.cn:8094/MobileRechargeCenter/Default.aspx?Platform=WindowsPlayer&UserID=5444&Token=DBEB1A167DC3856F62D34220CE6FE62D
+2016-01-30 18:19:18.442|[13]|INFO |Log.UserHandler|-----------获得要充值的uid5444---------------
+2016-01-30 18:19:18.442|[13]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[sadfsdaf] 用户ID：[5444]---------------
+2016-01-30 18:19:20.766|[5]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5444date：Sat Jan 30 2016 18:19:04 GMT+0800 (?D1ú±ê×?ê±??)orderType：200----
+2016-01-30 18:19:21.515|[17]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5444 token：DBEB1A167DC3856F62D34220CE6FE62D ----
+2016-01-30 18:19:22.076|[15]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5444date：Sat Jan 30 2016 18:19:06 GMT+0800 (?D1ú±ê×?ê±??)orderType：201----
+2016-01-30 18:19:22.607|[18]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5444 token：DBEB1A167DC3856F62D34220CE6FE62D ----
+2016-01-30 18:19:23.090|[12]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5444date：Sat Jan 30 2016 18:19:07 GMT+0800 (?D1ú±ê×?ê±??)orderType：200----
+2016-01-30 18:19:28.410|[20]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5444date：Sat Jan 30 2016 18:19:12 GMT+0800 (?D1ú±ê×?ê±??)orderType：200----
+2016-01-30 18:19:29.315|[8]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5444date：Sat Jan 30 2016 18:19:13 GMT+0800 (?D1ú±ê×?ê±??)orderType：200----
+2016-01-30 18:19:29.689|[19]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5444 token：DBEB1A167DC3856F62D34220CE6FE62D ----
+2016-01-30 18:19:30.188|[10]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5444date：Sat Jan 30 2016 18:19:14 GMT+0800 (?D1ú±ê×?ê±??)orderType：201----
+2016-01-30 18:19:32.388|[5]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5444date：Sat Jan 30 2016 18:19:16 GMT+0800 (?D1ú±ê×?ê±??)orderType：200----
+2016-01-30 18:19:32.918|[17]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5444 token：DBEB1A167DC3856F62D34220CE6FE62D ----
+2016-01-30 18:19:33.449|[16]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5444date：Sat Jan 30 2016 18:19:17 GMT+0800 (?D1ú±ê×?ê±??)orderType：201----
+2016-01-30 18:46:51.654|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-30 18:50:22.052|[31]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-30 22:29:18.616|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-30 22:59:17.019|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-30 22:59:47.844|[20]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--

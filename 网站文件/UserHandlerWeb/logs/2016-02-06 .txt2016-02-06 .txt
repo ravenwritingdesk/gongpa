@@ -1,0 +1,24 @@
+2016-02-06 18:29:38.706|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-02-06 18:29:40.045|[5]|DEBUG|Log.UserHandler|数据调试 uid: 5446  userip: 36.102.85.21   usertoken:EBEC080965C6F0D0ADD3EE95598372FD  url: http://interface.5k5z.com:8094/MobileRechargeCenter/Default.aspx?Platform=WindowsPlayer&UserID=5446&Token=EBEC080965C6F0D0ADD3EE95598372FD
+2016-02-06 18:29:40.125|[5]|INFO |Log.UserHandler|-----------获得要充值的uid5446---------------
+2016-02-06 18:29:40.518|[5]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[hailaer] 用户ID：[5446]---------------
+2016-02-06 18:30:17.979|[12]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5446date：Sat Feb 06 2016 18:30:17 GMT+0800 (?D1ú±ê×?ê±??)orderType：200----
+2016-02-06 18:30:19.041|[13]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5446 token：EBEC080965C6F0D0ADD3EE95598372FD ----
+2016-02-06 18:30:19.782|[5]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5446date：Sat Feb 06 2016 18:30:19 GMT+0800 (?D1ú±ê×?ê±??)orderType：201----
+2016-02-06 18:30:58.267|[13]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5446date：Sat Feb 06 2016 18:30:58 GMT+0800 (?D1ú±ê×?ê±??)orderType：200----
+2016-02-06 18:30:59.654|[9]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5446 token：EBEC080965C6F0D0ADD3EE95598372FD ----
+2016-02-06 18:31:00.370|[6]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5446date：Sat Feb 06 2016 18:31:00 GMT+0800 (?D1ú±ê×?ê±??)orderType：200----
+2016-02-06 18:31:04.075|[9]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5446 充值金额：11,orderType:200,password:,token:EBEC080965C6F0D0ADD3EE95598372FD,isWeb:FalseuserHostAddress:36.102.85.21----
+2016-02-06 18:31:04.156|[9]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5446 充值金额：11返回：订单提交成功!----
+2016-02-06 18:31:06.189|[6]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5446date：Sat Feb 06 2016 18:31:06 GMT+0800 (?D1ú±ê×?ê±??)orderType：200----
+2016-02-06 18:31:08.301|[6]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5446 token：EBEC080965C6F0D0ADD3EE95598372FD ----
+2016-02-06 18:31:08.362|[9]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5446 token：EBEC080965C6F0D0ADD3EE95598372FD ----
+2016-02-06 18:31:09.529|[12]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5446date：Sat Feb 06 2016 18:31:09 GMT+0800 (?D1ú±ê×?ê±??)orderType：200----
+2016-02-06 18:31:13.674|[9]|DEBUG|Log.UserHandler|---开始调用取消订单接口userid：5446ApplyNumber：100033CancelReason：----
+2016-02-06 18:31:13.861|[6]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5446date：Sat Feb 06 2016 18:31:13 GMT+0800 (?D1ú±ê×?ê±??)orderType：200----
+2016-02-06 18:31:15.973|[5]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5446 token：EBEC080965C6F0D0ADD3EE95598372FD ----
+2016-02-06 18:31:16.519|[6]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5446date：Sat Feb 06 2016 18:31:16 GMT+0800 (?D1ú±ê×?ê±??)orderType：201----
+2016-02-06 18:31:17.073|[5]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5446 token：EBEC080965C6F0D0ADD3EE95598372FD ----
+2016-02-06 18:31:17.469|[6]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5446date：Sat Feb 06 2016 18:31:17 GMT+0800 (?D1ú±ê×?ê±??)orderType：200----
+2016-02-06 18:31:20.148|[9]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5446 token：EBEC080965C6F0D0ADD3EE95598372FD ----
+2016-02-06 18:33:00.870|[9]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--

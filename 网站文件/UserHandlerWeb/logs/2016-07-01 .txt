@@ -1,0 +1,73 @@
+2016-07-01 00:14:34.818|[23]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-01 00:15:55.302|[31]|DEBUG|Log.UserHandler|数据调试 uid: 5717  userip: 119.120.228.94   usertoken:DDB3E19B695C147AEA82E996E26B4BF7  url: http://www.8899qpw.com:8081/MobileRechargeCenter/Default.aspx?Platform=WindowsPlayer&UserID=5717&Token=DDB3E19B695C147AEA82E996E26B4BF7
+2016-07-01 00:15:55.369|[31]|INFO |Log.UserHandler|-----------获得要充值的uid5717---------------
+2016-07-01 00:15:55.540|[31]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[administrator] 用户ID：[5717]---------------
+2016-07-01 00:15:57.289|[20]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5717date：Fri Jul 01 2016 00:16:00 GMT+0800 (?D1ú±ê×?ê±??)orderType：200----
+2016-07-01 00:16:33.702|[7]|INFO |Log.UserHandler|用户【administrator】进行充值开始调用生成订单存储：生成单号【313f6c057fe842b7b1e5c129da49bb87】充值金额【100】充值类型【ALIPAY】
+2016-07-01 00:16:34.980|[7]|INFO |Log.UserHandler|调用支付宝接口：单号【313f6c057fe842b7b1e5c129da49bb87】充值金额【10000】，返回：result.resultCode：【4】result.resultMsg：【MISS_PARAM】
+2016-07-01 00:16:42.947|[30]|DEBUG|Log.UserHandler|数据调试 uid: 5717  userip: 119.120.228.94   usertoken:DDB3E19B695C147AEA82E996E26B4BF7  url: http://www.8899qpw.com:8081/MobileRechargeCenter/Default.aspx?Platform=WindowsPlayer&UserID=5717&Token=DDB3E19B695C147AEA82E996E26B4BF7
+2016-07-01 00:16:42.949|[30]|INFO |Log.UserHandler|-----------获得要充值的uid5717---------------
+2016-07-01 00:16:42.976|[30]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[administrator] 用户ID：[5717]---------------
+2016-07-01 00:16:49.005|[20]|INFO |Log.UserHandler|用户【administrator】进行充值开始调用生成订单存储：生成单号【b46e982c0159471b837be3f422f528c9】充值金额【100】充值类型【WECHATQR】
+2016-07-01 00:16:49.627|[20]|INFO |Log.UserHandler|调用微信支付接口：单号【b46e982c0159471b837be3f422f528c9】充值金额【10000】，返回：result.resultCode：【4】result.resultMsg：【MISS_PARAM】
+2016-07-01 00:16:58.653|[28]|DEBUG|Log.UserHandler|数据调试 uid: 5717  userip: 119.120.228.94   usertoken:DDB3E19B695C147AEA82E996E26B4BF7  url: http://www.8899qpw.com:8081/MobileRechargeCenter/Default.aspx?Platform=WindowsPlayer&UserID=5717&Token=DDB3E19B695C147AEA82E996E26B4BF7
+2016-07-01 00:16:58.655|[28]|INFO |Log.UserHandler|-----------获得要充值的uid5717---------------
+2016-07-01 00:16:58.677|[28]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[administrator] 用户ID：[5717]---------------
+2016-07-01 00:17:07.011|[28]|INFO |Log.UserHandler|用户【administrator】进行充值开始调用生成订单存储：生成单号【388e5df09c1c48fe86c3b658745933f4】充值金额【100】充值类型【YB】
+2016-07-01 00:17:12.511|[23]|DEBUG|Log.UserHandler|数据调试 uid: 5717  userip: 119.120.228.94   usertoken:DDB3E19B695C147AEA82E996E26B4BF7  url: http://www.8899qpw.com:8081/MobileRechargeCenter/Default.aspx?Platform=WindowsPlayer&UserID=5717&Token=DDB3E19B695C147AEA82E996E26B4BF7
+2016-07-01 00:17:12.514|[23]|INFO |Log.UserHandler|-----------获得要充值的uid5717---------------
+2016-07-01 00:17:12.544|[23]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[administrator] 用户ID：[5717]---------------
+2016-07-01 00:17:31.764|[30]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5717 充值金额：10,orderType:200,password:,token:DDB3E19B695C147AEA82E996E26B4BF7,isWeb:FalseuserHostAddress:119.120.228.94----
+2016-07-01 00:17:31.816|[30]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5717 充值金额：10返回：订单提交成功!----
+2016-07-01 00:17:35.774|[30]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5717 token：DDB3E19B695C147AEA82E996E26B4BF7 ----
+2016-07-01 00:17:50.760|[30]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5717 充值金额：100,orderType:201,password:qwe123,token:DDB3E19B695C147AEA82E996E26B4BF7,isWeb:FalseuserHostAddress:119.120.228.94----
+2016-07-01 00:17:50.820|[30]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5717 充值金额：100返回：订单提交成功!----
+2016-07-01 00:17:50.878|[23]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5717 token：DDB3E19B695C147AEA82E996E26B4BF7 ----
+2016-07-01 00:17:52.529|[31]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5717date：Fri Jul 01 2016 00:17:56 GMT+0800 (?D1ú±ê×?ê±??)orderType：201----
+2016-07-01 00:17:55.706|[20]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5717 token：DDB3E19B695C147AEA82E996E26B4BF7 ----
+2016-07-01 00:17:56.474|[10]|DEBUG|Log.UserHandler|---开始调用获取赠送列表接口 用户：5717 date：2016/7/1 0:17:56 orderType：4----
+2016-07-01 00:20:02.763|[5]|DEBUG|Log.UserHandler|数据调试 uid: 5717  userip: 119.120.228.94   usertoken:DDB3E19B695C147AEA82E996E26B4BF7  url: http://www.8899qpw.com:8081/MobileRechargeCenter/Default.aspx?Platform=WindowsPlayer&UserID=5717&Token=DDB3E19B695C147AEA82E996E26B4BF7
+2016-07-01 00:20:02.765|[5]|INFO |Log.UserHandler|-----------获得要充值的uid5717---------------
+2016-07-01 00:20:02.785|[5]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[administrator] 用户ID：[5717]---------------
+2016-07-01 00:36:20.769|[10]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-01 00:37:08.835|[23]|DEBUG|Log.UserHandler|数据调试 uid: 5717  userip: 119.120.228.94   usertoken:D13FA0C73827B7CE56A3395F093A81B5  url: http://www.8899qpw.com:8081/MobileRechargeCenter/Default.aspx?Platform=WindowsPlayer&UserID=5717&Token=D13FA0C73827B7CE56A3395F093A81B5
+2016-07-01 00:37:08.839|[23]|INFO |Log.UserHandler|-----------获得要充值的uid5717---------------
+2016-07-01 00:37:08.863|[23]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[administrator] 用户ID：[5717]---------------
+2016-07-01 00:37:10.616|[28]|DEBUG|Log.UserHandler|---开始调用获取赠送列表接口 用户：5717 date：2016/7/1 0:37:10 orderType：4----
+2016-07-01 00:37:11.252|[31]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5717 token：D13FA0C73827B7CE56A3395F093A81B5 ----
+2016-07-01 00:37:12.028|[23]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5717date：Fri Jul 01 2016 00:37:04 GMT+0800 (?D1ú±ê×?ê±??)orderType：201----
+2016-07-01 00:37:13.353|[5]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5717 token：D13FA0C73827B7CE56A3395F093A81B5 ----
+2016-07-01 00:37:14.231|[28]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5717date：Fri Jul 01 2016 00:37:06 GMT+0800 (?D1ú±ê×?ê±??)orderType：200----
+2016-07-01 18:13:28.557|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-01 18:14:30.737|[6]|DEBUG|Log.UserHandler|数据调试 uid: 5714  userip: 1.207.32.4   usertoken:81FDCD6015297BB100A8524E05024C7B  url: http://www.8899qpw.com:8081/MobileRechargeCenter/Default.aspx?Platform=WindowsPlayer&UserID=5714&Token=81FDCD6015297BB100A8524E05024C7B
+2016-07-01 18:14:30.764|[6]|INFO |Log.UserHandler|-----------获得要充值的uid5714---------------
+2016-07-01 18:14:31.731|[6]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[asdasd123] 用户ID：[5714]---------------
+2016-07-01 18:14:43.232|[11]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5714 充值金额：100,orderType:200,password:,token:81FDCD6015297BB100A8524E05024C7B,isWeb:FalseuserHostAddress:1.207.32.4----
+2016-07-01 18:14:43.365|[11]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5714 充值金额：100返回：订单提交成功!----
+2016-07-01 18:16:04.061|[13]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-01 18:16:58.894|[16]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-01 18:17:22.487|[23]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-01 18:17:41.206|[16]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-01 23:46:26.122|[37]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-01 23:46:44.819|[47]|DEBUG|Log.UserHandler|数据调试 uid: 5717  userip: 119.120.211.189   usertoken:22489B0FFFFCE69337406AECD8DB0910  url: http://www.8899qpw.com:8081/MobileRechargeCenter/Default.aspx?Platform=WindowsPlayer&UserID=5717&Token=22489B0FFFFCE69337406AECD8DB0910
+2016-07-01 23:46:44.841|[47]|INFO |Log.UserHandler|-----------获得要充值的uid5717---------------
+2016-07-01 23:46:44.981|[47]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[administrator] 用户ID：[5717]---------------
+2016-07-01 23:47:16.374|[44]|INFO |Log.UserHandler|用户【administrator】进行充值开始调用生成订单存储：生成单号【4cbfe1ef16464e6481d4157031ead3aa】充值金额【100】充值类型【ALIPAY】
+2016-07-01 23:47:17.318|[44]|INFO |Log.UserHandler|调用支付宝接口：单号【4cbfe1ef16464e6481d4157031ead3aa】充值金额【10000】，返回：result.resultCode：【4】result.resultMsg：【MISS_PARAM】
+2016-07-01 23:48:22.466|[58]|DEBUG|Log.UserHandler|数据调试 uid: 5717  userip: 119.120.211.189   usertoken:22489B0FFFFCE69337406AECD8DB0910  url: http://www.8899qpw.com:8081/MobileRechargeCenter/Default.aspx?Platform=WindowsPlayer&UserID=5717&Token=22489B0FFFFCE69337406AECD8DB0910
+2016-07-01 23:48:22.469|[58]|INFO |Log.UserHandler|-----------获得要充值的uid5717---------------
+2016-07-01 23:48:22.497|[58]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[administrator] 用户ID：[5717]---------------
+2016-07-01 23:48:35.875|[58]|INFO |Log.UserHandler|用户【administrator】进行充值开始调用生成订单存储：生成单号【a051678e3067438f807c9fb96959a931】充值金额【100】充值类型【UNIONPAY】
+2016-07-01 23:48:36.459|[58]|INFO |Log.UserHandler|调用在线支付接口：单号【a051678e3067438f807c9fb96959a931】充值金额【10000】，返回：result.resultCode：【4】result.resultMsg：【MISS_PARAM】
+2016-07-01 23:48:54.754|[58]|DEBUG|Log.UserHandler|数据调试 uid: 5717  userip: 119.120.211.189   usertoken:22489B0FFFFCE69337406AECD8DB0910  url: http://www.8899qpw.com:8081/MobileRechargeCenter/Default.aspx?Platform=WindowsPlayer&UserID=5717&Token=22489B0FFFFCE69337406AECD8DB0910
+2016-07-01 23:48:54.757|[58]|INFO |Log.UserHandler|-----------获得要充值的uid5717---------------
+2016-07-01 23:48:54.782|[58]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[administrator] 用户ID：[5717]---------------
+2016-07-01 23:49:12.009|[56]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-01 23:49:18.643|[49]|DEBUG|Log.UserHandler|数据调试 uid: 5717  userip: 119.120.211.189   usertoken:D0CAC9EBD0401A3B7842BB723D3A2C66  url: http://www.8899qpw.com:8081/MobileRechargeCenter/Default.aspx?Platform=WindowsPlayer&UserID=5717&Token=D0CAC9EBD0401A3B7842BB723D3A2C66
+2016-07-01 23:49:18.645|[49]|INFO |Log.UserHandler|-----------获得要充值的uid5717---------------
+2016-07-01 23:49:18.664|[49]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[administrator] 用户ID：[5717]---------------
+2016-07-01 23:49:28.286|[46]|INFO |Log.UserHandler|用户【administrator】进行充值开始调用生成订单存储：生成单号【d79fe5b61b684848a754d35ab85b85bb】充值金额【100】充值类型【ALIPAY】
+2016-07-01 23:49:28.486|[46]|INFO |Log.UserHandler|调用支付宝接口：单号【d79fe5b61b684848a754d35ab85b85bb】充值金额【10000】，返回：result.resultCode：【4】result.resultMsg：【MISS_PARAM】
+2016-07-01 23:54:00.253|[74]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-01 23:57:14.422|[91]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-01 23:58:27.056|[92]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--

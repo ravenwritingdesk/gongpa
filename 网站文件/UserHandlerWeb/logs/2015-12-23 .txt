@@ -1,0 +1,14 @@
+2015-12-23 12:04:52.874|[7]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-23 12:11:10.252|[19]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-23 21:32:37.514|[7]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-23 22:10:47.449|[7]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-23 22:14:13.548|[7]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-23 22:14:26.516|[10]|DEBUG|Log.UserHandler|数据调试 uid: 5291  userip: 27.46.133.52   usertoken:3341DA8280D99E8A27FD315F76CC2D7C  url: http://interface.5092.cc:8094/MobileRechargeCenter/Default.aspx?Platform=IPhonePlayer&UserID=5291&Token=3341DA8280D99E8A27FD315F76CC2D7C
+2015-12-23 22:14:26.560|[10]|INFO |Log.UserHandler|-----------获得要充值的uid5291---------------
+2015-12-23 22:14:26.964|[10]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[hai888] 用户ID：[5291]---------------
+2015-12-23 22:14:30.418|[14]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5291date：Wed Dec 23 2015 22:14:29 GMT+0800 (CST)orderType：200----
+2015-12-23 22:14:35.718|[14]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5291 token：3341DA8280D99E8A27FD315F76CC2D7C ----
+2015-12-23 22:14:38.503|[14]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5291date：Wed Dec 23 2015 22:14:38 GMT+0800 (CST)orderType：201----
+2015-12-23 22:20:33.343|[10]|DEBUG|Log.UserHandler|数据调试 uid: 5291  userip: 27.46.133.52   usertoken:3341DA8280D99E8A27FD315F76CC2D7C  url: http://interface.5092.cc:8094/MobileRechargeCenter/Default.aspx?Platform=IPhonePlayer&UserID=5291&Token=3341DA8280D99E8A27FD315F76CC2D7C
+2015-12-23 22:20:33.348|[10]|INFO |Log.UserHandler|-----------获得要充值的uid5291---------------
+2015-12-23 22:20:33.356|[10]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[hai888] 用户ID：[5291]---------------

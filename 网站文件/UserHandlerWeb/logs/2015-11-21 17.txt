@@ -1,0 +1,106 @@
+2015-11-21 17:00:18.523|[77]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-21 17:00:50.174|[78]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-21 17:01:46.841|[79]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-21 17:02:16.575|[78]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-21 17:02:45.681|[74]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-21 17:03:26.493|[74]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-21 17:11:17.988|[65]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-21 17:27:34.331|[76]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-21 17:33:51.689|[69]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-21 17:34:04.728|[67]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Sat Nov 21 2015 17:34:31 GMT+0800 (CST)orderType：200----
+2015-11-21 17:34:06.291|[76]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5179 token：23E00ECDDE12F495A3E3B84FA846429C ----
+2015-11-21 17:34:07.125|[70]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Sat Nov 21 2015 17:34:33 GMT+0800 (CST)orderType：201----
+2015-11-21 17:34:08.623|[73]|DEBUG|Log.UserHandler|---开始调用获取赠送列表接口 用户：5179 date：2015/11/21 17:34:08 orderType：4----
+2015-11-21 17:34:38.655|[70]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Sat Nov 21 2015 17:35:05 GMT+0800 (CST)orderType：200----
+2015-11-21 17:34:39.821|[67]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5179 token：23E00ECDDE12F495A3E3B84FA846429C ----
+2015-11-21 17:36:53.525|[67]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Sat Nov 21 2015 17:37:20 GMT+0800 (CST)orderType：200----
+2015-11-21 17:36:54.280|[73]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5179 token：23E00ECDDE12F495A3E3B84FA846429C ----
+2015-11-21 17:36:55.085|[70]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5179 token：23E00ECDDE12F495A3E3B84FA846429C ----
+2015-11-21 17:36:55.905|[76]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Sat Nov 21 2015 17:37:22 GMT+0800 (CST)orderType：201----
+2015-11-21 17:36:56.833|[67]|DEBUG|Log.UserHandler|---开始调用获取赠送列表接口 用户：5179 date：2015/11/21 17:36:56 orderType：4----
+2015-11-21 17:37:49.945|[70]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-21 17:39:42.093|[76]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-21 17:40:37.169|[70]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-21 17:41:43.117|[76]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Sat Nov 21 2015 17:42:09 GMT+0800 (CST)orderType：200----
+2015-11-21 17:41:44.960|[67]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5179 token：23E00ECDDE12F495A3E3B84FA846429C ----
+2015-11-21 17:42:06.535|[62]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Sat Nov 21 2015 17:42:33 GMT+0800 (CST)orderType：200----
+2015-11-21 17:42:06.879|[67]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5179 token：23E00ECDDE12F495A3E3B84FA846429C ----
+2015-11-21 17:42:34.729|[73]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-21 17:42:46.443|[62]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Sat Nov 21 2015 17:43:12 GMT+0800 (CST)orderType：200----
+2015-11-21 17:42:47.226|[70]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5179 token：23E00ECDDE12F495A3E3B84FA846429C ----
+2015-11-21 17:42:47.353|[62]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Sat Nov 21 2015 17:43:13 GMT+0800 (CST)orderType：201----
+2015-11-21 17:42:48.224|[73]|DEBUG|Log.UserHandler|---开始调用获取赠送列表接口 用户：5179 date：2015/11/21 17:42:48 orderType：4----
+2015-11-21 17:42:49.659|[67]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Sat Nov 21 2015 17:43:16 GMT+0800 (CST)orderType：200----
+2015-11-21 17:42:50.020|[73]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5179 token：23E00ECDDE12F495A3E3B84FA846429C ----
+2015-11-21 17:42:50.541|[76]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Sat Nov 21 2015 17:43:17 GMT+0800 (CST)orderType：201----
+2015-11-21 17:42:50.645|[70]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Sat Nov 21 2015 17:43:16 GMT+0800 (CST)orderType：201----
+2015-11-21 17:42:51.080|[67]|DEBUG|Log.UserHandler|---开始调用获取赠送列表接口 用户：5179 date：2015/11/21 17:42:51 orderType：4----
+2015-11-21 17:42:51.166|[62]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Sat Nov 21 2015 17:43:15 GMT+0800 (CST)orderType：201----
+2015-11-21 17:43:29.360|[62]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-21 17:44:48.064|[62]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-21 17:44:49.893|[73]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-21 17:45:09.944|[73]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Sat Nov 21 2015 17:45:36 GMT+0800 (CST)orderType：200----
+2015-11-21 17:45:10.753|[72]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5179 token：23E00ECDDE12F495A3E3B84FA846429C ----
+2015-11-21 17:45:11.836|[62]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Sat Nov 21 2015 17:45:38 GMT+0800 (CST)orderType：201----
+2015-11-21 17:45:13.211|[70]|DEBUG|Log.UserHandler|---开始调用获取赠送列表接口 用户：5179 date：2015/11/21 17:45:13 orderType：4----
+2015-11-21 17:45:16.451|[76]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Sat Nov 21 2015 17:45:43 GMT+0800 (CST)orderType：201----
+2015-11-21 17:45:16.997|[70]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5179 token：23E00ECDDE12F495A3E3B84FA846429C ----
+2015-11-21 17:45:17.417|[72]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Sat Nov 21 2015 17:45:44 GMT+0800 (CST)orderType：200----
+2015-11-21 17:45:18.175|[76]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-21 17:45:35.922|[67]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Sat Nov 21 2015 17:46:02 GMT+0800 (CST)orderType：200----
+2015-11-21 17:45:36.584|[70]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5179 token：23E00ECDDE12F495A3E3B84FA846429C ----
+2015-11-21 17:45:37.099|[72]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Sat Nov 21 2015 17:46:03 GMT+0800 (CST)orderType：201----
+2015-11-21 17:45:37.726|[76]|DEBUG|Log.UserHandler|---开始调用获取赠送列表接口 用户：5179 date：2015/11/21 17:45:37 orderType：4----
+2015-11-21 17:45:45.040|[67]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Sat Nov 21 2015 17:46:11 GMT+0800 (CST)orderType：200----
+2015-11-21 17:45:45.791|[70]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5179 token：23E00ECDDE12F495A3E3B84FA846429C ----
+2015-11-21 17:45:46.385|[76]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Sat Nov 21 2015 17:46:12 GMT+0800 (CST)orderType：201----
+2015-11-21 17:45:47.631|[70]|DEBUG|Log.UserHandler|---开始调用获取赠送列表接口 用户：5179 date：2015/11/21 17:45:47 orderType：4----
+2015-11-21 17:46:30.143|[70]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-21 17:46:46.509|[76]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-21 17:47:50.552|[35]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-21 17:48:52.660|[76]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-21 17:48:55.910|[67]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-21 17:49:34.213|[73]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-21 17:49:34.404|[75]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-21 17:49:59.692|[76]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-21 17:50:15.226|[67]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-21 17:50:23.834|[75]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-21 17:50:24.720|[73]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-21 17:50:34.213|[70]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Sat Nov 21 2015 17:51:00 GMT+0800 (CST)orderType：200----
+2015-11-21 17:50:34.790|[62]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5179 token：23E00ECDDE12F495A3E3B84FA846429C ----
+2015-11-21 17:50:35.550|[75]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Sat Nov 21 2015 17:51:02 GMT+0800 (CST)orderType：201----
+2015-11-21 17:50:36.650|[73]|DEBUG|Log.UserHandler|---开始调用获取赠送列表接口 用户：5179 date：2015/11/21 17:50:36 orderType：4----
+2015-11-21 17:50:38.754|[67]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Sat Nov 21 2015 17:51:05 GMT+0800 (CST)orderType：201----
+2015-11-21 17:50:39.418|[35]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5179 token：23E00ECDDE12F495A3E3B84FA846429C ----
+2015-11-21 17:50:40.111|[70]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Sat Nov 21 2015 17:51:06 GMT+0800 (CST)orderType：200----
+2015-11-21 17:50:43.886|[75]|DEBUG|Log.UserHandler|---开始调用获取赠送列表接口 用户：5179 date：2015/11/21 17:50:43 orderType：4----
+2015-11-21 17:50:45.373|[76]|DEBUG|Log.UserHandler|---开始调用获取赠送列表接口 用户：5179 date：2015/11/21 17:50:45 orderType：4----
+2015-11-21 17:50:48.546|[62]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-21 17:51:21.863|[76]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-21 17:51:40.114|[75]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Sat Nov 21 2015 17:52:06 GMT+0800 (CST)orderType：200----
+2015-11-21 17:51:40.997|[73]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5179 token：23E00ECDDE12F495A3E3B84FA846429C ----
+2015-11-21 17:51:41.465|[67]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Sat Nov 21 2015 17:52:08 GMT+0800 (CST)orderType：201----
+2015-11-21 17:51:42.130|[62]|DEBUG|Log.UserHandler|---开始调用获取赠送列表接口 用户：5179 date：2015/11/21 17:51:42 orderType：4----
+2015-11-21 17:51:58.447|[75]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Sat Nov 21 2015 17:52:25 GMT+0800 (CST)orderType：200----
+2015-11-21 17:51:59.031|[76]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5179 token：23E00ECDDE12F495A3E3B84FA846429C ----
+2015-11-21 17:51:59.955|[67]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Sat Nov 21 2015 17:52:26 GMT+0800 (CST)orderType：201----
+2015-11-21 17:52:01.036|[62]|DEBUG|Log.UserHandler|---开始调用获取赠送列表接口 用户：5179 date：2015/11/21 17:52:01 orderType：4----
+2015-11-21 17:52:06.365|[73]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Sat Nov 21 2015 17:52:32 GMT+0800 (CST)orderType：200----
+2015-11-21 17:52:07.128|[62]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5179 token：23E00ECDDE12F495A3E3B84FA846429C ----
+2015-11-21 17:52:07.883|[75]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Sat Nov 21 2015 17:52:34 GMT+0800 (CST)orderType：201----
+2015-11-21 17:52:09.051|[76]|DEBUG|Log.UserHandler|---开始调用获取赠送列表接口 用户：5179 date：2015/11/21 17:52:09 orderType：4----
+2015-11-21 17:52:10.900|[67]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-21 17:52:11.275|[75]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-21 17:52:24.041|[62]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Sat Nov 21 2015 17:52:50 GMT+0800 (CST)orderType：200----
+2015-11-21 17:52:24.567|[67]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5179 token：23E00ECDDE12F495A3E3B84FA846429C ----
+2015-11-21 17:52:25.263|[75]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Sat Nov 21 2015 17:52:51 GMT+0800 (CST)orderType：201----
+2015-11-21 17:52:25.905|[76]|DEBUG|Log.UserHandler|---开始调用获取赠送列表接口 用户：5179 date：2015/11/21 17:52:25 orderType：4----
+2015-11-21 17:52:37.794|[75]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-21 17:52:49.383|[76]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-21 17:53:01.728|[62]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-21 17:53:51.047|[71]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-21 17:54:21.300|[62]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-21 17:54:33.880|[76]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-21 17:55:14.387|[62]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-21 17:55:52.327|[76]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-21 17:57:10.201|[76]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--

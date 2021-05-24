@@ -1,0 +1,5 @@
+2015-12-12 17:31:05.028|[7]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5253date：20151212orderType：200----
+2015-12-12 17:31:06.752|[8]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5253date：20151212orderType：201----
+2015-12-12 17:31:07.631|[8]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5253date：20151212orderType：200----
+2015-12-12 17:31:08.467|[8]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5253date：20151212orderType：200----
+2015-12-12 17:31:09.235|[7]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5253date：20151212orderType：201----

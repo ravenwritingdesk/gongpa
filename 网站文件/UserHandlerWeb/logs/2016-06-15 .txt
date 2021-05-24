@@ -1,0 +1,22 @@
+2016-06-15 11:41:47.692|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-06-15 13:19:27.803|[90]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-06-15 13:19:53.116|[92]|DEBUG|Log.UserHandler|数据调试 uid: 5717  userip: 1.207.45.194   usertoken:91E4221D6E883723E7049ECF3749CA30  url: http://www.8899qpw.com:8081/MobileRechargeCenter/Default.aspx?Platform=WindowsPlayer&UserID=5717&Token=91E4221D6E883723E7049ECF3749CA30
+2016-06-15 13:19:53.255|[92]|INFO |Log.UserHandler|-----------获得要充值的uid5717---------------
+2016-06-15 13:19:53.973|[92]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[asdasd1234] 用户ID：[5717]---------------
+2016-06-15 13:35:40.448|[104]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-06-15 13:35:44.504|[105]|DEBUG|Log.UserHandler|数据调试 uid: 5718  userip: 119.120.228.57   usertoken:1BFC739B4B8162A6A8AD3027FBB1BB60  url: http://www.8899qpw.com:8081/MobileRechargeCenter/Default.aspx?Platform=WindowsPlayer&UserID=5718&Token=1BFC739B4B8162A6A8AD3027FBB1BB60
+2016-06-15 13:35:44.508|[105]|INFO |Log.UserHandler|-----------获得要充值的uid5718---------------
+2016-06-15 13:35:44.534|[105]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[administrator] 用户ID：[5718]---------------
+2016-06-15 13:35:47.755|[104]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5718date：Wed Jun 15 2016 13:35:44 GMT+0800 (?D1ú±ê×?ê±??)orderType：200----
+2016-06-15 13:35:48.575|[118]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5718 token：1BFC739B4B8162A6A8AD3027FBB1BB60 ----
+2016-06-15 13:35:49.281|[100]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5718date：Wed Jun 15 2016 13:35:46 GMT+0800 (?D1ú±ê×?ê±??)orderType：201----
+2016-06-15 13:35:51.036|[105]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5718 token：1BFC739B4B8162A6A8AD3027FBB1BB60 ----
+2016-06-15 13:35:51.415|[104]|DEBUG|Log.UserHandler|---开始调用获取赠送列表接口 用户：5718 date：2016/6/15 13:35:51 orderType：4----
+2016-06-15 13:35:52.350|[119]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5718 token：1BFC739B4B8162A6A8AD3027FBB1BB60 ----
+2016-06-15 13:35:53.031|[114]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5718date：Wed Jun 15 2016 13:35:50 GMT+0800 (?D1ú±ê×?ê±??)orderType：200----
+2016-06-15 13:38:04.633|[120]|INFO |Log.UserHandler|用户【administrator】进行充值开始调用生成订单存储：生成单号【15edc4b1b2ff43be89b7c86d0c1b852b】充值金额【10】充值类型【ALIPAY】
+2016-06-15 13:38:10.863|[120]|INFO |Log.UserHandler|调用支付宝接口：单号【15edc4b1b2ff43be89b7c86d0c1b852b】充值金额【1000】，返回：result.resultCode：【4】result.resultMsg：【MISS_PARAM】
+2016-06-15 15:12:02.751|[30]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-06-15 15:13:14.448|[62]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-06-15 15:15:15.128|[61]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-06-15 15:18:35.750|[41]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--

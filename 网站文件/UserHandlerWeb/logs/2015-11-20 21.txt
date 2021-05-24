@@ -1,0 +1,15 @@
+2015-11-20 21:10:03.126|[7]|DEBUG|Log.UserHandler|platform：----
+2015-11-20 21:10:03.126|[7]|DEBUG|Log.UserHandler|isWeb：True----
+2015-11-20 21:10:03.362|[7]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-20 21:11:34.167|[5]|DEBUG|Log.UserHandler|platform：----
+2015-11-20 21:11:34.168|[5]|DEBUG|Log.UserHandler|isWeb：True----
+2015-11-20 21:11:34.169|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-20 21:23:54.936|[21]|DEBUG|Log.UserHandler|platform：----
+2015-11-20 21:23:54.936|[21]|DEBUG|Log.UserHandler|isWeb：True----
+2015-11-20 21:23:54.940|[21]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-20 21:24:35.045|[5]|DEBUG|Log.UserHandler|platform：----
+2015-11-20 21:24:35.045|[5]|DEBUG|Log.UserHandler|isWeb：True----
+2015-11-20 21:24:35.046|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-20 21:25:09.723|[30]|DEBUG|Log.UserHandler|platform：----
+2015-11-20 21:25:09.723|[30]|DEBUG|Log.UserHandler|isWeb：True----
+2015-11-20 21:25:09.724|[30]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--

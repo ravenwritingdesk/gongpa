@@ -1,0 +1,12 @@
+2015-12-14 16:08:56.045|[31]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-14 16:16:30.489|[35]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-14 16:17:41.632|[31]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5326 token：BACA591E81EB0F68BBAE9D1F6997856E ----
+2015-12-14 16:18:01.776|[35]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5326 充值金额：200,orderType:201,password:a12345678,token:BACA591E81EB0F68BBAE9D1F6997856E,isWeb:False----
+2015-12-14 16:18:01.801|[35]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5326 充值金额：200返回：银行余额不足!----
+2015-12-14 16:18:07.794|[35]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5326 token：BACA591E81EB0F68BBAE9D1F6997856E ----
+2015-12-14 16:18:52.254|[31]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5326 token：BACA591E81EB0F68BBAE9D1F6997856E ----
+2015-12-14 16:19:08.069|[31]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5326 充值金额：100,orderType:201,password:a12345678,token:BACA591E81EB0F68BBAE9D1F6997856E,isWeb:False----
+2015-12-14 16:19:08.079|[31]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5326 充值金额：100返回：订单提交成功!----
+2015-12-14 16:19:31.149|[35]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5326 token：BACA591E81EB0F68BBAE9D1F6997856E ----
+2015-12-14 16:19:53.045|[31]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5326date：Mon Dec 14 2015 16:19:51 GMT+0800 (CST)orderType：201----
+2015-12-14 16:20:31.399|[36]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--

@@ -1,0 +1,34 @@
+2015-11-19 17:45:28.182|[7]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-19 17:48:09.334|[8]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-19 17:48:26.412|[13]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-19 17:49:51.983|[8]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-19 17:50:08.368|[14]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5176 token：6970290C12F785BF8AA33EFB0ACE299D ----
+2015-11-19 17:50:32.178|[8]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5176 充值金额：100,201,123456,6970290C12F785BF8AA33EFB0ACE299D----
+2015-11-19 17:50:32.196|[8]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5176 充值金额：100返回：订单提交成功!----
+2015-11-19 17:50:34.418|[17]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5176 token：6970290C12F785BF8AA33EFB0ACE299D ----
+2015-11-19 17:50:36.163|[14]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5176date：Thu Nov 19 2015 17:51:01 GMT+0800 (CST)orderType：201----
+2015-11-19 17:50:38.328|[5]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5176 token：6970290C12F785BF8AA33EFB0ACE299D ----
+2015-11-19 17:50:53.130|[5]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5176date：Thu Nov 19 2015 17:51:18 GMT+0800 (CST)orderType：200----
+2015-11-19 17:50:53.690|[8]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5176 token：6970290C12F785BF8AA33EFB0ACE299D ----
+2015-11-19 17:50:56.833|[17]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5176date：Thu Nov 19 2015 17:51:21 GMT+0800 (CST)orderType：200----
+2015-11-19 17:50:57.306|[5]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5176 token：6970290C12F785BF8AA33EFB0ACE299D ----
+2015-11-19 17:50:57.753|[8]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5176date：Thu Nov 19 2015 17:51:22 GMT+0800 (CST)orderType：200----
+2015-11-19 17:50:58.708|[15]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5176date：Thu Nov 19 2015 17:51:23 GMT+0800 (CST)orderType：200----
+2015-11-19 17:50:59.142|[17]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5176 token：6970290C12F785BF8AA33EFB0ACE299D ----
+2015-11-19 17:50:59.814|[5]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5176date：Thu Nov 19 2015 17:51:24 GMT+0800 (CST)orderType：201----
+2015-11-19 17:51:00.621|[8]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5176 token：6970290C12F785BF8AA33EFB0ACE299D ----
+2015-11-19 17:51:01.171|[15]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5176date：Thu Nov 19 2015 17:51:26 GMT+0800 (CST)orderType：200----
+2015-11-19 17:51:01.927|[5]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5176date：Thu Nov 19 2015 17:51:26 GMT+0800 (CST)orderType：200----
+2015-11-19 17:51:02.547|[17]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5176 token：6970290C12F785BF8AA33EFB0ACE299D ----
+2015-11-19 17:51:03.040|[8]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5176date：Thu Nov 19 2015 17:51:27 GMT+0800 (CST)orderType：201----
+2015-11-19 17:51:03.473|[15]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5176 token：6970290C12F785BF8AA33EFB0ACE299D ----
+2015-11-19 17:51:03.830|[5]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5176date：Thu Nov 19 2015 17:51:28 GMT+0800 (CST)orderType：200----
+2015-11-19 17:51:04.701|[17]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5176date：Thu Nov 19 2015 17:51:29 GMT+0800 (CST)orderType：200----
+2015-11-19 17:51:05.689|[8]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5176date：Thu Nov 19 2015 17:51:30 GMT+0800 (CST)orderType：201----
+2015-11-19 17:51:06.047|[15]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5176 token：6970290C12F785BF8AA33EFB0ACE299D ----
+2015-11-19 17:51:06.503|[5]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5176date：Thu Nov 19 2015 17:51:31 GMT+0800 (CST)orderType：200----
+2015-11-19 17:51:15.048|[15]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5176date：Thu Nov 19 2015 17:51:39 GMT+0800 (CST)orderType：200----
+2015-11-19 17:51:15.693|[17]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5176 token：6970290C12F785BF8AA33EFB0ACE299D ----
+2015-11-19 17:51:16.276|[8]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5176date：Thu Nov 19 2015 17:51:41 GMT+0800 (CST)orderType：201----
+2015-11-19 17:51:17.729|[17]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5176 token：6970290C12F785BF8AA33EFB0ACE299D ----
+2015-11-19 17:51:18.234|[8]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5176date：Thu Nov 19 2015 17:51:43 GMT+0800 (CST)orderType：200----

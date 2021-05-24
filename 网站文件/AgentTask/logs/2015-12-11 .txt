@@ -1,0 +1,1154 @@
+2015-12-11 00:03:03.387|[94]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 00:03:03.407|[94]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 00:03:03.407|[94]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 00:03:03.407|[94]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 00:08:03.387|[32]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 00:08:03.387|[32]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 00:08:03.387|[32]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 00:08:03.387|[32]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 00:13:03.385|[69]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 00:13:03.385|[69]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 00:13:03.385|[69]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 00:13:03.385|[69]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 00:18:03.393|[25]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 00:18:03.393|[25]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 00:18:03.393|[25]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 00:18:03.393|[25]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 00:23:03.384|[82]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 00:23:03.384|[82]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 00:23:03.384|[82]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 00:23:03.384|[82]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 00:28:03.392|[61]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 00:28:03.392|[61]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 00:28:03.392|[61]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 00:28:03.392|[61]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 00:33:03.392|[42]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 00:33:03.392|[42]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 00:33:03.392|[42]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 00:33:03.392|[42]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 00:38:03.383|[75]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 00:38:03.383|[75]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 00:38:03.383|[75]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 00:38:03.383|[75]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 00:43:03.380|[46]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 00:43:03.380|[46]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 00:43:03.380|[46]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 00:43:03.380|[46]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 00:48:03.387|[12]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 00:48:03.387|[12]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 00:48:03.387|[12]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 00:48:03.387|[12]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 00:53:03.405|[91]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 00:53:03.406|[91]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 00:53:03.406|[91]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 00:53:03.406|[91]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 00:58:03.405|[77]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 00:58:03.406|[77]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 00:58:03.406|[77]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 00:58:03.406|[77]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 01:03:03.410|[85]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 01:03:03.410|[85]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 01:03:03.410|[85]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 01:03:03.410|[85]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 01:08:03.404|[42]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 01:08:03.404|[42]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 01:08:03.404|[42]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 01:08:03.404|[42]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 01:13:03.396|[41]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 01:13:03.396|[41]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 01:13:03.396|[41]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 01:13:03.396|[41]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 01:18:03.405|[81]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 01:18:03.405|[81]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 01:18:03.405|[81]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 01:18:03.405|[81]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 01:23:03.403|[49]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 01:23:03.404|[49]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 01:23:03.404|[49]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 01:23:03.404|[49]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 01:28:03.404|[84]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 01:28:03.405|[84]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 01:28:03.405|[84]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 01:28:03.405|[84]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 01:33:03.405|[67]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 01:33:03.407|[67]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 01:33:03.407|[67]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 01:33:03.407|[67]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 01:38:03.410|[16]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 01:38:03.411|[16]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 01:38:03.411|[16]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 01:38:03.411|[16]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 01:43:03.410|[88]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 01:43:03.410|[88]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 01:43:03.410|[88]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 01:43:03.410|[88]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 01:48:03.405|[22]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 01:48:03.405|[22]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 01:48:03.405|[22]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 01:48:03.405|[22]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 01:53:03.399|[46]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 01:53:03.399|[46]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 01:53:03.399|[46]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 01:53:03.399|[46]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 01:58:03.402|[57]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 01:58:03.402|[57]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 01:58:03.402|[57]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 01:58:03.402|[57]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 02:03:03.398|[27]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 02:03:03.398|[27]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 02:03:03.398|[27]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 02:03:03.398|[27]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 02:08:03.402|[34]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 02:08:03.402|[34]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 02:08:03.402|[34]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 02:08:03.402|[34]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 02:13:03.397|[3]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 02:13:03.397|[3]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 02:13:03.397|[3]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 02:13:03.397|[3]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 02:18:03.402|[54]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 02:18:03.402|[54]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 02:18:03.402|[54]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 02:18:03.402|[54]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 02:23:03.397|[12]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 02:23:03.397|[12]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 02:23:03.397|[12]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 02:23:03.397|[12]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 02:28:03.409|[26]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 02:28:03.409|[26]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 02:28:03.409|[26]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 02:28:03.409|[26]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 02:33:03.403|[56]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 02:33:03.404|[56]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 02:33:03.404|[56]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 02:33:03.404|[56]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 02:38:03.400|[43]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 02:38:03.400|[43]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 02:38:03.400|[43]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 02:38:03.400|[43]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 02:43:03.407|[93]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 02:43:03.407|[93]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 02:43:03.407|[93]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 02:43:03.407|[93]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 02:48:03.409|[32]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 02:48:03.409|[32]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 02:48:03.409|[32]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 02:48:03.409|[32]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 02:53:03.400|[78]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 02:53:03.400|[78]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 02:53:03.400|[78]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 02:53:03.400|[78]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 02:58:03.402|[28]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 02:58:03.402|[28]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 02:58:03.402|[28]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 02:58:03.402|[28]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 03:03:03.409|[10]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 03:03:03.409|[10]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 03:03:03.409|[10]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 03:03:03.409|[10]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 03:08:03.401|[57]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 03:08:03.401|[57]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 03:08:03.401|[57]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 03:08:03.401|[57]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 03:13:03.410|[78]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 03:13:03.410|[78]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 03:13:03.410|[78]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 03:13:03.410|[78]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 03:18:03.411|[60]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 03:18:03.411|[60]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 03:18:03.411|[60]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 03:18:03.411|[60]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 03:23:03.422|[33]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 03:23:03.422|[33]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 03:23:03.422|[33]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 03:23:03.422|[33]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 03:28:03.420|[59]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 03:28:03.420|[59]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 03:28:03.420|[59]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 03:28:03.420|[59]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 03:33:03.425|[61]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 03:33:03.425|[61]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 03:33:03.425|[61]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 03:33:03.425|[61]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 03:38:03.431|[83]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 03:38:03.431|[83]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 03:38:03.432|[83]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 03:38:03.432|[83]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 03:43:03.430|[69]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 03:43:03.430|[69]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 03:43:03.430|[69]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 03:43:03.430|[69]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 03:48:03.427|[32]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 03:48:03.427|[32]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 03:48:03.427|[32]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 03:48:03.427|[32]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 03:53:03.426|[8]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 03:53:03.426|[8]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 03:53:03.426|[8]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 03:53:03.426|[8]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 03:58:03.434|[52]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 03:58:03.434|[52]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 03:58:03.434|[52]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 03:58:03.434|[52]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 04:03:03.431|[97]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 04:03:03.431|[97]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 04:03:03.431|[97]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 04:03:03.431|[97]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 04:08:03.431|[13]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 04:08:03.431|[13]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 04:08:03.431|[13]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 04:08:03.431|[13]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 04:13:03.432|[27]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 04:13:03.432|[27]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 04:13:03.432|[27]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 04:13:03.432|[27]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 04:18:03.429|[43]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 04:18:03.429|[43]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 04:18:03.429|[43]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 04:18:03.429|[43]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 04:23:03.440|[48]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 04:23:03.440|[48]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 04:23:03.440|[48]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 04:23:03.440|[48]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 04:28:03.433|[8]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 04:28:03.433|[8]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 04:28:03.433|[8]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 04:28:03.433|[8]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 04:33:03.435|[70]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 04:33:03.435|[70]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 04:33:03.435|[70]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 04:33:03.435|[70]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 04:38:03.426|[92]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 04:38:03.426|[92]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 04:38:03.426|[92]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 04:38:03.426|[92]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 04:43:03.441|[49]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 04:43:03.441|[49]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 04:43:03.441|[49]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 04:43:03.441|[49]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 04:48:03.428|[24]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 04:48:03.428|[24]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 04:48:03.428|[24]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 04:48:03.428|[24]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 04:53:03.434|[44]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 04:53:03.434|[44]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 04:53:03.434|[44]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 04:53:03.434|[44]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 04:58:03.435|[29]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 04:58:03.435|[29]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 04:58:03.435|[29]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 04:58:03.435|[29]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 05:03:03.435|[8]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 05:03:03.435|[8]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 05:03:03.435|[8]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 05:03:03.435|[8]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 05:08:03.427|[50]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 05:08:03.427|[50]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 05:08:03.427|[50]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 05:08:03.427|[50]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 05:13:03.433|[31]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 05:13:03.433|[31]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 05:13:03.433|[31]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 05:13:03.433|[31]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 05:18:03.455|[68]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 05:18:03.456|[68]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 05:18:03.456|[68]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 05:18:03.456|[68]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 05:23:03.454|[91]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 05:23:03.454|[91]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 05:23:03.454|[91]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 05:23:03.454|[91]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 05:28:03.446|[32]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 05:28:03.446|[32]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 05:28:03.446|[32]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 05:28:03.446|[32]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 05:33:03.443|[36]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 05:33:03.444|[36]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 05:33:03.444|[36]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 05:33:03.444|[36]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 05:38:03.445|[28]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 05:38:03.445|[28]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 05:38:03.445|[28]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 05:38:03.445|[28]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 05:43:03.445|[74]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 05:43:03.446|[74]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 05:43:03.446|[74]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 05:43:03.446|[74]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 05:48:03.452|[24]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 05:48:03.453|[24]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 05:48:03.453|[24]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 05:48:03.453|[24]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 05:53:03.448|[63]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 05:53:03.448|[63]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 05:53:03.448|[63]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 05:53:03.448|[63]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 05:58:03.452|[54]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 05:58:03.453|[54]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 05:58:03.453|[54]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 05:58:03.453|[54]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 06:03:03.444|[23]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 06:03:03.446|[23]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 06:03:03.446|[23]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 06:03:03.446|[23]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 06:08:03.446|[34]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 06:08:03.446|[34]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 06:08:03.446|[34]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 06:08:03.446|[34]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 06:13:03.450|[98]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 06:13:03.450|[98]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 06:13:03.450|[98]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 06:13:03.450|[98]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 06:18:03.458|[62]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 06:18:03.458|[62]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 06:18:03.458|[62]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 06:18:03.458|[62]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 06:23:03.467|[5]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 06:23:03.468|[5]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 06:23:03.468|[5]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 06:23:03.468|[5]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 06:28:03.462|[17]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 06:28:03.462|[17]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 06:28:03.462|[17]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 06:28:03.462|[17]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 06:33:03.468|[18]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 06:33:03.468|[18]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 06:33:03.468|[18]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 06:33:03.468|[18]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 06:38:03.463|[35]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 06:38:03.463|[35]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 06:38:03.463|[35]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 06:38:03.463|[35]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 06:43:03.469|[15]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 06:43:03.469|[15]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 06:43:03.469|[15]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 06:43:03.469|[15]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 06:48:03.459|[53]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 06:48:03.459|[53]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 06:48:03.459|[53]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 06:48:03.459|[53]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 06:53:03.469|[58]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 06:53:03.469|[58]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 06:53:03.469|[58]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 06:53:03.469|[58]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 06:58:03.473|[44]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 06:58:03.473|[44]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 06:58:03.473|[44]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 06:58:03.473|[44]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 07:03:03.481|[11]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 07:03:03.482|[11]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 07:03:03.482|[11]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 07:03:03.482|[11]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 07:08:03.475|[23]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 07:08:03.475|[23]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 07:08:03.475|[23]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 07:08:03.475|[23]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 07:13:03.477|[8]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 07:13:03.477|[8]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 07:13:03.477|[8]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 07:13:03.477|[8]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 07:18:03.476|[28]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 07:18:03.476|[28]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 07:18:03.476|[28]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 07:18:03.476|[28]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 07:23:03.485|[77]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 07:23:03.485|[77]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 07:23:03.485|[77]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 07:23:03.485|[77]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 07:28:03.479|[71]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 07:28:03.479|[71]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 07:28:03.479|[71]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 07:28:03.479|[71]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 07:33:03.484|[31]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 07:33:03.484|[31]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 07:33:03.484|[31]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 07:33:03.484|[31]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 07:38:03.476|[74]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 07:38:03.476|[74]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 07:38:03.476|[74]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 07:38:03.476|[74]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 07:43:03.485|[32]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 07:43:03.485|[32]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 07:43:03.485|[32]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 07:43:03.485|[32]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 07:48:03.488|[36]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 07:48:03.488|[36]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 07:48:03.488|[36]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 07:48:03.488|[36]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 07:53:03.489|[13]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 07:53:03.489|[13]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 07:53:03.489|[13]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 07:53:03.489|[13]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 07:58:03.501|[77]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 07:58:03.501|[77]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 07:58:03.501|[77]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 07:58:03.501|[77]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 08:03:03.494|[42]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 08:03:03.494|[42]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 08:03:03.494|[42]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 08:03:03.494|[42]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 08:08:03.500|[60]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 08:08:03.500|[60]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 08:08:03.500|[60]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 08:08:03.500|[60]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 08:13:03.498|[38]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 08:13:03.498|[38]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 08:13:03.498|[38]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 08:13:03.498|[38]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 08:18:03.499|[62]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 08:18:03.499|[62]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 08:18:03.499|[62]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 08:18:03.499|[62]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 08:23:03.494|[24]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 08:23:03.495|[24]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 08:23:03.495|[24]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 08:23:03.495|[24]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 08:28:03.499|[11]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 08:28:03.499|[11]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 08:28:03.499|[11]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 08:28:03.499|[11]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 08:33:03.491|[8]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 08:33:03.491|[8]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 08:33:03.491|[8]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 08:33:03.491|[8]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 08:38:03.502|[88]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 08:38:03.502|[88]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 08:38:03.502|[88]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 08:38:03.502|[88]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 08:43:03.494|[51]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 08:43:03.494|[51]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 08:43:03.494|[51]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 08:43:03.494|[51]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 08:48:03.493|[76]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 08:48:03.493|[76]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 08:48:03.493|[76]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 08:48:03.493|[76]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 08:53:03.500|[28]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 08:53:03.500|[28]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 08:53:03.500|[28]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 08:53:03.500|[28]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 08:58:03.500|[24]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 08:58:03.500|[24]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 08:58:03.500|[24]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 08:58:03.500|[24]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 09:03:03.502|[97]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 09:03:03.502|[97]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 09:03:03.502|[97]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 09:03:03.502|[97]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 09:08:03.493|[91]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 09:08:03.494|[91]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 09:08:03.494|[91]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 09:08:03.494|[91]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 09:13:03.490|[70]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 09:13:03.491|[70]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 09:13:03.491|[70]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 09:13:03.491|[70]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 09:18:03.491|[34]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 09:18:03.492|[34]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 09:18:03.492|[34]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 09:18:03.492|[34]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 09:23:03.500|[50]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 09:23:03.501|[50]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 09:23:03.501|[50]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 09:23:03.501|[50]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 09:28:03.499|[47]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 09:28:03.500|[47]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 09:28:03.500|[47]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 09:28:03.500|[47]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 09:33:03.493|[85]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 09:33:03.493|[85]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 09:33:03.493|[85]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 09:33:03.493|[85]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 09:38:03.502|[95]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 09:38:03.502|[95]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 09:38:03.502|[95]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 09:38:03.502|[95]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 09:43:03.501|[72]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 09:43:03.501|[72]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 09:43:03.501|[72]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 09:43:03.501|[72]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 09:48:03.502|[89]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 09:48:03.502|[89]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 09:48:03.502|[89]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 09:48:03.502|[89]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 09:53:03.497|[28]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 09:53:03.497|[28]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 09:53:03.497|[28]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 09:53:03.497|[28]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 09:58:03.491|[39]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 09:58:03.491|[39]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 09:58:03.491|[39]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 09:58:03.491|[39]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 10:03:03.495|[45]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 10:03:03.496|[45]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 10:03:03.496|[45]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 10:03:03.497|[45]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 10:08:03.492|[38]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 10:08:03.493|[38]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 10:08:03.493|[38]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 10:08:03.493|[38]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 10:13:03.496|[30]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 10:13:03.497|[30]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 10:13:03.497|[30]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 10:13:03.497|[30]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 10:18:03.491|[95]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 10:18:03.491|[95]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 10:18:03.491|[95]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 10:18:03.491|[95]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 10:23:03.500|[101]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 10:23:03.500|[101]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 10:23:03.500|[101]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 10:23:03.500|[101]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 10:28:03.500|[97]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 10:28:03.501|[97]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 10:28:03.501|[97]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 10:28:03.501|[97]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 10:33:03.503|[55]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 10:33:03.503|[55]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 10:33:03.503|[55]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 10:33:03.503|[55]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 10:38:03.501|[28]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 10:38:03.501|[28]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 10:38:03.501|[28]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 10:38:03.501|[28]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 10:43:03.499|[88]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 10:43:03.500|[88]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 10:43:03.500|[88]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 10:43:03.500|[88]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 10:48:03.490|[100]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 10:48:03.491|[100]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 10:48:03.491|[100]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 10:48:03.491|[100]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 10:53:03.494|[82]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 10:53:03.495|[82]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 10:53:03.495|[82]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 10:53:03.495|[82]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 10:58:03.504|[71]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 10:58:03.505|[71]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 10:58:03.505|[71]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 10:58:03.505|[71]|INFO |Log.TaskService|开始执行统计每日报表
+2015-12-11 10:58:03.540|[71]|INFO |Log.TaskService|执行统计每日报表时间：2015-12-11 10:58:03
+2015-12-11 10:58:03.540|[71]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 11:03:03.508|[39]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 11:03:03.509|[39]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 11:03:03.509|[39]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 11:08:03.510|[21]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 11:08:03.511|[21]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 11:08:03.511|[21]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 11:08:03.511|[21]|INFO |Log.TaskService|开始执行统计每日报表
+2015-12-11 11:08:03.544|[21]|INFO |Log.TaskService|执行统计每日报表时间：2015-12-11 11:08:03
+2015-12-11 11:08:03.544|[21]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 11:13:03.511|[53]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 11:13:03.512|[53]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 11:13:03.512|[53]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 11:18:03.505|[51]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 11:18:03.505|[51]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 11:18:03.505|[51]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 11:18:03.505|[51]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 11:23:03.516|[14]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 11:23:03.517|[14]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 11:23:03.517|[14]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 11:23:03.517|[14]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 11:28:03.514|[43]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 11:28:03.516|[43]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 11:28:03.516|[43]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 11:28:03.516|[43]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 11:33:03.510|[18]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 11:33:03.511|[18]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 11:33:03.511|[18]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 11:33:03.511|[18]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 11:38:03.512|[77]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 11:38:03.513|[77]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 11:38:03.513|[77]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 11:38:03.513|[77]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 11:43:03.513|[84]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 11:43:03.514|[84]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 11:43:03.514|[84]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 11:43:03.514|[84]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 11:48:03.518|[36]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 11:48:03.519|[36]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 11:48:03.519|[36]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 11:48:03.519|[36]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 11:53:03.512|[93]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 11:53:03.513|[93]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 11:53:03.513|[93]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 11:53:03.513|[93]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 11:58:03.514|[51]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 11:58:03.515|[51]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 11:58:03.515|[51]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 11:58:03.515|[51]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 12:03:03.518|[12]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 12:03:03.519|[12]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 12:03:03.519|[12]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 12:03:03.519|[12]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 12:08:03.505|[13]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 12:08:03.506|[13]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 12:08:03.506|[13]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 12:08:03.506|[13]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 12:13:03.506|[92]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 12:13:03.507|[92]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 12:13:03.507|[92]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 12:13:03.507|[92]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 12:18:03.511|[52]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 12:18:03.512|[52]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 12:18:03.512|[52]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 12:18:03.512|[52]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 12:23:03.509|[42]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 12:23:03.509|[42]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 12:23:03.509|[42]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 12:23:03.509|[42]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 12:28:03.519|[85]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 12:28:03.520|[85]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 12:28:03.520|[85]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 12:28:03.520|[85]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 12:33:03.516|[5]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 12:33:03.517|[5]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 12:33:03.517|[5]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 12:33:03.517|[5]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 12:38:03.513|[34]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 12:38:03.514|[34]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 12:38:03.514|[34]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 12:38:03.514|[34]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 12:43:03.518|[77]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 12:43:03.519|[77]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 12:43:03.519|[77]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 12:43:03.519|[77]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 12:48:03.510|[31]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 12:48:03.510|[31]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 12:48:03.510|[31]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 12:48:03.510|[31]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 12:53:03.510|[43]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 12:53:03.512|[43]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 12:53:03.512|[43]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 12:53:03.512|[43]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 12:58:03.511|[56]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 12:58:03.512|[56]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 12:58:03.512|[56]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 12:58:03.512|[56]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 13:03:03.515|[32]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 13:03:03.517|[32]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 13:03:03.517|[32]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 13:03:03.517|[32]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 13:08:03.520|[40]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 13:08:03.520|[40]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 13:08:03.520|[40]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 13:08:03.520|[40]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 13:13:03.531|[72]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 13:13:03.531|[72]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 13:13:03.531|[72]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 13:13:03.531|[72]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 13:18:03.521|[58]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 13:18:03.523|[58]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 13:18:03.523|[58]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 13:18:03.523|[58]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 13:23:03.526|[73]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 13:23:03.527|[73]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 13:23:03.527|[73]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 13:23:03.527|[73]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 13:28:03.531|[63]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 13:28:03.531|[63]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 13:28:03.531|[63]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 13:28:03.531|[63]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 13:33:03.523|[42]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 13:33:03.523|[42]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 13:33:03.523|[42]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 13:33:03.523|[42]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 13:38:03.534|[94]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 13:38:03.535|[94]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 13:38:03.535|[94]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 13:38:03.535|[94]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 13:43:03.532|[81]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 13:43:03.533|[81]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 13:43:03.533|[81]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 13:43:03.533|[81]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 13:48:03.529|[73]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 13:48:03.529|[73]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 13:48:03.529|[73]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 13:48:03.529|[73]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 13:53:03.530|[31]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 13:53:03.531|[31]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 13:53:03.531|[31]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 13:53:03.531|[31]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 13:58:03.525|[78]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 13:58:03.526|[78]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 13:58:03.526|[78]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 13:58:03.526|[78]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 14:03:03.531|[15]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 14:03:03.532|[15]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 14:03:03.532|[15]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 14:03:03.532|[15]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 14:08:03.525|[85]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 14:08:03.526|[85]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 14:08:03.526|[85]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 14:08:03.526|[85]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 14:13:03.525|[14]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 14:13:03.527|[14]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 14:13:03.528|[14]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 14:13:03.528|[14]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 14:18:03.521|[69]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 14:18:03.523|[69]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 14:18:03.523|[69]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 14:18:03.523|[69]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 14:23:03.526|[63]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 14:23:03.527|[63]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 14:23:03.527|[63]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 14:23:03.527|[63]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 14:28:03.529|[38]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 14:28:03.530|[38]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 14:28:03.530|[38]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 14:28:03.530|[38]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 14:33:03.535|[24]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 14:33:03.536|[24]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 14:33:03.536|[24]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 14:33:03.536|[24]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 14:38:03.531|[61]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 14:38:03.533|[61]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 14:38:03.533|[61]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 14:38:03.533|[61]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 14:43:03.536|[44]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 14:43:03.537|[44]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 14:43:03.537|[44]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 14:43:03.538|[44]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 14:48:03.541|[68]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 14:48:03.541|[68]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 14:48:03.541|[68]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 14:48:03.541|[68]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 14:53:03.548|[98]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 14:53:03.549|[98]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 14:53:03.549|[98]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 14:53:03.549|[98]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 14:58:03.544|[69]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 14:58:03.545|[69]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 14:58:03.545|[69]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 14:58:03.545|[69]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 15:03:03.541|[37]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 15:03:03.541|[37]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 15:03:03.541|[37]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 15:03:03.541|[37]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 15:08:03.541|[83]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 15:08:03.542|[83]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 15:08:03.542|[83]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 15:08:03.542|[83]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 15:13:03.546|[66]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 15:13:03.547|[66]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 15:13:03.547|[66]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 15:13:03.547|[66]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 15:18:03.548|[36]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 15:18:03.550|[36]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 15:18:03.550|[36]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 15:18:03.550|[36]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 15:23:03.539|[70]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 15:23:03.541|[70]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 15:23:03.541|[70]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 15:23:03.541|[70]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 15:28:03.540|[95]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 15:28:03.543|[95]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 15:28:03.543|[95]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 15:28:03.543|[95]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 15:33:03.542|[21]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 15:33:03.554|[21]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 15:33:03.554|[21]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 15:33:03.554|[21]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 15:38:03.545|[54]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 15:38:03.548|[54]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 15:38:03.549|[54]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 15:38:03.549|[54]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 15:43:03.540|[16]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 15:43:03.546|[16]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 15:43:03.546|[16]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 15:43:03.546|[16]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 15:48:03.555|[50]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 15:48:03.556|[50]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 15:48:03.556|[50]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 15:48:03.556|[50]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 15:53:03.556|[19]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 15:53:03.558|[19]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 15:53:03.558|[19]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 15:53:03.558|[19]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 15:58:03.562|[11]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 15:58:03.563|[11]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 15:58:03.563|[11]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 15:58:03.563|[11]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 16:03:03.566|[40]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 16:03:03.574|[40]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 16:03:03.574|[40]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 16:03:03.574|[40]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 16:08:03.554|[93]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 16:08:03.557|[93]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 16:08:03.557|[93]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 16:08:03.557|[93]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 16:13:03.558|[29]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 16:13:03.560|[29]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 16:13:03.560|[29]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 16:13:03.560|[29]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 16:18:03.568|[60]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 16:18:03.572|[60]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 16:18:03.572|[60]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 16:18:03.572|[60]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 16:23:03.563|[100]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 16:23:03.564|[100]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 16:23:03.565|[100]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 16:23:03.565|[100]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 16:28:03.569|[15]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 16:28:03.570|[15]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 16:28:03.571|[15]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 16:28:03.571|[15]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 16:33:03.584|[5]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 16:33:03.586|[5]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 16:33:03.586|[5]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 16:33:03.586|[5]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 16:38:03.595|[64]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 16:38:03.597|[64]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 16:38:03.597|[64]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 16:38:03.598|[64]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 16:43:03.600|[58]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 16:43:03.603|[58]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 16:43:03.603|[58]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 16:43:03.603|[58]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 16:48:03.602|[57]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 16:48:03.603|[57]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 16:48:03.603|[57]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 16:48:03.603|[57]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 16:53:03.613|[89]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 16:53:03.614|[89]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 16:53:03.614|[89]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 16:53:03.614|[89]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 16:58:03.603|[36]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 16:58:03.614|[36]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 16:58:03.614|[36]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 16:58:03.614|[36]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 17:03:03.605|[29]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 17:03:03.614|[29]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 17:03:03.614|[29]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 17:03:03.614|[29]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 17:08:03.639|[70]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 17:08:03.641|[70]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 17:08:03.641|[70]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 17:08:03.642|[70]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 17:13:03.639|[48]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 17:13:03.641|[48]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 17:13:03.641|[48]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 17:13:03.641|[48]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 17:18:03.631|[98]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 17:18:03.633|[98]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 17:18:03.633|[98]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 17:18:03.633|[98]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 17:23:03.634|[48]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 17:23:03.635|[48]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 17:23:03.635|[48]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 17:23:03.635|[48]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 17:28:03.642|[55]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 17:28:03.642|[55]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 17:28:03.642|[55]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 17:28:03.642|[55]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 17:33:03.642|[62]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 17:33:03.643|[62]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 17:33:03.643|[62]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 17:33:03.643|[62]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 17:38:03.640|[37]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 17:38:03.641|[37]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 17:38:03.641|[37]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 17:38:03.641|[37]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 17:43:03.643|[37]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 17:43:03.644|[37]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 17:43:03.644|[37]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 17:43:03.644|[37]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 17:48:03.640|[52]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 17:48:03.641|[52]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 17:48:03.641|[52]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 17:48:03.641|[52]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 17:53:03.633|[42]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 17:53:03.634|[42]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 17:53:03.634|[42]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 17:53:03.634|[42]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 17:58:03.632|[35]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 17:58:03.634|[35]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 17:58:03.634|[35]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 17:58:03.634|[35]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 18:03:03.634|[75]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 18:03:03.635|[75]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 18:03:03.635|[75]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 18:03:03.635|[75]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 18:08:03.633|[92]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 18:08:03.634|[92]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 18:08:03.634|[92]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 18:08:03.634|[92]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 18:13:03.644|[11]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 18:13:03.645|[11]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 18:13:03.645|[11]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 18:13:03.645|[11]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 18:18:03.662|[72]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 18:18:03.663|[72]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 18:18:03.663|[72]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 18:18:03.663|[72]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 18:23:03.672|[67]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 18:23:03.673|[67]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 18:23:03.673|[67]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 18:23:03.673|[67]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 18:28:03.673|[67]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 18:28:03.674|[67]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 18:28:03.674|[67]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 18:28:03.674|[67]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 18:33:03.666|[83]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 18:33:03.667|[83]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 18:33:03.667|[83]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 18:33:03.667|[83]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 18:38:03.666|[83]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 18:38:03.667|[83]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 18:38:03.667|[83]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 18:38:03.667|[83]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 18:43:03.662|[57]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 18:43:03.663|[57]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 18:43:03.663|[57]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 18:43:03.663|[57]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 18:48:03.663|[18]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 18:48:03.665|[18]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 18:48:03.665|[18]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 18:48:03.665|[18]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 18:53:03.665|[34]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 18:53:03.666|[34]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 18:53:03.666|[34]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 18:53:03.666|[34]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 18:58:03.673|[36]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 18:58:03.674|[36]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 18:58:03.674|[36]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 18:58:03.674|[36]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 19:03:03.675|[60]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 19:03:03.676|[60]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 19:03:03.676|[60]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 19:03:03.676|[60]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 19:08:03.670|[42]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 19:08:03.671|[42]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 19:08:03.671|[42]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 19:08:03.671|[42]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 19:13:03.666|[20]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 19:13:03.667|[20]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 19:13:03.667|[20]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 19:13:03.667|[20]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 19:18:03.675|[55]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 19:18:03.676|[55]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 19:18:03.676|[55]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 19:18:03.676|[55]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 19:23:03.675|[26]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 19:23:03.676|[26]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 19:23:03.676|[26]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 19:23:03.676|[26]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 19:28:03.674|[10]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 19:28:03.675|[10]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 19:28:03.675|[10]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 19:28:03.675|[10]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 19:33:03.673|[46]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 19:33:03.674|[46]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 19:33:03.674|[46]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 19:33:03.674|[46]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 19:38:03.674|[56]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 19:38:03.675|[56]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 19:38:03.675|[56]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 19:38:03.675|[56]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 19:43:03.669|[82]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 19:43:03.670|[82]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 19:43:03.670|[82]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 19:43:03.670|[82]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 19:48:03.670|[74]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 19:48:03.671|[74]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 19:48:03.671|[74]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 19:48:03.671|[74]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 19:53:03.673|[95]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 19:53:03.674|[95]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 19:53:03.674|[95]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 19:53:03.674|[95]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 19:58:03.666|[101]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 19:58:03.667|[101]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 19:58:03.667|[101]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 19:58:03.667|[101]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 20:03:03.680|[60]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 20:03:03.681|[60]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 20:03:03.681|[60]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 20:03:03.681|[60]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 20:08:03.688|[35]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 20:08:03.689|[35]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 20:08:03.689|[35]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 20:08:03.689|[35]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 20:13:03.684|[65]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 20:13:03.685|[65]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 20:13:03.685|[65]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 20:13:03.685|[65]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 20:18:03.682|[12]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 20:18:03.683|[12]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 20:18:03.683|[12]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 20:18:03.683|[12]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 20:23:03.685|[63]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 20:23:03.686|[63]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 20:23:03.686|[63]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 20:23:03.686|[63]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 20:28:03.676|[86]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 20:28:03.677|[86]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 20:28:03.677|[86]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 20:28:03.677|[86]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 20:33:03.688|[86]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 20:33:03.689|[86]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 20:33:03.689|[86]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 20:33:03.689|[86]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 20:38:03.687|[97]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 20:38:03.688|[97]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 20:38:03.688|[97]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 20:38:03.688|[97]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 20:43:03.682|[13]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 20:43:03.683|[13]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 20:43:03.683|[13]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 20:43:03.683|[13]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 20:48:03.684|[52]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 20:48:03.685|[52]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 20:48:03.685|[52]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 20:48:03.685|[52]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 20:53:03.689|[87]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 20:53:03.690|[87]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 20:53:03.690|[87]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 20:53:03.690|[87]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 20:58:03.677|[65]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 20:58:03.678|[65]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 20:58:03.678|[65]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 20:58:03.678|[65]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 21:03:03.689|[65]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 21:03:03.690|[65]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 21:03:03.691|[65]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 21:03:03.691|[65]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 21:08:03.682|[29]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 21:08:03.683|[29]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 21:08:03.683|[29]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 21:08:03.683|[29]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 21:13:03.680|[3]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 21:13:03.681|[3]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 21:13:03.681|[3]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 21:13:03.681|[3]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 21:18:03.684|[10]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 21:18:03.686|[10]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 21:18:03.686|[10]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 21:18:03.686|[10]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 21:23:03.689|[3]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 21:23:03.690|[3]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 21:23:03.690|[3]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 21:23:03.690|[3]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 21:28:03.687|[73]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 21:28:03.688|[73]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 21:28:03.688|[73]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 21:28:03.688|[73]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 21:33:03.680|[62]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 21:33:03.681|[62]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 21:33:03.681|[62]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 21:33:03.681|[62]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 21:38:03.691|[15]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 21:38:03.692|[15]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 21:38:03.692|[15]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 21:38:03.692|[15]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 21:43:03.679|[49]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 21:43:03.680|[49]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 21:43:03.680|[49]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 21:43:03.680|[49]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 21:48:03.681|[30]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 21:48:03.682|[30]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 21:48:03.682|[30]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 21:48:03.682|[30]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 21:53:03.682|[101]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 21:53:03.683|[101]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 21:53:03.683|[101]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 21:53:03.683|[101]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 21:58:03.685|[45]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 21:58:03.686|[45]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 21:58:03.686|[45]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 21:58:03.686|[45]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 22:03:03.683|[35]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 22:03:03.684|[35]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 22:03:03.684|[35]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 22:03:03.684|[35]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 22:08:03.688|[38]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 22:08:03.690|[38]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 22:08:03.690|[38]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 22:08:03.690|[38]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 22:13:03.681|[18]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 22:13:03.683|[18]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 22:13:03.683|[18]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 22:13:03.683|[18]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 22:18:03.678|[52]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 22:18:03.679|[52]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 22:18:03.679|[52]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 22:18:03.679|[52]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 22:23:03.677|[66]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 22:23:03.678|[66]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 22:23:03.678|[66]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 22:23:03.678|[66]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 22:28:03.683|[25]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 22:28:03.684|[25]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 22:28:03.684|[25]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 22:28:03.684|[25]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 22:33:03.677|[49]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 22:33:03.678|[49]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 22:33:03.678|[49]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 22:33:03.678|[49]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 22:38:03.688|[19]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 22:38:03.690|[19]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 22:38:03.690|[19]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 22:38:03.690|[19]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 22:43:03.682|[77]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 22:43:03.683|[77]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 22:43:03.683|[77]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 22:43:03.683|[77]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 22:48:03.677|[26]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 22:48:03.678|[26]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 22:48:03.678|[26]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 22:48:03.678|[26]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 22:53:03.690|[57]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 22:53:03.691|[57]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 22:53:03.691|[57]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 22:53:03.691|[57]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 22:58:03.683|[34]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 22:58:03.684|[34]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 22:58:03.684|[34]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 22:58:03.685|[34]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 23:03:03.682|[36]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 23:03:03.683|[36]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 23:03:03.683|[36]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 23:03:03.683|[36]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 23:08:03.677|[32]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 23:08:03.678|[32]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 23:08:03.678|[32]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 23:08:03.678|[32]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 23:13:03.687|[80]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 23:13:03.688|[80]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 23:13:03.688|[80]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 23:13:03.688|[80]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 23:18:03.681|[80]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 23:18:03.682|[80]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 23:18:03.682|[80]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 23:18:03.682|[80]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 23:23:03.689|[49]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 23:23:03.690|[49]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 23:23:03.690|[49]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 23:23:03.690|[49]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 23:28:03.689|[20]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 23:28:03.690|[20]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 23:28:03.690|[20]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 23:28:03.690|[20]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 23:33:03.688|[69]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 23:33:03.689|[69]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 23:33:03.689|[69]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 23:33:03.689|[69]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 23:38:03.676|[75]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 23:38:03.677|[75]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 23:38:03.677|[75]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 23:38:03.677|[75]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 23:43:03.678|[24]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 23:43:03.679|[24]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 23:43:03.679|[24]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 23:43:03.679|[24]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 23:48:03.679|[57]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 23:48:03.680|[57]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 23:48:03.680|[57]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 23:48:03.680|[57]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 23:53:03.685|[79]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 23:53:03.686|[79]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 23:53:03.686|[79]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 23:53:03.686|[79]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1
+2015-12-11 23:58:03.690|[10]|INFO |Log.TaskService|ReadXMLFile Start
+2015-12-11 23:58:03.691|[10]|DEBUG|Log.TaskService|读取到计划名统计每日报表，PlanType【0】,时间类型0，是否有效1
+2015-12-11 23:58:03.691|[10]|INFO |Log.TaskService|获得执行计划的日期为：2015-12-11 11:5 
+2015-12-11 23:58:03.691|[10]|DEBUG|Log.TaskService|读取到计划名发放红利，PlanType【1】,时间类型1，是否有效1

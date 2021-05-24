@@ -1,0 +1,77 @@
+2015-11-20 16:00:11.481|[29]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-20 16:05:51.990|[39]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-20 16:05:52.199|[35]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5177 充值金额：111,200,,6031CF6B36B323E1BBC07E2E3C006F87----
+2015-11-20 16:05:52.253|[35]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5177 充值金额：111返回：订单提交成功!----
+2015-11-20 16:05:57.784|[35]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Fri Nov 20 2015 16:06:23 GMT+0800 (CST)orderType：200----
+2015-11-20 16:05:58.378|[31]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5179 token：23E00ECDDE12F495A3E3B84FA846429C ----
+2015-11-20 16:05:58.734|[36]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Fri Nov 20 2015 16:06:24 GMT+0800 (CST)orderType：201----
+2015-11-20 16:05:59.371|[35]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5179 token：23E00ECDDE12F495A3E3B84FA846429C ----
+2015-11-20 16:05:59.896|[29]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Fri Nov 20 2015 16:06:25 GMT+0800 (CST)orderType：200----
+2015-11-20 16:06:01.727|[31]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Fri Nov 20 2015 16:06:27 GMT+0800 (CST)orderType：200----
+2015-11-20 16:06:20.498|[35]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Fri Nov 20 2015 16:06:46 GMT+0800 (CST)orderType：200----
+2015-11-20 16:06:20.759|[29]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5179 token：23E00ECDDE12F495A3E3B84FA846429C ----
+2015-11-20 16:06:21.354|[36]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Fri Nov 20 2015 16:06:47 GMT+0800 (CST)orderType：201----
+2015-11-20 16:06:22.052|[29]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5179 token：23E00ECDDE12F495A3E3B84FA846429C ----
+2015-11-20 16:06:23.157|[31]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Fri Nov 20 2015 16:06:49 GMT+0800 (CST)orderType：200----
+2015-11-20 16:06:23.874|[36]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5179 token：23E00ECDDE12F495A3E3B84FA846429C ----
+2015-11-20 16:06:26.321|[35]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Fri Nov 20 2015 16:06:52 GMT+0800 (CST)orderType：201----
+2015-11-20 16:06:26.953|[31]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Fri Nov 20 2015 16:06:52 GMT+0800 (CST)orderType：200----
+2015-11-20 16:06:28.083|[36]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5179 token：23E00ECDDE12F495A3E3B84FA846429C ----
+2015-11-20 16:06:28.260|[29]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Fri Nov 20 2015 16:06:54 GMT+0800 (CST)orderType：201----
+2015-11-20 16:06:28.889|[31]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5179 token：23E00ECDDE12F495A3E3B84FA846429C ----
+2015-11-20 16:06:29.139|[36]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Fri Nov 20 2015 16:06:55 GMT+0800 (CST)orderType：200----
+2015-11-20 16:06:35.586|[31]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5179 token：23E00ECDDE12F495A3E3B84FA846429C ----
+2015-11-20 16:06:36.196|[36]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Fri Nov 20 2015 16:07:02 GMT+0800 (CST)orderType：201----
+2015-11-20 16:06:36.743|[29]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Fri Nov 20 2015 16:07:02 GMT+0800 (CST)orderType：200----
+2015-11-20 16:06:36.981|[31]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5179 token：23E00ECDDE12F495A3E3B84FA846429C ----
+2015-11-20 16:06:37.668|[36]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Fri Nov 20 2015 16:07:03 GMT+0800 (CST)orderType：200----
+2015-11-20 16:06:38.083|[35]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5179 token：23E00ECDDE12F495A3E3B84FA846429C ----
+2015-11-20 16:06:38.620|[29]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Fri Nov 20 2015 16:07:04 GMT+0800 (CST)orderType：201----
+2015-11-20 16:06:39.184|[31]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5179 token：23E00ECDDE12F495A3E3B84FA846429C ----
+2015-11-20 16:06:39.482|[35]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5177date：20151120orderType：201----
+2015-11-20 16:06:39.571|[29]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Fri Nov 20 2015 16:07:05 GMT+0800 (CST)orderType：200----
+2015-11-20 16:06:49.258|[29]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5177 充值金额：100,201,e10adc3949ba59abbe56e057f20f883e,6031CF6B36B323E1BBC07E2E3C006F87----
+2015-11-20 16:06:49.260|[29]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5177 充值金额：100返回：交易密码错误!----
+2015-11-20 16:06:55.429|[36]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5177 充值金额：100,201,670b14728ad9902aecba32e22fa4f6bd,6031CF6B36B323E1BBC07E2E3C006F87----
+2015-11-20 16:06:55.430|[36]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5177 充值金额：100返回：交易密码错误!----
+2015-11-20 16:06:57.257|[29]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-20 16:07:26.362|[30]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-20 16:07:38.945|[29]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5177date：20151120orderType：200----
+2015-11-20 16:08:00.916|[35]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-20 16:08:12.854|[30]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5177 充值金额：100,201,e10adc3949ba59abbe56e057f20f883e,6031CF6B36B323E1BBC07E2E3C006F87----
+2015-11-20 16:08:12.855|[30]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5177 充值金额：100返回：交易密码错误!----
+2015-11-20 16:08:24.721|[31]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5177date：20151120orderType：200----
+2015-11-20 16:08:32.107|[30]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5179 token：23E00ECDDE12F495A3E3B84FA846429C ----
+2015-11-20 16:08:57.560|[31]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5177 充值金额：100,201,e10adc3949ba59abbe56e057f20f883e,6031CF6B36B323E1BBC07E2E3C006F87----
+2015-11-20 16:08:57.561|[31]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5177 充值金额：100返回：交易密码错误!----
+2015-11-20 16:12:58.013|[29]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5179 token：23E00ECDDE12F495A3E3B84FA846429C ----
+2015-11-20 16:12:58.299|[26]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Fri Nov 20 2015 16:13:23 GMT+0800 (CST)orderType：201----
+2015-11-20 16:12:58.590|[27]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Fri Nov 20 2015 16:13:23 GMT+0800 (CST)orderType：201----
+2015-11-20 16:12:58.961|[33]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Fri Nov 20 2015 16:13:24 GMT+0800 (CST)orderType：200----
+2015-11-20 16:12:59.128|[29]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Fri Nov 20 2015 16:13:24 GMT+0800 (CST)orderType：200----
+2015-11-20 16:14:47.770|[26]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-20 16:16:41.018|[27]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-20 16:17:52.789|[35]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-20 16:18:25.750|[35]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-20 16:18:54.406|[35]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-20 16:20:51.321|[22]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-20 16:23:44.579|[20]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-20 16:27:05.282|[19]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-20 16:27:10.812|[19]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5177 充值金额：100,200,,6031CF6B36B323E1BBC07E2E3C006F87----
+2015-11-20 16:27:10.865|[19]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5177 充值金额：100返回：订单提交成功!----
+2015-11-20 16:27:13.306|[21]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5177date：20151120orderType：200----
+2015-11-20 16:27:19.601|[21]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-20 16:27:21.200|[21]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5177 充值金额：100,201,e10adc3949ba59abbe56e057f20f883e,6031CF6B36B323E1BBC07E2E3C006F87----
+2015-11-20 16:27:21.206|[21]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5177 充值金额：100返回：交易密码错误!----
+2015-11-20 16:27:27.498|[20]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5177 充值金额：100,201,e10adc3949ba59abbe56e057f20f883e,6031CF6B36B323E1BBC07E2E3C006F87----
+2015-11-20 16:27:27.499|[20]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5177 充值金额：100返回：交易密码错误!----
+2015-11-20 16:27:33.257|[21]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5177 充值金额：100,201,e10adc3949ba59abbe56e057f20f883e,6031CF6B36B323E1BBC07E2E3C006F87----
+2015-11-20 16:27:33.258|[21]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5177 充值金额：100返回：交易密码错误!----
+2015-11-20 16:32:52.924|[22]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5177 充值金额：100,201,e10adc3949ba59abbe56e057f20f883e,6031CF6B36B323E1BBC07E2E3C006F87----
+2015-11-20 16:32:52.925|[22]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5177 充值金额：100返回：交易密码错误!----
+2015-11-20 16:33:37.825|[14]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-20 16:34:31.236|[20]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-20 16:45:13.019|[14]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-20 16:49:31.596|[19]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-20 16:50:55.657|[24]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-20 16:53:29.342|[21]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--

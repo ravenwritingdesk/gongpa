@@ -1,0 +1,84 @@
+﻿@charset "UTF-8";
+@import url(base.css);
+/* ==========================================================
+	* Name: 公共样式
+============================================================*/
+body{color:#666;font:12px/1 Arial,'Microsoft YaHei',Tahoma,Verdana,'Simsun';overflow-x:hidden;height:100%;}
+body{min-width:320px; max-width:640px; margin:auto; text-align:center; background-color:#241e1c;}
+a{color:#4d4d4d; text-decoration:none;}
+a:hover{color:#35b7ec;text-decoration:none;}
+hr {display: block;-webkit-margin-before:auto;-webkit-margin-after:auto;-webkit-margin-start: auto;-webkit-margin-end: auto;border:none;}
+hr{background:url(../images/dian-line.png) center bottom repeat-x; height:2px;}
+.OcTop{height:60px;}
+.OcBottom{height:61px;}
+.img100 img{width:100%; max-width:100%;}
+/*按钮*/
+.button01{display:inline-block; border:none; background-color:#F97B00; text-align:center; color:#fff;}
+.button02{display:inline-block; border:none; background-color:#c0c0c0; text-align:center; color:#fff;}
+.button03{display:inline-block; border:none; background-color:#2778b6; text-align:center; color:#fff;}
+.button04{display:inline-block; border:none; background-color:#09a80d; text-align:center; color:#fff;}
+.button01:hover,.button02:hover,.button03:hover,.button04:hover{color:#fff;}
+.orange_box{border:1px solid #FFD7A6; background-color:#FFFAF4;}
+.gray_box{border:1px solid #ddd;}
+.red_box{border:1px solid #FAC6BB; background-color:#FDECE9;}
+.icon{background-image:url(../images/ico-sprites01.png);background-repeat:no-repeat;display:inline-block;vertical-align:text-bottom}
+.bdred{border:1px solid #a12e22; background-color:#fff0ec;}
+
+.center_mold{padding:0 10px;}
+.center_mold h2{height:46px; line-height:46px;color: #a49127;font-size:20px; font-weight:700; padding-left:40px;background:url(../images/bx.png) left top no-repeat; text-align:left;}
+.center_mold h2 .more{font-size:12px; font-weight:400;color:#a49127; float:right; padding-right:10px; font-family:Arial, Helvetica, sans-serif;}
+.center_mold h2 .more a{color:#a49127;}
+.center_mold h2.NewsTitle{height:auto;}
+.center_mold .list{border:2px solid #473519;}
+.center_mold .Newslist li{color:#f79c0f; line-height:30px; padding:0 10px;}
+.center_mold .Newslist li a{float:left;color:#f79c0f; display:block;width:80%;text-overflow:ellipsis;overflow: hidden;white-space: nowrap;}
+.center_mold .Newslist li span{float:right;display:block;text-overflow: ellipsis;overflow: hidden;white-space: nowrap;}
+.center_mold .Gamelist{padding-right:3%;}
+.center_mold .Gamelist li{width:30%; padding-left:3.3%;float:left; margin-top:15px;}
+.center_mold .Gamelist li img{width:100%;}
+.Registered table{color:#f79c0f;}
+.Registered table th{padding:10px 5px; text-align:right;}
+.Registered table td{padding:10px 5px; text-align:left;}
+.Download{background-color:#ffecce;}
+.Service{background-color:#ffecce; text-align:left;}
+.Service dt{font-weight:700; margin-top:10px;font-size:14px;}
+.Service dd{padding-left:15px;}
+.Games{background-color:#ffecce; text-align:left;}
+.Games strong{font-weight:700;}
+.Games p{text-indent:2em;}
+
+/*翻页*/
+.mold-page{}
+.mold-page ul{margin-left:5%;}
+.mold-page li{float:left; padding:0px 1%;height:25px; line-height:25px; text-align:center;}
+.mold-page li a{color:#fff; background-color:#f79c0f; display:inline-block; height:100%;padding:0px 5px;-webkit-border-radius:2px;-moz-border-radius:2px;border-radius:2px;}
+
+.fix-header{height:60px;position: fixed;top: 0;left: 0;width: 100%;z-index:999;}
+.cover_content{width:100%;height:100%;position:absolute;left:0;top:0;z-index:99;background:url(../images/header-bg.png) right top;}
+.cover_content .web_logo {color:white;display:block;overflow:hidden; float:left; margin-top:10px; height:40px;}
+.cover_content .logo{background:url("../images/logo.png") no-repeat;background-size:80px 40px; display:block;width:80px;height:40px;float:left;}
+.cover_content dl{float:left;height:40px;padding:0 0 0 3px; text-align:left;}
+.cover_content dl h1{font-size:18px; font-weight:700; line-height:25px;}
+.cover_content dl dd{color:#717171;}
+.cover_content .btn_download {position: absolute;top: 15px;right: 10px;width: 100px;height: 30px;background: #FFC000;border-radius: 3px;text-align: center;line-height: 30px;color: #181818;font-size: 14px;}
+.to_top {font-size: 12px;color: #f79c0f;position: relative;}
+.to_top::after {content: "";width: 8px;height: 8px;position: absolute;left: 50%;border-left: 2px solid #f79c0f;border-top: 2px solid #f79c0f;-webkit-transform: rotate(45deg);top: -10px;margin-left: -6px;}
+.common_footer .mfoot{color:#774939;text-shadow: #121110 1px 1px 0px;}
+.fix-footer{height:50px;background-color: #473519;position: fixed;bottom: 0;left: 0;width: 100%;z-index: 999; border-top:1px solid #6b532d;}
+.fix-footer li{float:left;width:33.3%; line-height:50px; font-weight:bold; font-size:14px; background:url(../images/news-dian01.gif) right top repeat-y;}
+.fix-footer li:last-child{background:none;}
+.fix-footer li a {height: 50px;display: block;color:#d7c03e;font-size: 14px;text-align: center;opacity:0.8;}
+.fix-footer li a:hover{background:#6f5225;}
+.fix-footer li a.cur{background:#444;opacity:1;}
+.fix-footer li.operation{}
+.operation dl{width:100%; position:absolute; left:-1px; bottom:51px; background:url(../images/news-dian01.gif) right top repeat-y #FAFAFA;}
+.operation dd{border-left:1px solid #ddd;border-top:1px solid #ddd;line-height:50px; font-weight:bold; font-size:14px;}
+
+/*错误提示*/
+.errorTip{width:500px; border:0px solid #ddd; margin:auto; height:150px;text-align:left;}
+.errorTip .Tips{font-size:18px; line-height:24px;color:#c00;}
+.errorTip .Tips .sp01{display:inline-block;font-size:16px;width:24px;height:24px; text-align:center;border-radius:12px; background-color:#c00;color:#fff; font-weight:700; margin-right:10px;}
+.errorTip .text{padding-left:35px;padding-top:5px;}
+.errorTip .text li{line-height:22px;color:#774939;}
+.errorTip .button{padding-left:35px; margin-top:10px;}
+.errorTip .button .but01{padding:3px 20px;line-height:25px;display:inline-block;border: none;background-color: #3D96C9;text-align: center;color: white;border-radius:3px;}

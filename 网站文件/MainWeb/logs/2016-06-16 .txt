@@ -1,0 +1,4 @@
+2016-06-16 06:36:25.108|[6]|INFO |Log.FrontWeb|-----------获得要充值的uid---------------
+2016-06-16 20:43:50.971|[9]|ERROR|Log.FrontWeb|System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.FrontWeb.PayCardFillByPC.paySubmit()
+2016-06-16 20:45:41.602|[9]|INFO |Log.FrontWeb|-----------获得要充值的uid---------------

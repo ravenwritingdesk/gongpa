@@ -1,0 +1,14 @@
+2015-12-29 00:11:31.770|[7]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-29 00:11:52.401|[12]|DEBUG|Log.UserHandler|数据调试 uid: 5377  userip: 223.104.45.43   usertoken:AA5BE0222A4D6B83DD9675878855692A  url: http://interface.5092.cc:8094/MobileRechargeCenter/Default.aspx?Platform=Android&UserID=5377&Token=AA5BE0222A4D6B83DD9675878855692A
+2015-12-29 00:11:52.446|[12]|INFO |Log.UserHandler|-----------获得要充值的uid5377---------------
+2015-12-29 00:11:52.854|[12]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[vip888] 用户ID：[5377]---------------
+2015-12-29 00:13:38.508|[7]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-29 10:34:29.407|[7]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-29 10:36:47.562|[14]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-29 10:38:00.001|[12]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-29 12:41:36.546|[7]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-29 12:44:41.406|[7]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-29 12:48:01.582|[22]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-29 12:48:51.011|[7]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-29 12:50:46.531|[20]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-29 12:52:45.366|[19]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--

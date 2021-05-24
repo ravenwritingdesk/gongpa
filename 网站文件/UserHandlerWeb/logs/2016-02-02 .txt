@@ -1,0 +1,20 @@
+2016-02-02 19:46:06.644|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-02-02 19:46:32.088|[5]|DEBUG|Log.UserHandler|数据调试 uid: 5451  userip: 119.60.77.228   usertoken:75D74BB9BD24302593E853C92CB1CA4C  url: http://interface.9zsw.cn:8094/MobileRechargeCenter/Default.aspx?Platform=IPhonePlayer&UserID=5451&Token=75D74BB9BD24302593E853C92CB1CA4C
+2016-02-02 19:46:32.134|[5]|INFO |Log.UserHandler|-----------获得要充值的uid5451---------------
+2016-02-02 19:46:32.556|[5]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[123456a] 用户ID：[5451]---------------
+2016-02-02 19:49:11.099|[30]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-02-02 19:50:24.856|[39]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-02-02 19:50:34.075|[37]|DEBUG|Log.UserHandler|数据调试 uid: 5451  userip: 119.60.77.228   usertoken:75D74BB9BD24302593E853C92CB1CA4C  url: http://interface.9zsw.cn:8094/MobileRechargeCenter/Default.aspx?Platform=IPhonePlayer&UserID=5451&Token=75D74BB9BD24302593E853C92CB1CA4C
+2016-02-02 19:50:34.075|[37]|INFO |Log.UserHandler|-----------获得要充值的uid5451---------------
+2016-02-02 19:50:34.075|[37]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[123456a] 用户ID：[5451]---------------
+2016-02-02 19:50:43.248|[33]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5451 充值金额：100,orderType:200,password:,token:75D74BB9BD24302593E853C92CB1CA4C,isWeb:FalseuserHostAddress:119.60.77.228----
+2016-02-02 19:50:43.295|[33]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5451 充值金额：100返回：订单提交成功!----
+2016-02-02 19:50:52.265|[38]|DEBUG|Log.UserHandler|数据调试 uid: 5451  userip: 119.60.77.228   usertoken:75D74BB9BD24302593E853C92CB1CA4C  url: http://interface.9zsw.cn:8094/MobileRechargeCenter/Default.aspx?Platform=IPhonePlayer&UserID=5451&Token=75D74BB9BD24302593E853C92CB1CA4C
+2016-02-02 19:50:52.265|[38]|INFO |Log.UserHandler|-----------获得要充值的uid5451---------------
+2016-02-02 19:50:52.280|[38]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[123456a] 用户ID：[5451]---------------
+2016-02-02 19:50:54.308|[37]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5451 token：75D74BB9BD24302593E853C92CB1CA4C ----
+2016-02-02 19:50:55.447|[29]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5451date：Tue Feb 02 2016 19:54:19 GMT+0800 (CST)orderType：201----
+2016-02-02 19:50:56.461|[19]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5451date：Tue Feb 02 2016 19:54:20 GMT+0800 (CST)orderType：200----
+2016-02-02 21:37:53.626|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-02-02 21:38:43.234|[13]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-02-02 21:41:36.566|[47]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--

@@ -1,0 +1,20 @@
+2015-12-14 15:08:20.112|[15]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-14 15:08:35.976|[35]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5326 充值金额：1000,orderType:200,password:,token:E8EFB06994100C9B313AFD8DFC0B0826,isWeb:False----
+2015-12-14 15:08:35.981|[35]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5326 充值金额：1000返回：订单提交成功!----
+2015-12-14 15:10:37.503|[15]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5326 充值金额：1000,orderType:200,password:,token:E8EFB06994100C9B313AFD8DFC0B0826,isWeb:False----
+2015-12-14 15:10:37.508|[15]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5326 充值金额：1000返回：订单提交成功!----
+2015-12-14 15:11:08.858|[21]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5326 充值金额：100,orderType:200,password:,token:E8EFB06994100C9B313AFD8DFC0B0826,isWeb:False----
+2015-12-14 15:11:08.867|[21]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5326 充值金额：100返回：订单提交成功!----
+2015-12-14 15:15:15.526|[35]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-14 15:17:59.146|[27]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-14 15:18:29.185|[35]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5326 token：E8EFB06994100C9B313AFD8DFC0B0826 ----
+2015-12-14 15:19:12.820|[16]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5326 token：E8EFB06994100C9B313AFD8DFC0B0826 ----
+2015-12-14 15:19:43.242|[15]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-14 15:20:56.338|[11]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5326 token：E8EFB06994100C9B313AFD8DFC0B0826 ----
+2015-12-14 15:21:21.868|[21]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5326 充值金额：5000,orderType:201,password:a12345678,token:E8EFB06994100C9B313AFD8DFC0B0826,isWeb:False----
+2015-12-14 15:21:21.879|[21]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5326 充值金额：5000返回：订单提交成功!----
+2015-12-14 15:21:22.070|[16]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5326 token：E8EFB06994100C9B313AFD8DFC0B0826 ----
+2015-12-14 15:21:54.389|[35]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5326 token：E8EFB06994100C9B313AFD8DFC0B0826 ----
+2015-12-14 15:21:56.348|[11]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5326date：Mon Dec 14 2015 15:21:54 GMT+0800 (CST)orderType：201----
+2015-12-14 15:48:06.131|[15]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5326 token：E8EFB06994100C9B313AFD8DFC0B0826 ----
+2015-12-14 15:50:56.519|[20]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--

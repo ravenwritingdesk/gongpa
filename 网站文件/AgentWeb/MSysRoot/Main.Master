@@ -1,0 +1,202 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Main.master.cs" Inherits="DimoNetwork.QPProxyWeb.MSysRoot.Main" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8" />
+    <title>游戏代理管理系统</title>
+    <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport' />
+    <link href="/MSysRoot/css/AdminLTE.css" rel="stylesheet" type="text/css" />
+    <link href="/MSysRoot/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="/MSysRoot/css/ionicons.min.css" rel="stylesheet" type="text/css"  />
+     <link href="/MSysRoot/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+
+    <script src="/js/jquery-1.11.2.min.js" type="text/javascript"></script>
+    <script src="/MSysRoot/js/AdminLTE/app.js" type="text/javascript"></script>
+    <script src="/MSysRoot/js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="/MSysRootjs/jquery-ui-1.10.3.min.js"  type="text/javascript"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+
+<body class="skin-blue">
+    <header class="header">
+        <a href="#" class="logo">游戏代理管理系统
+        </a>
+        <nav class="navbar navbar-static-top" role="navigation">
+            <a href="#" class="navbar-btn sidebar-toggle" data-toggle="offcanvas" role="button">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </a>
+            <div class="navbar-right">
+                <ul class="nav navbar-nav">
+                    <li class="dropdown notifications-menu">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                            <i class="fa fa-warning"></i>
+                            <span class="label label-warning" id="lblWarning" runat="server"></span>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li class="header"><span id="lblWarning2" runat="server"></span>个提醒</li>
+                            <li>
+                                <ul class="menu">
+                                    <li id="MemberRegLi" runat="server">
+                                        <a href="#">
+                                            <i class="ion ion-ios7-people info"></i><span id="spanMemberReg" runat="server"></span>个会员注册
+                                        </a>
+                                    </li>
+                                    <li id="MemberRechargeLi" runat="server">
+                                        <a href="#">
+                                            <i class="fa fa-warning danger"></i><span id="spanMemberRecharge" runat="server"></span>个用户充值
+                                        </a>
+                                    </li>
+                                    <li id="MemberWithdrawLi" runat="server">
+                                        <a href="#">
+                                            <i class="fa fa-users warning"></i><span id="spanMemberWithdraw" runat="server"></span>个用户兑奖
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="footer">
+                                <a href="#">查看所有订单</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="dropdown tasks-menu">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                            <i class="fa fa-tasks"></i>
+                            <span class="label label-danger" id="lblOrder" runat="server"></span>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li class="header"><span id="lblOrder2" runat="server"></span>条未处理订单</li>
+                            <li>
+                                <ul class="menu">
+                                    <li id="dangerrechargeLi" runat="server">
+                                        <a href="#">
+                                            <h3>用户充值
+                                                    <small class="pull-right"><span id="spanMemberOrder" runat="server"></span>[已处理订单/总订单数量]</small>
+                                            </h3>
+                                            <div class="progress xs">
+                                                <div class="progress-bar progress-bar-aqua" id="spanMemberOrderDiv" runat="server" style="width: 20%" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100">
+                                                    <span class="sr-only">20% Complete</span>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li id="dangerwithdrawLi" runat="server">
+                                        <a href="#">
+                                            <h3>用户兑奖
+                                                    <small class="pull-right"><span id="spanMemberWithdrawOrder" runat="server"></span>[已处理订单/总订单数量]</small>
+                                            </h3>
+                                            <div class="progress xs">
+                                                <div class="progress-bar progress-bar-green" id="spanMemberWithdrawDiv" runat="server" style="width: 10%" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100">
+                                                    <span class="sr-only">40% Complete</span>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="footer">
+                                <a href="#">View all tasks</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="dropdown user user-menu">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                            <i class="glyphicon glyphicon-user"></i>
+                            <span><%=this.Proxy.account %> <i class="caret"></i></span>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li class="user-header bg-light-blue">
+                                <img src="/msysroot/img/avatar3.png" class="img-circle" alt="User Image" />
+                                <p>
+                                    <%=this.Proxy.account %>
+                                    <small><%=DimoNetwork.QPProxyWeb.SystemSetHelper.GetProxyLevelName(this.Proxy.ProxyLevel) %></small>
+                                </p>
+                            </li>
+                            <li class="user-footer"><span style="margin-left: 20%; margin-top: 40%;">余额:<%=DimoNetwork.QPProxyWeb.PublicFunction.FormatMoney(this.Proxy.score.ToString()) %></span>
+                                <div class="pull-right">
+                                    <a href="/MLoginOut.aspx" class="btn btn-default btn-flat">注 销</a>
+                                </div>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+
+    <div class="wrapper row-offcanvas row-offcanvas-left">
+
+        <aside class="left-side sidebar-offcanvas">
+            <section class="sidebar">
+                <div class="user-panel">
+                    <div class="pull-left image" style="padding-left: 30px;">
+                        <img src="/msysroot/img/avatar3.png" class="img-circle" alt="User Image" />
+                    </div>
+                    <div class="pull-left info">
+                        <p>你好, <%=this.Proxy.account %></p>
+
+                        <a href="#"><i class="fa fa-circle text-success"></i>在线</a>
+                    </div>
+                </div>
+
+                <ul class="sidebar-menu">
+                    <li>
+                        <a href="/msysroot/index.aspx">
+                            <i class="fa fa-dashboard"></i><span>工作台</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/msysroot/members.aspx">
+                            <i class="fa fa-th"></i><span>会员管理</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/msysroot/proxyManage.aspx">
+                            <i class="fa fa-bar-chart-o"></i><span>代理管理</span>
+                        </a>
+                    </li>
+                    <li class="treeview">
+                        <a href="#">
+                            <i class="fa fa-laptop"></i>
+                            <span>上分下分</span>
+                            <i class="fa fa-angle-left pull-right"></i>
+                        </a>
+                        <ul class="treeview-menu">
+                            <li><a href="/msysroot/payorder.aspx"><i class="fa fa-angle-double-right"></i>订单管理</a></li>
+                            <li><a href="/msysroot/memberupdownscore.aspx"><i class="fa fa-angle-double-right"></i>会员充分</a></li>
+                            <li><a href="/msysroot/proxyupdownscore.aspx"><i class="fa fa-angle-double-right"></i>代理充分</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="/msysroot/proxyprofit.aspx?StartTime=<%=DateTime.Now.Date.ToString("yyyy-MM-dd HH:mm:ss") %>&EndTime=<%=DateTime.Now.Date.ToString("yyyy-MM-dd 23:59:59") %>">
+                            <i class="fa fa-edit"></i><span>代理报表</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/msysroot/gamerecord.aspx">
+                            <i class="fa fa-calendar"></i><span>游戏记录</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/msysroot/operatorlog.aspx">
+                            <i class="fa fa-envelope"></i><span>操作日志</span>
+                        </a>
+                    </li>
+                </ul>
+            </section>
+        </aside>
+
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+
+
+
+</body>
+</html>

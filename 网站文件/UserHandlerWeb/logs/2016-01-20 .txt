@@ -1,0 +1,146 @@
+2016-01-20 00:57:01.796|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 07:21:07.374|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 07:21:09.339|[5]|DEBUG|Log.UserHandler|数据调试 uid: 5395  userip: 112.96.115.105   usertoken:8926E8E0498484DF44CEA78ABFE7523B  url: http://interface.9zsw.cn:8094/MobileRechargeCenter/Default.aspx?Platform=IPhonePlayer&UserID=5395&Token=8926E8E0498484DF44CEA78ABFE7523B
+2016-01-20 07:21:09.386|[5]|INFO |Log.UserHandler|-----------获得要充值的uid5395---------------
+2016-01-20 07:21:09.948|[5]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[heimao] 用户ID：[5395]---------------
+2016-01-20 10:11:06.438|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 10:11:08.263|[5]|DEBUG|Log.UserHandler|数据调试 uid: 5395  userip: 112.96.115.105   usertoken:8926E8E0498484DF44CEA78ABFE7523B  url: http://interface.9zsw.cn:8094/MobileRechargeCenter/Default.aspx?Platform=IPhonePlayer&UserID=5395&Token=8926E8E0498484DF44CEA78ABFE7523B
+2016-01-20 10:11:08.294|[5]|INFO |Log.UserHandler|-----------获得要充值的uid5395---------------
+2016-01-20 10:11:08.856|[5]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[heimao] 用户ID：[5395]---------------
+2016-01-20 10:11:25.345|[18]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5395date：Wed Jan 20 2016 10:11:23 GMT+0800 (CST)orderType：200----
+2016-01-20 10:11:27.092|[11]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5395 token：8926E8E0498484DF44CEA78ABFE7523B ----
+2016-01-20 10:11:28.044|[21]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5395date：Wed Jan 20 2016 10:11:26 GMT+0800 (CST)orderType：201----
+2016-01-20 10:11:29.822|[17]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5395 token：8926E8E0498484DF44CEA78ABFE7523B ----
+2016-01-20 10:11:31.054|[16]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5395date：Wed Jan 20 2016 10:11:29 GMT+0800 (CST)orderType：200----
+2016-01-20 10:11:33.036|[13]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5395 token：8926E8E0498484DF44CEA78ABFE7523B ----
+2016-01-20 10:12:26.575|[9]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5395date：Wed Jan 20 2016 10:12:23 GMT+0800 (CST)orderType：200----
+2016-01-20 10:12:27.043|[10]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5395 token：8926E8E0498484DF44CEA78ABFE7523B ----
+2016-01-20 10:12:28.244|[17]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5395date：Wed Jan 20 2016 10:12:26 GMT+0800 (CST)orderType：201----
+2016-01-20 10:12:40.693|[25]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5395date：Wed Jan 20 2016 10:12:38 GMT+0800 (CST)orderType：200----
+2016-01-20 10:12:41.426|[12]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5395 token：8926E8E0498484DF44CEA78ABFE7523B ----
+2016-01-20 10:12:41.910|[10]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5395date：Wed Jan 20 2016 10:12:40 GMT+0800 (CST)orderType：201----
+2016-01-20 12:32:33.523|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 12:34:52.083|[28]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 12:37:15.416|[27]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 12:38:21.170|[5]|DEBUG|Log.UserHandler|数据调试 uid: 5401  userip: 14.215.47.186   usertoken:CC9BCD3A2F6805C38B89795D2C6BC356  url: http://interface.9zsw.cn:8094/MobileRechargeCenter/Default.aspx?Platform=IPhonePlayer&UserID=5401&Token=CC9BCD3A2F6805C38B89795D2C6BC356
+2016-01-20 12:38:21.217|[5]|INFO |Log.UserHandler|-----------获得要充值的uid5401---------------
+2016-01-20 12:38:21.747|[5]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[123456001] 用户ID：[5401]---------------
+2016-01-20 12:38:54.726|[27]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5401date：Wed Jan 20 2016 12:38:53 GMT+0800 (CST)orderType：200----
+2016-01-20 12:38:56.301|[29]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5401 token：CC9BCD3A2F6805C38B89795D2C6BC356 ----
+2016-01-20 12:40:20.838|[27]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 12:45:20.015|[41]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 12:48:52.222|[36]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 12:49:15.560|[33]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 12:50:50.112|[42]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 12:54:45.937|[51]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 12:56:15.076|[56]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 12:56:26.277|[44]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 13:00:08.187|[23]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 13:00:24.239|[48]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 13:00:43.053|[48]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 13:01:01.009|[44]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 13:01:05.829|[50]|DEBUG|Log.UserHandler|数据调试 uid: 5399  userip: 106.5.196.46   usertoken:FCEECE011C5C6E5FBD9BCF6F6347B379  url: http://interface.9zsw.cn:8094/MobileRechargeCenter/Default.aspx?Platform=Android&UserID=5399&Token=FCEECE011C5C6E5FBD9BCF6F6347B379
+2016-01-20 13:01:05.829|[50]|INFO |Log.UserHandler|-----------获得要充值的uid5399---------------
+2016-01-20 13:01:05.845|[50]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[168168] 用户ID：[5399]---------------
+2016-01-20 13:01:56.982|[46]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5399 充值金额：1000,orderType:200,password:,token:FCEECE011C5C6E5FBD9BCF6F6347B379,isWeb:FalseuserHostAddress:106.5.196.46----
+2016-01-20 13:01:57.013|[46]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5399 充值金额：1000返回：订单提交成功!----
+2016-01-20 13:02:52.596|[44]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 13:05:18.128|[27]|DEBUG|Log.UserHandler|数据调试 uid: 5399  userip: 106.5.196.46   usertoken:FCEECE011C5C6E5FBD9BCF6F6347B379  url: http://interface.9zsw.cn:8094/MobileRechargeCenter/Default.aspx?Platform=Android&UserID=5399&Token=FCEECE011C5C6E5FBD9BCF6F6347B379
+2016-01-20 13:05:18.128|[27]|INFO |Log.UserHandler|-----------获得要充值的uid5399---------------
+2016-01-20 13:05:18.144|[27]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[168168] 用户ID：[5399]---------------
+2016-01-20 13:07:35.424|[32]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 13:08:13.395|[51]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 13:08:46.108|[53]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 13:09:13.673|[39]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 13:09:32.346|[29]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 13:09:50.037|[38]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 13:12:03.745|[46]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 13:12:55.162|[42]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 13:18:08.130|[16]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 13:22:04.611|[10]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 13:23:37.587|[18]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 13:36:08.978|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 13:38:23.294|[42]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 13:39:42.667|[9]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 13:41:16.423|[11]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 13:42:43.706|[13]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 13:43:56.994|[44]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 13:47:11.792|[48]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 14:04:59.614|[43]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 14:06:23.183|[35]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 14:06:45.398|[22]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 14:23:45.156|[12]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 14:24:06.419|[41]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 14:30:46.107|[42]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 14:31:23.609|[13]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 14:31:50.052|[42]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 14:39:33.700|[31]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 14:40:38.861|[23]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 14:40:57.004|[29]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 14:41:51.433|[40]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 14:43:14.144|[61]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 14:43:32.146|[40]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 14:48:24.943|[49]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 14:53:09.098|[26]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 14:57:18.355|[59]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 14:57:28.417|[62]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 14:57:43.331|[26]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 14:57:44.204|[31]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 15:01:40.233|[45]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 15:05:54.482|[65]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 15:07:42.372|[70]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 15:07:46.116|[30]|DEBUG|Log.UserHandler|数据调试 uid: 5399  userip: 106.5.196.46   usertoken:FCEECE011C5C6E5FBD9BCF6F6347B379  url: http://interface.9zsw.cn:8094/MobileRechargeCenter/Default.aspx?Platform=Android&UserID=5399&Token=FCEECE011C5C6E5FBD9BCF6F6347B379
+2016-01-20 15:07:46.116|[30]|INFO |Log.UserHandler|-----------获得要充值的uid5399---------------
+2016-01-20 15:07:46.131|[30]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[168168] 用户ID：[5399]---------------
+2016-01-20 15:07:58.128|[69]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5399 充值金额：50000,orderType:200,password:,token:FCEECE011C5C6E5FBD9BCF6F6347B379,isWeb:FalseuserHostAddress:106.5.196.46----
+2016-01-20 15:07:58.128|[69]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5399 充值金额：50000返回：订单提交成功!----
+2016-01-20 15:27:27.599|[71]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 15:52:24.500|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 15:52:26.450|[5]|DEBUG|Log.UserHandler|数据调试 uid: 5395  userip: 112.96.64.135   usertoken:062599BE4C55249EEB200A45DADA6FF1  url: http://interface.9zsw.cn:8094/MobileRechargeCenter/Default.aspx?Platform=IPhonePlayer&UserID=5395&Token=062599BE4C55249EEB200A45DADA6FF1
+2016-01-20 15:52:26.481|[5]|INFO |Log.UserHandler|-----------获得要充值的uid5395---------------
+2016-01-20 15:52:27.058|[5]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[heimao] 用户ID：[5395]---------------
+2016-01-20 15:52:54.015|[19]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5395 充值金额：100,orderType:200,password:,token:062599BE4C55249EEB200A45DADA6FF1,isWeb:FalseuserHostAddress:112.96.64.135----
+2016-01-20 15:52:54.062|[19]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5395 充值金额：100返回：订单提交成功!----
+2016-01-20 15:52:58.243|[21]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5395date：Wed Jan 20 2016 15:52:56 GMT+0800 (CST)orderType：200----
+2016-01-20 15:52:59.226|[15]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5395date：Wed Jan 20 2016 15:52:57 GMT+0800 (CST)orderType：201----
+2016-01-20 15:53:01.191|[21]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5395date：Wed Jan 20 2016 15:52:59 GMT+0800 (CST)orderType：201----
+2016-01-20 15:53:02.595|[10]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5395date：Wed Jan 20 2016 15:53:01 GMT+0800 (CST)orderType：200----
+2016-01-20 15:57:03.226|[31]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5395date：Wed Jan 20 2016 15:57:01 GMT+0800 (CST)orderType：200----
+2016-01-20 15:57:06.689|[28]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5395 token：062599BE4C55249EEB200A45DADA6FF1 ----
+2016-01-20 15:57:07.391|[45]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5395date：Wed Jan 20 2016 15:57:06 GMT+0800 (CST)orderType：201----
+2016-01-20 16:05:59.804|[43]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 16:11:08.732|[36]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 16:18:43.784|[27]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 16:18:52.427|[55]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 16:24:03.008|[50]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 16:28:18.505|[39]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 16:31:47.124|[8]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 16:32:12.022|[8]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 16:32:48.807|[20]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 16:34:01.128|[19]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 16:42:35.118|[30]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 16:46:27.699|[18]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 16:47:49.817|[27]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 17:05:40.900|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 17:06:41.958|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 17:08:10.504|[43]|DEBUG|Log.UserHandler|数据调试 uid: 5402  userip: 113.210.1.29   usertoken:59231677577A838D13659B92EA475090  url: http://interface.9zsw.cn:8094/MobileRechargeCenter/Default.aspx?Platform=Android&UserID=5402&Token=59231677577A838D13659B92EA475090
+2016-01-20 17:08:10.551|[43]|INFO |Log.UserHandler|-----------获得要充值的uid5402---------------
+2016-01-20 17:08:11.081|[43]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[12345678] 用户ID：[5402]---------------
+2016-01-20 17:08:18.460|[39]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5402date：Wed Jan 20 2016 17:08:17 GMT+0800 (MYT)orderType：200----
+2016-01-20 17:08:19.053|[38]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5402 token：59231677577A838D13659B92EA475090 ----
+2016-01-20 17:08:19.677|[30]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5402date：Wed Jan 20 2016 17:08:18 GMT+0800 (MYT)orderType：201----
+2016-01-20 17:16:29.689|[19]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 17:22:54.838|[7]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 17:24:06.973|[18]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 17:24:54.459|[28]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 17:35:46.307|[19]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 17:37:44.461|[20]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 17:41:52.190|[19]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 17:49:53.653|[21]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 17:52:22.275|[21]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 17:53:17.982|[7]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 17:54:56.543|[7]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 17:56:24.028|[18]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 17:58:58.609|[17]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 18:20:17.515|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-20 18:42:13.549|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--

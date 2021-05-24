@@ -1,0 +1,169 @@
+2016-03-18 00:06:50.394|[35]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 00:25:01.278|[47]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 00:28:46.499|[48]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 00:33:29.282|[29]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 00:39:26.771|[52]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 00:48:04.202|[54]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 00:56:32.827|[62]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 00:56:34.658|[62]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 00:56:50.606|[57]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 01:10:25.321|[69]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 01:11:30.206|[70]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 01:22:43.541|[72]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 01:56:22.159|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 02:19:09.829|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 02:38:47.974|[15]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 03:00:36.520|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 03:08:46.626|[14]|DEBUG|Log.UserHandler|数据调试 uid: 5622  userip: 61.222.87.133   usertoken:DEEC91D38FED782866C86BFBEDF3370B  url: http://asdf.jj705.com:8899/MobileRechargeCenter/Default.aspx?Platform=Android&UserID=5622&Token=DEEC91D38FED782866C86BFBEDF3370B
+2016-03-18 03:08:46.673|[14]|INFO |Log.UserHandler|-----------获得要充值的uid5622---------------
+2016-03-18 03:08:47.079|[14]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[win300] 用户ID：[5622]---------------
+2016-03-18 06:53:33.068|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 06:58:24.492|[13]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 06:59:21.791|[13]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 07:00:24.223|[9]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 07:02:37.338|[15]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 07:03:14.403|[17]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 07:05:04.914|[15]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 07:07:15.907|[18]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 07:10:57.864|[20]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 10:15:24.399|[8]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 10:24:56.452|[9]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 11:01:44.480|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 11:09:41.373|[13]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 11:11:11.931|[13]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 11:11:12.539|[11]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 11:11:12.914|[10]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 11:14:13.047|[8]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 11:18:15.971|[11]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 11:25:13.490|[24]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 11:25:39.339|[26]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 11:37:53.352|[32]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 11:46:19.276|[32]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 11:51:08.329|[27]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 11:53:22.989|[36]|DEBUG|Log.UserHandler|数据调试 uid: 5644  userip: 222.210.224.33   usertoken:CF23C54F959187EB24258CA1CA65190B  url: http://asdf.jj705.com:8899/MobileRechargeCenter/Default.aspx?Platform=IPhonePlayer&UserID=5644&Token=CF23C54F959187EB24258CA1CA65190B
+2016-03-18 11:53:23.035|[36]|INFO |Log.UserHandler|-----------获得要充值的uid5644---------------
+2016-03-18 11:53:23.441|[36]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[qq8888] 用户ID：[5644]---------------
+2016-03-18 11:53:59.617|[27]|DEBUG|Log.UserHandler|数据调试 uid: 5644  userip: 222.210.224.33   usertoken:CF23C54F959187EB24258CA1CA65190B  url: http://asdf.jj705.com:8899/MobileRechargeCenter/Default.aspx?Platform=IPhonePlayer&UserID=5644&Token=CF23C54F959187EB24258CA1CA65190B
+2016-03-18 11:53:59.617|[27]|INFO |Log.UserHandler|-----------获得要充值的uid5644---------------
+2016-03-18 11:53:59.633|[27]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[qq8888] 用户ID：[5644]---------------
+2016-03-18 11:55:38.444|[38]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 11:57:41.637|[39]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 11:58:35.535|[38]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 12:00:07.107|[23]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 12:01:09.429|[39]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 12:02:36.509|[41]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 12:05:49.278|[41]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 12:23:25.041|[42]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 12:34:22.910|[44]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 12:43:08.194|[54]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 12:44:28.878|[52]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 12:47:44.081|[54]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 13:22:08.370|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 13:23:35.995|[13]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 13:24:31.001|[15]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 13:30:59.956|[9]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 13:35:53.112|[14]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 13:35:58.931|[9]|DEBUG|Log.UserHandler|数据调试 uid: 5647  userip: 61.222.87.133   usertoken:4B9324DC9E0E5C6304060E6500981468  url: http://asdf.jj705.com:8899/MobileRechargeCenter/Default.aspx?Platform=Android&UserID=5647&Token=4B9324DC9E0E5C6304060E6500981468
+2016-03-18 13:35:58.947|[9]|INFO |Log.UserHandler|-----------获得要充值的uid5647---------------
+2016-03-18 13:35:59.415|[9]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[mia101] 用户ID：[5647]---------------
+2016-03-18 13:37:48.318|[18]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 13:40:48.733|[16]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 13:54:05.489|[17]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 13:55:21.336|[23]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 13:58:17.117|[15]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 14:02:29.135|[19]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 14:02:54.454|[19]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 14:14:48.452|[37]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 14:24:19.195|[35]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 14:39:33.528|[40]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 14:41:08.173|[44]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 14:42:11.572|[35]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 14:45:48.849|[49]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 14:45:55.526|[44]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 14:46:27.818|[48]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 14:46:55.617|[29]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 14:50:11.584|[49]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 15:29:15.738|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 15:31:01.226|[13]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 15:43:26.735|[17]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 16:08:29.689|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 16:08:57.706|[8]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 16:41:37.631|[6]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 16:46:07.496|[6]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 16:48:35.369|[16]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 16:52:49.493|[13]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 17:19:32.486|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 17:22:56.181|[15]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 17:32:41.750|[13]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 17:36:56.107|[18]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 17:37:39.301|[22]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 17:38:40.730|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 17:41:02.155|[18]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 17:49:58.885|[22]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 18:00:07.929|[33]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 18:44:01.621|[6]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 19:49:21.104|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 20:07:50.640|[15]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 20:08:20.071|[20]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 20:08:20.407|[13]|DEBUG|Log.UserHandler|数据调试 uid: 5662  userip: 14.20.19.55   usertoken:89C15FDD0D42E6744F7775A0A7136233  url: http://asdf.jj705.com:8899/MobileRechargeCenter/Default.aspx?Platform=Android&UserID=5662&Token=89C15FDD0D42E6744F7775A0A7136233
+2016-03-18 20:08:20.436|[13]|INFO |Log.UserHandler|-----------获得要充值的uid5662---------------
+2016-03-18 20:08:20.814|[13]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[xy9555] 用户ID：[5662]---------------
+2016-03-18 20:08:29.687|[20]|DEBUG|Log.UserHandler|数据调试 uid: 5662  userip: 14.20.19.55   usertoken:89C15FDD0D42E6744F7775A0A7136233  url: http://asdf.jj705.com:8899/MobileRechargeCenter/Default.aspx?Platform=Android&UserID=5662&Token=89C15FDD0D42E6744F7775A0A7136233
+2016-03-18 20:08:29.690|[20]|INFO |Log.UserHandler|-----------获得要充值的uid5662---------------
+2016-03-18 20:08:29.702|[20]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[xy9555] 用户ID：[5662]---------------
+2016-03-18 20:08:34.280|[16]|DEBUG|Log.UserHandler|数据调试 uid: 5663  userip: 14.20.19.55   usertoken:82F1FB91E84A9F8ADDCF9ED4D19897AB  url: http://asdf.jj705.com:8899/MobileRechargeCenter/Default.aspx?Platform=WindowsPlayer&UserID=5663&Token=82F1FB91E84A9F8ADDCF9ED4D19897AB
+2016-03-18 20:08:34.283|[16]|INFO |Log.UserHandler|-----------获得要充值的uid5663---------------
+2016-03-18 20:08:34.294|[16]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[q2279474340] 用户ID：[5663]---------------
+2016-03-18 20:08:44.178|[15]|DEBUG|Log.UserHandler|数据调试 uid: 5663  userip: 14.20.19.55   usertoken:82F1FB91E84A9F8ADDCF9ED4D19897AB  url: http://asdf.jj705.com:8899/MobileRechargeCenter/Default.aspx?Platform=WindowsPlayer&UserID=5663&Token=82F1FB91E84A9F8ADDCF9ED4D19897AB
+2016-03-18 20:08:44.179|[15]|INFO |Log.UserHandler|-----------获得要充值的uid5663---------------
+2016-03-18 20:08:44.180|[15]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[q2279474340] 用户ID：[5663]---------------
+2016-03-18 20:11:45.500|[18]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 20:13:38.430|[11]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 20:18:13.649|[16]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 20:19:04.211|[22]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 20:25:48.329|[21]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 20:29:58.725|[24]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 20:31:10.572|[25]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 20:34:59.705|[25]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 20:38:38.866|[25]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 20:40:28.169|[29]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 20:41:42.155|[29]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 20:42:05.226|[29]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 20:42:42.919|[30]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 20:43:06.628|[23]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 20:43:16.531|[23]|DEBUG|Log.UserHandler|数据调试 uid: 5668  userip: 14.20.19.55   usertoken:F809B9DFA58EB8F2D12A02FFD5C956A9  url: http://asdf.jj705.com:8899/MobileRechargeCenter/Default.aspx?Platform=WindowsPlayer&UserID=5668&Token=F809B9DFA58EB8F2D12A02FFD5C956A9
+2016-03-18 20:43:16.533|[23]|INFO |Log.UserHandler|-----------获得要充值的uid5668---------------
+2016-03-18 20:43:16.533|[23]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[zxc123123] 用户ID：[5668]---------------
+2016-03-18 20:43:51.849|[23]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 20:46:01.102|[30]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 20:46:34.645|[30]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 20:46:53.881|[30]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 20:48:00.089|[32]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 20:48:47.371|[29]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 20:49:11.274|[29]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 20:51:24.177|[31]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 20:52:12.934|[32]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 20:53:08.421|[28]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 20:53:19.421|[30]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 20:53:35.099|[28]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 20:54:17.187|[32]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 20:54:20.702|[28]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 20:56:37.415|[33]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 20:57:06.171|[31]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 20:58:12.572|[29]|DEBUG|Log.UserHandler|数据调试 uid: 5645  userip: 14.20.19.55   usertoken:8FD98CA38F9829A6C9307114A2D6FEFB  url: http://asdf.jj705.com:8899/MobileRechargeCenter/Default.aspx?Platform=IPhonePlayer&UserID=5645&Token=8FD98CA38F9829A6C9307114A2D6FEFB
+2016-03-18 20:58:12.577|[29]|INFO |Log.UserHandler|-----------获得要充值的uid5645---------------
+2016-03-18 20:58:12.591|[29]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[sz1033] 用户ID：[5645]---------------
+2016-03-18 21:00:58.994|[28]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 21:08:07.717|[34]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 21:13:47.576|[34]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 21:17:22.631|[28]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 21:18:41.828|[42]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 21:20:51.683|[43]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 21:23:47.246|[43]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 21:24:28.087|[43]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 21:37:26.896|[28]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 21:39:36.704|[28]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 22:15:01.715|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 23:10:07.734|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 23:43:24.344|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-18 23:44:40.838|[10]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--

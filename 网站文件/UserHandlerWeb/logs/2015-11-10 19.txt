@@ -1,0 +1,25 @@
+2015-11-10 19:52:37.119|[15]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：34 充值金额：10,200,123456,35C0B6A0C63242DAA9A912D1E17E1AED----
+2015-11-10 19:52:37.181|[15]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：34 充值金额：10返回：用户ID不存在!----
+2015-11-10 19:53:51.969|[22]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5045 充值金额：10,200,123456,35C0B6A0C63242DAA9A912D1E17E1AED----
+2015-11-10 19:53:51.988|[22]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5045 充值金额：10返回：订单提交成功!----
+2015-11-10 19:54:00.109|[18]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5045date：Tue Nov 10 2015 19:54:00 GMT+0800 (中国标准时间)orderType：200----
+2015-11-10 19:54:06.410|[8]|DEBUG|Log.UserHandler|---开始调用取消订单接口userid：5045ApplyNumber：100017CancelReason：----
+2015-11-10 19:54:07.517|[7]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5045date：Tue Nov 10 2015 19:54:07 GMT+0800 (中国标准时间)orderType：200----
+2015-11-10 19:54:15.501|[21]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5045 充值金额：10,200,123456,35C0B6A0C63242DAA9A912D1E17E1AED----
+2015-11-10 19:54:15.506|[21]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5045 充值金额：10返回：订单提交成功!----
+2015-11-10 19:55:29.664|[20]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5045date：Tue Nov 10 2015 19:55:29 GMT+0800 (中国标准时间)orderType：200----
+2015-11-10 19:55:33.936|[18]|DEBUG|Log.UserHandler|---开始调用取消订单接口userid：5045ApplyNumber：100018CancelReason：----
+2015-11-10 19:55:35.026|[19]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5045date：Tue Nov 10 2015 19:55:35 GMT+0800 (中国标准时间)orderType：200----
+2015-11-10 19:55:37.974|[9]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5045 充值金额：10,200,123456,35C0B6A0C63242DAA9A912D1E17E1AED----
+2015-11-10 19:55:37.981|[9]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5045 充值金额：10返回：订单提交成功!----
+2015-11-10 19:55:40.081|[9]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5045date：Tue Nov 10 2015 19:55:40 GMT+0800 (中国标准时间)orderType：200----
+2015-11-10 19:55:43.157|[20]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5045date：Tue Nov 10 2015 19:55:43 GMT+0800 (中国标准时间)orderType：200----
+2015-11-10 19:55:44.907|[19]|DEBUG|Log.UserHandler|---开始调用取消订单接口userid：5045ApplyNumber：100019CancelReason：----
+2015-11-10 19:55:48.369|[9]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5045date：Tue Nov 10 2015 19:55:48 GMT+0800 (中国标准时间)orderType：200----
+2015-11-10 19:56:00.980|[5]|INFO |Log.UserHandler|用户【qhedge】进行充值开始调用生成订单存储：生成单号【eadcfd05a34147b0810036fe63115b17】充值金额【10】充值类型【WECHATQR】
+2015-11-10 19:56:01.839|[5]|INFO |Log.UserHandler|调用微信支付接口：单号【eadcfd05a34147b0810036fe63115b17】充值金额【1000】，返回：result.resultCode：【2】result.resultMsg：【PAY_FACTOR_NOT_SET】
+2015-11-10 19:56:12.274|[21]|INFO |Log.UserHandler|用户【qhedge】进行充值开始调用生成订单存储：生成单号【bd3d7a889b6148639fd8a28e495f9356】充值金额【10】充值类型【ALIPAY】
+2015-11-10 19:56:13.090|[21]|INFO |Log.UserHandler|调用支付宝接口：单号【bd3d7a889b6148639fd8a28e495f9356】充值金额【1000】，返回：result.resultCode：【0】result.resultMsg：【OK】
+2015-11-10 19:56:27.287|[7]|INFO |Log.UserHandler|用户【qhedge】进行充值开始调用生成订单存储：生成单号【3b2c4aade44d467098151d935c028c72】充值金额【10】充值类型【YB】
+2015-11-10 19:56:34.685|[19]|INFO |Log.UserHandler|用户【qhedge】进行充值开始调用生成订单存储：生成单号【035d1f7159a34e26b29c7948c1507b96】充值金额【10】充值类型【UNIONPAY】
+2015-11-10 19:56:35.277|[19]|INFO |Log.UserHandler|调用在线支付接口：单号【035d1f7159a34e26b29c7948c1507b96】充值金额【1000】，返回：result.resultCode：【6】result.resultMsg：【CERT_FILE_ERROR】

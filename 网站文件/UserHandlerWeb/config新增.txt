@@ -1,0 +1,5 @@
+代理
+<customErrors mode="On" defaultRedirect="ErrorPage.aspx" />
+
+接口 8094
+<customErrors mode="On" defaultRedirect="ErrorHandlerPage.aspx" />

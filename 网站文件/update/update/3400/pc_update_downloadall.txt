@@ -1,0 +1,17 @@
+[list0]  
+action=3
+srcfile=http:///***V3.4.zip
+destfile=****V3.4.zip
+cmd=DEC
+
+[list1]
+action=1
+srcfile=
+destfile=***.exe -popupwindow
+cmd=EXEC
+
+[list2]
+action=0
+srcfile=
+destfile=
+cmd=DEL/EXEC/REN/CRE

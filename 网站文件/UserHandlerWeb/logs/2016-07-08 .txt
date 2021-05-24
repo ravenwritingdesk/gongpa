@@ -1,0 +1,11 @@
+2016-07-08 00:37:19.900|[35]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-08 00:47:20.084|[19]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-08 02:13:19.334|[13]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-08 02:14:19.088|[13]|DEBUG|Log.UserHandler|数据调试 uid: 11538  userip: 119.120.225.243   usertoken:E581BFAB7BC85307D02C2DA9B633A791  url: http://www.8899qpw.com:8081/MobileRechargeCenter/Default.aspx?Platform=WindowsPlayer&UserID=11538&Token=E581BFAB7BC85307D02C2DA9B633A791
+2016-07-08 02:14:19.107|[13]|INFO |Log.UserHandler|-----------获得要充值的uid11538---------------
+2016-07-08 02:14:19.204|[13]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[administrator] 用户ID：[11538]---------------
+2016-07-08 05:12:47.152|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-08 05:44:10.070|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-08 13:17:51.127|[22]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-08 14:38:44.366|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-08 20:56:02.946|[35]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--

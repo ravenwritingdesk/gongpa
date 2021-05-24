@@ -1,0 +1,29 @@
+2016-02-07 00:02:25.000|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-02-07 00:02:44.024|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-02-07 00:02:46.448|[5]|DEBUG|Log.UserHandler|数据调试 uid: 5446  userip: 36.102.85.21   usertoken:2D48892FFEEED52C239FC4A7802F0325  url: http://interface.5k5z.com:8094/MobileRechargeCenter/Default.aspx?Platform=WindowsPlayer&UserID=5446&Token=2D48892FFEEED52C239FC4A7802F0325
+2016-02-07 00:02:46.481|[5]|INFO |Log.UserHandler|-----------获得要充值的uid5446---------------
+2016-02-07 00:02:46.853|[5]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[hailaer] 用户ID：[5446]---------------
+2016-02-07 00:02:56.892|[5]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5446date：Sun Feb 07 2016 00:02:58 GMT+0800 (?D1ú±ê×?ê±??)orderType：200----
+2016-02-07 00:02:58.198|[11]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5446 token：2D48892FFEEED52C239FC4A7802F0325 ----
+2016-02-07 00:02:59.301|[5]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5446date：Sun Feb 07 2016 00:03:00 GMT+0800 (?D1ú±ê×?ê±??)orderType：201----
+2016-02-07 00:03:00.249|[5]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5446 token：2D48892FFEEED52C239FC4A7802F0325 ----
+2016-02-07 00:03:02.200|[11]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5446date：Sun Feb 07 2016 00:03:03 GMT+0800 (?D1ú±ê×?ê±??)orderType：201----
+2016-02-07 00:03:02.849|[5]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5446 token：2D48892FFEEED52C239FC4A7802F0325 ----
+2016-02-07 00:03:03.525|[11]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5446date：Sun Feb 07 2016 00:03:04 GMT+0800 (?D1ú±ê×?ê±??)orderType：201----
+2016-02-07 00:03:03.940|[7]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5446 token：2D48892FFEEED52C239FC4A7802F0325 ----
+2016-02-07 00:03:08.745|[7]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5446date：Sun Feb 07 2016 00:03:10 GMT+0800 (?D1ú±ê×?ê±??)orderType：201----
+2016-02-07 00:03:09.208|[11]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5446 token：2D48892FFEEED52C239FC4A7802F0325 ----
+2016-02-07 04:04:29.061|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-02-07 04:04:47.686|[8]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-02-07 12:38:36.767|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-02-07 12:38:41.974|[5]|DEBUG|Log.UserHandler|数据调试 uid: 5446  userip: 36.102.85.21   usertoken:3085F4E0069CD7CB3D3F38FF440655D6  url: http://interface.5k5z.com:8094/MobileRechargeCenter/Default.aspx?Platform=WindowsPlayer&UserID=5446&Token=3085F4E0069CD7CB3D3F38FF440655D6
+2016-02-07 12:38:42.015|[5]|INFO |Log.UserHandler|-----------获得要充值的uid5446---------------
+2016-02-07 12:38:42.399|[5]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[hailaer] 用户ID：[5446]---------------
+2016-02-07 12:38:58.618|[8]|INFO |Log.UserHandler|用户【hailaer】进行充值开始调用生成订单存储：生成单号【da412b52a84b41c4a6a329be829c8187】充值金额【100】充值类型【ALIPAY】
+2016-02-07 12:38:59.495|[8]|INFO |Log.UserHandler|调用支付宝接口：单号【da412b52a84b41c4a6a329be829c8187】充值金额【10000】，返回：result.resultCode：【4】result.resultMsg：【MISS_PARAM】
+2016-02-07 12:39:05.660|[5]|DEBUG|Log.UserHandler|数据调试 uid: 5446  userip: 36.102.85.21   usertoken:3085F4E0069CD7CB3D3F38FF440655D6  url: http://interface.5k5z.com:8094/MobileRechargeCenter/Default.aspx?Platform=WindowsPlayer&UserID=5446&Token=3085F4E0069CD7CB3D3F38FF440655D6
+2016-02-07 12:39:05.662|[5]|INFO |Log.UserHandler|-----------获得要充值的uid5446---------------
+2016-02-07 12:39:05.674|[5]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[hailaer] 用户ID：[5446]---------------
+2016-02-07 13:14:18.078|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-02-07 13:28:07.675|[23]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-02-07 16:00:10.646|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--

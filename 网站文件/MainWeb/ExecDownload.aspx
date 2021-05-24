@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="ExecDownload.aspx.cs" Inherits="Game.FrontWeb.ExecDownload" %>

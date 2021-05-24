@@ -1,0 +1,20 @@
+2016-01-25 10:06:41.680|[6]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-25 12:34:40.498|[6]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-25 15:41:49.351|[6]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-25 17:47:34.694|[6]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-25 17:49:27.638|[33]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-25 17:55:15.987|[50]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-25 19:21:32.029|[6]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-25 19:22:27.300|[15]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-25 19:22:45.536|[23]|DEBUG|Log.UserHandler|数据调试 uid: 5421  userip: 182.101.55.72   usertoken:75DAB38CD56B5B07BF74F3BA2D7144B5  url: http://interface.9zsw.cn:8094/MobileRechargeCenter/Default.aspx?Platform=IPhonePlayer&UserID=5421&Token=75DAB38CD56B5B07BF74F3BA2D7144B5
+2016-01-25 19:22:45.583|[23]|INFO |Log.UserHandler|-----------获得要充值的uid5421---------------
+2016-01-25 19:22:46.207|[23]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[QQ112233] 用户ID：[5421]---------------
+2016-01-25 19:22:50.388|[14]|DEBUG|Log.UserHandler|数据调试 uid: 5421  userip: 182.101.55.72   usertoken:75DAB38CD56B5B07BF74F3BA2D7144B5  url: http://interface.9zsw.cn:8094/MobileRechargeCenter/Default.aspx?Platform=IPhonePlayer&UserID=5421&Token=75DAB38CD56B5B07BF74F3BA2D7144B5
+2016-01-25 19:22:50.388|[14]|INFO |Log.UserHandler|-----------获得要充值的uid5421---------------
+2016-01-25 19:22:50.404|[14]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[QQ112233] 用户ID：[5421]---------------
+2016-01-25 19:22:57.829|[20]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5421date：Mon Jan 25 2016 19:23:06 GMT+0800 (CST)orderType：200----
+2016-01-25 20:31:19.763|[6]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-25 20:47:09.633|[27]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-25 20:59:08.155|[25]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-25 23:58:16.527|[6]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-25 23:59:00.488|[11]|INFO |Log.UserHandler|富豪榜请求错误：UserId:5422,ip:119.131.178.103,Token3C90596CF2781DC117B2DD549C4C0D92

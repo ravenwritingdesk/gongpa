@@ -1,0 +1,21 @@
+2015-12-15 13:00:19.393|[40]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-15 13:05:23.512|[43]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-15 13:08:00.737|[47]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-15 13:15:15.312|[49]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-15 13:15:23.967|[48]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-15 13:18:55.497|[49]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-15 13:26:09.534|[51]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-15 13:26:28.410|[49]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-15 13:26:53.626|[54]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5326 充值金额：100,orderType:200,password:,token:BACA591E81EB0F68BBAE9D1F6997856E,isWeb:False----
+2015-12-15 13:26:53.676|[54]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5326 充值金额：100返回：订单提交成功!----
+2015-12-15 13:28:42.337|[51]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5326 token：BACA591E81EB0F68BBAE9D1F6997856E ----
+2015-12-15 13:29:05.584|[55]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5326 token：BACA591E81EB0F68BBAE9D1F6997856E ----
+2015-12-15 13:29:32.981|[49]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5326 token：BACA591E81EB0F68BBAE9D1F6997856E ----
+2015-12-15 13:30:31.558|[53]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5326 token：BACA591E81EB0F68BBAE9D1F6997856E ----
+2015-12-15 13:30:41.355|[51]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5326 充值金额：100,orderType:201,password:a12345678,token:BACA591E81EB0F68BBAE9D1F6997856E,isWeb:False----
+2015-12-15 13:30:41.364|[51]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5326 充值金额：100返回：订单提交成功!----
+2015-12-15 13:30:41.464|[55]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5326 token：BACA591E81EB0F68BBAE9D1F6997856E ----
+2015-12-15 13:35:08.190|[57]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-15 13:42:28.635|[51]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-15 13:55:57.392|[39]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-15 13:58:12.868|[45]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--

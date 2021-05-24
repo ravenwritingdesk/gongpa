@@ -1,0 +1,345 @@
+2016-03-16 03:31:02.023|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 10:52:16.682|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 10:55:25.672|[16]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 10:56:45.122|[16]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 10:57:19.902|[13]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 11:08:28.884|[6]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 11:09:56.032|[13]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 11:38:34.581|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 11:46:36.217|[6]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 11:53:07.252|[13]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 11:58:51.200|[19]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 12:06:14.644|[23]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 12:07:13.059|[23]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 12:17:56.399|[13]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 12:45:52.016|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 12:46:11.037|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 12:47:40.704|[9]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 12:48:48.464|[6]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 12:50:16.988|[13]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 12:51:53.339|[6]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 12:57:09.120|[20]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 12:57:18.419|[20]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 13:00:14.616|[9]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 13:05:31.111|[20]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 13:11:04.485|[9]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 13:11:23.046|[24]|DEBUG|Log.UserHandler|数据调试 uid: 5498  userip: 103.242.98.109   usertoken:090AF04992E37B86F774857FCFC9C8CB  url: http://asdf.jj705.com:8899/MobileRechargeCenter/Default.aspx?Platform=Android&UserID=5498&Token=090AF04992E37B86F774857FCFC9C8CB
+2016-03-16 13:11:23.079|[24]|INFO |Log.UserHandler|-----------获得要充值的uid5498---------------
+2016-03-16 13:11:23.566|[24]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[yangon] 用户ID：[5498]---------------
+2016-03-16 13:11:44.992|[9]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5498date：Wed Mar 16 2016 11:41:30 GMT+0630 (MMT)orderType：200----
+2016-03-16 13:11:47.838|[23]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5498 token：090AF04992E37B86F774857FCFC9C8CB ----
+2016-03-16 13:11:52.506|[23]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5498date：Wed Mar 16 2016 11:41:38 GMT+0630 (MMT)orderType：201----
+2016-03-16 13:11:54.030|[19]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5498 token：090AF04992E37B86F774857FCFC9C8CB ----
+2016-03-16 13:11:56.730|[9]|DEBUG|Log.UserHandler|---开始调用获取赠送列表接口 用户：5498 date：2016/3/16 13:11:56 orderType：4----
+2016-03-16 13:14:31.580|[24]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 13:18:33.368|[23]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 13:23:28.456|[28]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 13:41:37.166|[40]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 13:43:27.769|[38]|DEBUG|Log.UserHandler|数据调试 uid: 5494  userip: 119.123.224.81   usertoken:D52759E36404F5DA3330BDF93B916214  url: http://asdf.jj705.com:8899/MobileRechargeCenter/Default.aspx?Platform=IPhonePlayer&UserID=5494&Token=D52759E36404F5DA3330BDF93B916214
+2016-03-16 13:43:27.772|[38]|INFO |Log.UserHandler|-----------获得要充值的uid5494---------------
+2016-03-16 13:43:27.785|[38]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[sz1234sz] 用户ID：[5494]---------------
+2016-03-16 13:43:57.590|[39]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5494 充值金额：444,orderType:200,password:,token:D52759E36404F5DA3330BDF93B916214,isWeb:FalseuserHostAddress:119.123.224.81----
+2016-03-16 13:43:57.658|[39]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5494 充值金额：444返回：订单提交成功!----
+2016-03-16 15:49:01.884|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 16:07:14.414|[19]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 16:17:23.046|[20]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 16:20:47.527|[25]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 16:21:25.203|[25]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 16:23:09.829|[26]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 16:23:17.011|[6]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 16:29:18.555|[28]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 16:31:01.885|[26]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 16:32:08.606|[28]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 16:34:44.804|[28]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 16:35:55.601|[28]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 16:36:31.656|[31]|DEBUG|Log.UserHandler|数据调试 uid: 5502  userip: 59.37.141.91   usertoken:CF44930411CB9D9DDC6D3346E88F8B0D  url: http://asdf.jj705.com:8899/MobileRechargeCenter/Default.aspx?Platform=Android&UserID=5502&Token=CF44930411CB9D9DDC6D3346E88F8B0D
+2016-03-16 16:36:31.701|[31]|INFO |Log.UserHandler|-----------获得要充值的uid5502---------------
+2016-03-16 16:36:31.939|[31]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[sz1002] 用户ID：[5502]---------------
+2016-03-16 16:36:34.702|[28]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5502date：Wed Mar 16 2016 16:36:36 GMT+0800 (CST)orderType：200----
+2016-03-16 16:36:36.614|[31]|DEBUG|Log.UserHandler|---开始调用获取赠送列表接口 用户：5502 date：2016/3/16 16:36:36 orderType：4----
+2016-03-16 16:36:37.428|[30]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5502 token：CF44930411CB9D9DDC6D3346E88F8B0D ----
+2016-03-16 16:40:41.166|[30]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 16:43:07.978|[31]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 16:52:11.121|[33]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 16:52:47.267|[31]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 16:59:01.174|[38]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 17:13:49.407|[38]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 17:18:54.520|[40]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 17:22:12.390|[40]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 17:26:38.670|[36]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 17:26:55.187|[38]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 17:28:12.893|[38]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 17:28:54.905|[49]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 17:29:07.116|[47]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 17:30:32.431|[47]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 17:31:23.377|[40]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 17:32:03.919|[40]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 17:32:52.592|[47]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 17:33:48.418|[36]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 17:33:49.902|[50]|DEBUG|Log.UserHandler|数据调试 uid: 5503  userip: 180.136.146.205   usertoken:E8F9CEE9933D8B99835314B769927DBA  url: http://asdf.jj705.com:8899/MobileRechargeCenter/Default.aspx?Platform=WindowsPlayer&UserID=5503&Token=E8F9CEE9933D8B99835314B769927DBA
+2016-03-16 17:33:49.904|[50]|INFO |Log.UserHandler|-----------获得要充值的uid5503---------------
+2016-03-16 17:33:49.959|[50]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[hs7621] 用户ID：[5503]---------------
+2016-03-16 17:33:59.627|[50]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5503 token：E8F9CEE9933D8B99835314B769927DBA ----
+2016-03-16 17:34:31.229|[40]|DEBUG|Log.UserHandler|---开始调用获取赠送列表接口 用户：5503 date：2016/3/16 17:34:31 orderType：4----
+2016-03-16 17:34:34.318|[50]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5503 token：E8F9CEE9933D8B99835314B769927DBA ----
+2016-03-16 17:35:13.738|[36]|DEBUG|Log.UserHandler|数据调试 uid: 5503  userip: 180.136.146.205   usertoken:E8F9CEE9933D8B99835314B769927DBA  url: http://asdf.jj705.com:8899/MobileRechargeCenter/Default.aspx?Platform=WindowsPlayer&UserID=5503&Token=E8F9CEE9933D8B99835314B769927DBA
+2016-03-16 17:35:13.741|[36]|INFO |Log.UserHandler|-----------获得要充值的uid5503---------------
+2016-03-16 17:35:13.741|[36]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[hs7621] 用户ID：[5503]---------------
+2016-03-16 17:38:02.809|[50]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 17:38:18.264|[40]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 17:39:04.719|[52]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 17:39:11.963|[52]|DEBUG|Log.UserHandler|数据调试 uid: 5506  userip: 117.40.171.188   usertoken:27DC5806BE579C4ACB68EC1AD7C00221  url: http://asdf.jj705.com:8899/MobileRechargeCenter/Default.aspx?Platform=Android&UserID=5506&Token=27DC5806BE579C4ACB68EC1AD7C00221
+2016-03-16 17:39:11.965|[52]|INFO |Log.UserHandler|-----------获得要充值的uid5506---------------
+2016-03-16 17:39:11.978|[52]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[dirk41] 用户ID：[5506]---------------
+2016-03-16 17:39:14.920|[53]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5506date：Wed Mar 16 2016 17:39:16 GMT+0800 (CST)orderType：200----
+2016-03-16 17:39:17.666|[50]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5506 token：27DC5806BE579C4ACB68EC1AD7C00221 ----
+2016-03-16 17:39:19.447|[48]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5506date：Wed Mar 16 2016 17:39:20 GMT+0800 (CST)orderType：201----
+2016-03-16 17:39:20.933|[48]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5506 token：27DC5806BE579C4ACB68EC1AD7C00221 ----
+2016-03-16 17:39:21.508|[52]|DEBUG|Log.UserHandler|---开始调用获取赠送列表接口 用户：5506 date：2016/3/16 17:39:21 orderType：4----
+2016-03-16 17:39:23.197|[53]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5506 token：27DC5806BE579C4ACB68EC1AD7C00221 ----
+2016-03-16 17:40:13.942|[52]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 17:41:40.677|[48]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 17:42:58.772|[48]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 17:44:32.018|[53]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 17:56:08.734|[54]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 17:57:57.898|[54]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 17:58:00.432|[61]|DEBUG|Log.UserHandler|数据调试 uid: 5507  userip: 223.104.5.239   usertoken:F544680930C3247CE7A974EDAA99F8BB  url: http://asdf.jj705.com:8899/MobileRechargeCenter/Default.aspx?Platform=IPhonePlayer&UserID=5507&Token=F544680930C3247CE7A974EDAA99F8BB
+2016-03-16 17:58:00.434|[61]|INFO |Log.UserHandler|-----------获得要充值的uid5507---------------
+2016-03-16 17:58:00.449|[61]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[power3001] 用户ID：[5507]---------------
+2016-03-16 17:58:03.815|[54]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5507date：Wed Mar 16 2016 17:58:06 GMT+0800 (CST)orderType：200----
+2016-03-16 17:58:04.410|[59]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5507date：Wed Mar 16 2016 17:58:06 GMT+0800 (CST)orderType：200----
+2016-03-16 17:59:26.821|[54]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 18:00:00.535|[59]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 18:00:53.009|[59]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 18:02:47.149|[54]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 18:05:07.911|[59]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 18:14:25.391|[61]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 18:15:45.682|[54]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 18:22:36.951|[54]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 18:26:22.727|[61]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 18:29:26.138|[59]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 18:41:27.535|[66]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 18:44:16.955|[66]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 18:47:09.621|[71]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 18:49:36.911|[63]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 18:49:53.732|[65]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 18:50:27.816|[63]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 18:52:37.948|[63]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 18:56:13.162|[73]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 18:58:48.841|[71]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 18:59:51.698|[74]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 19:01:02.979|[72]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 19:04:09.807|[71]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 19:05:30.130|[78]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 19:08:12.802|[69]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 19:09:53.435|[71]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 19:10:58.698|[74]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 19:11:10.663|[75]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 19:12:39.301|[78]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 19:14:24.804|[69]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 19:23:50.249|[75]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 19:47:14.619|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 19:47:27.231|[9]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 19:48:45.085|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 19:48:49.016|[9]|DEBUG|Log.UserHandler|数据调试 uid: 5522  userip: 61.222.87.133   usertoken:  url: http://asdf.jj705.com:8899/MobileRechargeCenter/Default.aspx?Platform=Android&UserID=5522&Token=
+2016-03-16 19:48:49.061|[9]|INFO |Log.UserHandler|-----------获得要充值的uid5522---------------
+2016-03-16 19:48:49.505|[9]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[win333] 用户ID：[5522]---------------
+2016-03-16 19:48:52.871|[10]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5522date：Wed Mar 16 2016 19:48:55 GMT+0800 (CST)orderType：200----
+2016-03-16 19:48:53.554|[9]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5522 token： ----
+2016-03-16 19:48:54.123|[13]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5522date：Wed Mar 16 2016 19:48:56 GMT+0800 (CST)orderType：201----
+2016-03-16 19:48:54.673|[9]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5522 token： ----
+2016-03-16 19:48:55.171|[10]|DEBUG|Log.UserHandler|---开始调用获取赠送列表接口 用户：5522 date：2016/3/16 19:48:55 orderType：4----
+2016-03-16 19:53:31.617|[13]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 20:36:19.362|[6]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 20:38:25.370|[13]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 20:38:44.423|[13]|DEBUG|Log.UserHandler|数据调试 uid: 5522  userip: 61.222.87.133   usertoken:B19A1FB027881C239631F0B7A217773B  url: http://asdf.jj705.com:8899/MobileRechargeCenter/Default.aspx?Platform=Android&UserID=5522&Token=B19A1FB027881C239631F0B7A217773B
+2016-03-16 20:38:44.461|[13]|INFO |Log.UserHandler|-----------获得要充值的uid5522---------------
+2016-03-16 20:38:44.913|[13]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[win333] 用户ID：[5522]---------------
+2016-03-16 20:38:55.741|[9]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5522 充值金额：1000,orderType:200,password:,token:B19A1FB027881C239631F0B7A217773B,isWeb:FalseuserHostAddress:61.222.87.133----
+2016-03-16 20:38:55.781|[9]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5522 充值金额：1000返回：订单提交成功!----
+2016-03-16 20:38:57.840|[17]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5522date：Wed Mar 16 2016 20:38:59 GMT+0800 (CST)orderType：200----
+2016-03-16 20:39:00.077|[9]|DEBUG|Log.UserHandler|---开始调用取消订单接口userid：5522ApplyNumber：100058CancelReason：----
+2016-03-16 20:39:00.250|[10]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5522date：Wed Mar 16 2016 20:39:02 GMT+0800 (CST)orderType：200----
+2016-03-16 20:39:01.643|[5]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5522 token：B19A1FB027881C239631F0B7A217773B ----
+2016-03-16 20:39:06.694|[9]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5522date：Wed Mar 16 2016 20:39:08 GMT+0800 (CST)orderType：201----
+2016-03-16 20:39:07.604|[10]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5522 token：B19A1FB027881C239631F0B7A217773B ----
+2016-03-16 20:39:08.627|[17]|DEBUG|Log.UserHandler|---开始调用获取赠送列表接口 用户：5522 date：2016/3/16 20:39:08 orderType：4----
+2016-03-16 20:39:09.469|[18]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5522date：Wed Mar 16 2016 20:39:11 GMT+0800 (CST)orderType：201----
+2016-03-16 20:39:10.218|[16]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5522 token：B19A1FB027881C239631F0B7A217773B ----
+2016-03-16 21:00:19.907|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 21:02:30.057|[9]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 21:03:17.830|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 21:03:36.790|[9]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 21:04:32.560|[5]|DEBUG|Log.UserHandler|数据调试 uid: 5528  userip: 61.222.87.133   usertoken:0DDCC64AAF9B3A9BFA77FE481DC70E43  url: http://asdf.jj705.com:8899/MobileRechargeCenter/Default.aspx?Platform=Android&UserID=5528&Token=0DDCC64AAF9B3A9BFA77FE481DC70E43
+2016-03-16 21:04:32.605|[5]|INFO |Log.UserHandler|-----------获得要充值的uid5528---------------
+2016-03-16 21:04:33.020|[5]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[winnie101] 用户ID：[5528]---------------
+2016-03-16 21:05:06.622|[8]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 21:05:28.122|[14]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 21:05:31.624|[9]|DEBUG|Log.UserHandler|数据调试 uid: 5530  userip: 61.222.87.133   usertoken:  url: http://asdf.jj705.com:8899/MobileRechargeCenter/Default.aspx?Platform=Android&UserID=5530&Token=
+2016-03-16 21:05:31.627|[9]|INFO |Log.UserHandler|-----------获得要充值的uid5530---------------
+2016-03-16 21:05:31.627|[9]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[winnie1101] 用户ID：[5530]---------------
+2016-03-16 21:06:13.763|[8]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 21:07:34.238|[8]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 21:07:57.954|[9]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 21:11:49.435|[16]|DEBUG|Log.UserHandler|数据调试 uid: 5530  userip: 61.222.87.133   usertoken:A9881D46A54EF751E001E3F072F66B2E  url: http://asdf.jj705.com:8899/MobileRechargeCenter/Default.aspx?Platform=Android&UserID=5530&Token=A9881D46A54EF751E001E3F072F66B2E
+2016-03-16 21:11:49.435|[16]|INFO |Log.UserHandler|-----------获得要充值的uid5530---------------
+2016-03-16 21:11:49.435|[16]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[winnie1101] 用户ID：[5530]---------------
+2016-03-16 21:12:05.508|[16]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 21:12:07.563|[14]|DEBUG|Log.UserHandler|数据调试 uid: 5527  userip: 61.222.87.133   usertoken:  url: http://asdf.jj705.com:8899/MobileRechargeCenter/Default.aspx?Platform=Android&UserID=5527&Token=
+2016-03-16 21:12:07.565|[14]|INFO |Log.UserHandler|-----------获得要充值的uid5527---------------
+2016-03-16 21:12:07.577|[14]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[winnie01] 用户ID：[5527]---------------
+2016-03-16 21:12:15.613|[8]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5527 充值金额：1000,orderType:200,password:,token:,isWeb:FalseuserHostAddress:61.222.87.133----
+2016-03-16 21:12:15.645|[8]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5527 充值金额：1000返回：订单提交成功!----
+2016-03-16 21:12:49.576|[8]|DEBUG|Log.UserHandler|数据调试 uid: 5527  userip: 61.222.87.133   usertoken:50266D5C9779BD104FAC539F3BCB7981  url: http://asdf.jj705.com:8899/MobileRechargeCenter/Default.aspx?Platform=Android&UserID=5527&Token=50266D5C9779BD104FAC539F3BCB7981
+2016-03-16 21:12:49.577|[8]|INFO |Log.UserHandler|-----------获得要充值的uid5527---------------
+2016-03-16 21:12:49.589|[8]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[winnie01] 用户ID：[5527]---------------
+2016-03-16 21:12:54.628|[14]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5527 充值金额：10,orderType:200,password:,token:50266D5C9779BD104FAC539F3BCB7981,isWeb:FalseuserHostAddress:61.222.87.133----
+2016-03-16 21:12:54.634|[14]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5527 充值金额：10返回：订单提交成功!----
+2016-03-16 21:13:09.955|[14]|DEBUG|Log.UserHandler|数据调试 uid: 5527  userip: 61.222.87.133   usertoken:50266D5C9779BD104FAC539F3BCB7981  url: http://asdf.jj705.com:8899/MobileRechargeCenter/Default.aspx?Platform=Android&UserID=5527&Token=50266D5C9779BD104FAC539F3BCB7981
+2016-03-16 21:13:09.957|[14]|INFO |Log.UserHandler|-----------获得要充值的uid5527---------------
+2016-03-16 21:13:09.969|[14]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[winnie01] 用户ID：[5527]---------------
+2016-03-16 21:13:11.471|[9]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5527date：Wed Mar 16 2016 21:13:13 GMT+0800 (CST)orderType：200----
+2016-03-16 21:13:13.972|[8]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5527 token：50266D5C9779BD104FAC539F3BCB7981 ----
+2016-03-16 21:13:50.496|[14]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 21:14:13.707|[9]|DEBUG|Log.UserHandler|数据调试 uid: 5527  userip: 61.222.87.133   usertoken:45239EFE880AC00D6593034AF20A8A9C  url: http://asdf.jj705.com:8899/MobileRechargeCenter/Default.aspx?Platform=Android&UserID=5527&Token=45239EFE880AC00D6593034AF20A8A9C
+2016-03-16 21:14:13.709|[9]|INFO |Log.UserHandler|-----------获得要充值的uid5527---------------
+2016-03-16 21:14:13.722|[9]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[winnie01] 用户ID：[5527]---------------
+2016-03-16 21:14:33.654|[8]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5527 充值金额：10,orderType:200,password:,token:45239EFE880AC00D6593034AF20A8A9C,isWeb:FalseuserHostAddress:61.222.87.133----
+2016-03-16 21:14:33.660|[8]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5527 充值金额：10返回：订单提交成功!----
+2016-03-16 21:14:35.735|[8]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5527date：Wed Mar 16 2016 21:14:37 GMT+0800 (CST)orderType：200----
+2016-03-16 21:18:49.565|[18]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 21:19:38.164|[18]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 21:19:48.622|[9]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 21:20:12.050|[17]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 21:22:04.544|[9]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 21:22:20.901|[19]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 21:22:52.206|[9]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 21:23:37.631|[17]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 21:25:02.695|[19]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 21:27:48.935|[19]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 21:29:36.833|[21]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 21:31:23.059|[19]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 21:31:34.487|[19]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 21:31:38.582|[19]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 21:37:18.780|[9]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 21:42:44.192|[9]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 21:43:28.690|[23]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 21:44:40.873|[21]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 21:45:53.186|[21]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 21:54:08.694|[23]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 21:59:06.489|[20]|DEBUG|Log.UserHandler|数据调试 uid: 5528  userip: 222.251.31.142   usertoken:1685BE4E1F2196F5CD1EDB5C4FA8C403  url: http://asdf.jj705.com:8899/MobileRechargeCenter/Default.aspx?Platform=Android&UserID=5528&Token=1685BE4E1F2196F5CD1EDB5C4FA8C403
+2016-03-16 21:59:06.490|[20]|INFO |Log.UserHandler|-----------获得要充值的uid5528---------------
+2016-03-16 21:59:06.490|[20]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[winnie101] 用户ID：[5528]---------------
+2016-03-16 21:59:43.933|[23]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5528 充值金额：100000,orderType:200,password:,token:1685BE4E1F2196F5CD1EDB5C4FA8C403,isWeb:FalseuserHostAddress:222.251.31.142----
+2016-03-16 21:59:43.939|[23]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5528 充值金额：100000返回：订单提交成功!----
+2016-03-16 22:00:50.321|[25]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5528 充值金额：10000,orderType:200,password:,token:1685BE4E1F2196F5CD1EDB5C4FA8C403,isWeb:FalseuserHostAddress:222.251.31.142----
+2016-03-16 22:00:50.323|[25]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5528 充值金额：10000返回：订单提交成功!----
+2016-03-16 22:04:05.700|[27]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 22:04:20.243|[25]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 22:06:28.444|[23]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 22:06:41.939|[27]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 22:10:16.703|[26]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 22:11:54.199|[9]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 22:17:19.278|[26]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 22:20:43.298|[25]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 22:23:47.174|[26]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 22:29:59.240|[26]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 22:42:35.593|[26]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 22:44:24.358|[25]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 22:45:05.412|[33]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 22:45:39.309|[26]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 22:45:44.262|[33]|DEBUG|Log.UserHandler|数据调试 uid: 5527  userip: 123.195.42.143   usertoken:A80974F28B0FE20C7280F22CA8E43BAE  url: http://asdf.jj705.com:8899/MobileRechargeCenter/Default.aspx?Platform=IPhonePlayer&UserID=5527&Token=A80974F28B0FE20C7280F22CA8E43BAE
+2016-03-16 22:45:44.265|[33]|INFO |Log.UserHandler|-----------获得要充值的uid5527---------------
+2016-03-16 22:45:44.278|[33]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[winnie01] 用户ID：[5527]---------------
+2016-03-16 22:46:20.553|[31]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 22:46:35.438|[33]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 22:48:36.789|[26]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 22:49:19.110|[31]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 22:50:53.024|[26]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 22:52:36.423|[29]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 22:53:46.599|[29]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 22:58:08.604|[31]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 22:58:30.115|[35]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 22:58:40.127|[29]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 23:02:05.645|[29]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 23:02:26.846|[29]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 23:05:01.801|[35]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 23:05:59.663|[35]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 23:06:47.057|[31]|DEBUG|Log.UserHandler|数据调试 uid: 5502  userip: 14.29.100.73   usertoken:40B14A2708E8582B7D1A29BA5BAAE81E  url: http://asdf.jj705.com:8899/MobileRechargeCenter/Default.aspx?Platform=Android&UserID=5502&Token=40B14A2708E8582B7D1A29BA5BAAE81E
+2016-03-16 23:06:47.059|[31]|INFO |Log.UserHandler|-----------获得要充值的uid5502---------------
+2016-03-16 23:06:47.071|[31]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[sz1002] 用户ID：[5502]---------------
+2016-03-16 23:06:49.642|[31]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5502date：Wed Mar 16 2016 23:06:51 GMT+0800 (CST)orderType：200----
+2016-03-16 23:06:50.932|[35]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5502 token：40B14A2708E8582B7D1A29BA5BAAE81E ----
+2016-03-16 23:06:52.266|[31]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5502date：Wed Mar 16 2016 23:06:53 GMT+0800 (CST)orderType：201----
+2016-03-16 23:06:53.013|[29]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5502 token：40B14A2708E8582B7D1A29BA5BAAE81E ----
+2016-03-16 23:06:54.720|[31]|DEBUG|Log.UserHandler|---开始调用获取赠送列表接口 用户：5502 date：2016/3/16 23:06:54 orderType：4----
+2016-03-16 23:11:22.106|[31]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 23:11:58.320|[35]|DEBUG|Log.UserHandler|数据调试 uid: 5527  userip: 123.195.42.143   usertoken:C3D1BB3BF829CF7949C12735F76913EE  url: http://asdf.jj705.com:8899/MobileRechargeCenter/Default.aspx?Platform=IPhonePlayer&UserID=5527&Token=C3D1BB3BF829CF7949C12735F76913EE
+2016-03-16 23:11:58.322|[35]|INFO |Log.UserHandler|-----------获得要充值的uid5527---------------
+2016-03-16 23:11:58.322|[35]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[winnie01] 用户ID：[5527]---------------
+2016-03-16 23:12:00.828|[29]|DEBUG|Log.UserHandler|---开始调用获取赠送列表接口 用户：5527 date：2016/3/16 23:12:00 orderType：4----
+2016-03-16 23:12:01.858|[36]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5527 token：C3D1BB3BF829CF7949C12735F76913EE ----
+2016-03-16 23:12:45.962|[31]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 23:12:46.812|[35]|DEBUG|Log.UserHandler|数据调试 uid: 5528  userip: 61.222.87.133   usertoken:1B24D8D578B0BEDC912A6E29D2FF3610  url: http://asdf.jj705.com:8899/MobileRechargeCenter/Default.aspx?Platform=WindowsPlayer&UserID=5528&Token=1B24D8D578B0BEDC912A6E29D2FF3610
+2016-03-16 23:12:46.813|[35]|INFO |Log.UserHandler|-----------获得要充值的uid5528---------------
+2016-03-16 23:12:46.825|[35]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[winnie101] 用户ID：[5528]---------------
+2016-03-16 23:12:50.201|[29]|DEBUG|Log.UserHandler|数据调试 uid: 5527  userip: 123.195.42.143   usertoken:C3D1BB3BF829CF7949C12735F76913EE  url: http://asdf.jj705.com:8899/MobileRechargeCenter/Default.aspx?Platform=IPhonePlayer&UserID=5527&Token=C3D1BB3BF829CF7949C12735F76913EE
+2016-03-16 23:12:50.202|[29]|INFO |Log.UserHandler|-----------获得要充值的uid5527---------------
+2016-03-16 23:12:50.213|[29]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[winnie01] 用户ID：[5527]---------------
+2016-03-16 23:12:50.895|[35]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5528 token：1B24D8D578B0BEDC912A6E29D2FF3610 ----
+2016-03-16 23:13:02.459|[35]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5527 token：C3D1BB3BF829CF7949C12735F76913EE ----
+2016-03-16 23:13:27.393|[31]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5527date：Wed Mar 16 2016 23:13:29 GMT+0800 (CST)orderType：201----
+2016-03-16 23:13:28.422|[35]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5527 token：C3D1BB3BF829CF7949C12735F76913EE ----
+2016-03-16 23:13:45.255|[29]|DEBUG|Log.UserHandler|数据调试 uid: 5527  userip: 123.195.42.143   usertoken:C3D1BB3BF829CF7949C12735F76913EE  url: http://asdf.jj705.com:8899/MobileRechargeCenter/Default.aspx?Platform=IPhonePlayer&UserID=5527&Token=C3D1BB3BF829CF7949C12735F76913EE
+2016-03-16 23:13:45.256|[29]|INFO |Log.UserHandler|-----------获得要充值的uid5527---------------
+2016-03-16 23:13:45.269|[29]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[winnie01] 用户ID：[5527]---------------
+2016-03-16 23:13:47.630|[29]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5527date：Wed Mar 16 2016 23:13:49 GMT+0800 (CST)orderType：200----
+2016-03-16 23:13:49.037|[31]|DEBUG|Log.UserHandler|数据调试 uid: 5527  userip: 123.195.42.143   usertoken:C3D1BB3BF829CF7949C12735F76913EE  url: http://asdf.jj705.com:8899/MobileRechargeCenter/Default.aspx?Platform=IPhonePlayer&UserID=5527&Token=C3D1BB3BF829CF7949C12735F76913EE
+2016-03-16 23:13:49.038|[31]|INFO |Log.UserHandler|-----------获得要充值的uid5527---------------
+2016-03-16 23:13:49.050|[31]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[winnie01] 用户ID：[5527]---------------
+2016-03-16 23:13:51.209|[35]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5527date：Wed Mar 16 2016 23:13:53 GMT+0800 (CST)orderType：200----
+2016-03-16 23:13:51.875|[31]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5527date：Wed Mar 16 2016 23:13:54 GMT+0800 (CST)orderType：200----
+2016-03-16 23:14:13.260|[36]|DEBUG|Log.UserHandler|数据调试 uid: 5528  userip: 61.222.87.133   usertoken:1B24D8D578B0BEDC912A6E29D2FF3610  url: http://asdf.jj705.com:8899/MobileRechargeCenter/Default.aspx?Platform=WindowsPlayer&UserID=5528&Token=1B24D8D578B0BEDC912A6E29D2FF3610
+2016-03-16 23:14:13.261|[36]|INFO |Log.UserHandler|-----------获得要充值的uid5528---------------
+2016-03-16 23:14:13.261|[36]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[winnie101] 用户ID：[5528]---------------
+2016-03-16 23:14:20.739|[36]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5528 token：1B24D8D578B0BEDC912A6E29D2FF3610 ----
+2016-03-16 23:14:55.053|[35]|DEBUG|Log.UserHandler|---开始调用赠送接口用户Id：5528 赠送金额：1000,4,scc159go,1B24D8D578B0BEDC912A6E29D2FF3610----
+2016-03-16 23:14:55.123|[35]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5528 充值金额：1000返回：转账成功!----
+2016-03-16 23:14:55.662|[29]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5528 token：1B24D8D578B0BEDC912A6E29D2FF3610 ----
+2016-03-16 23:15:05.602|[36]|DEBUG|Log.UserHandler|数据调试 uid: 5527  userip: 123.195.42.143   usertoken:C3D1BB3BF829CF7949C12735F76913EE  url: http://asdf.jj705.com:8899/MobileRechargeCenter/Default.aspx?Platform=IPhonePlayer&UserID=5527&Token=C3D1BB3BF829CF7949C12735F76913EE
+2016-03-16 23:15:05.604|[36]|INFO |Log.UserHandler|-----------获得要充值的uid5527---------------
+2016-03-16 23:15:05.605|[36]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[winnie01] 用户ID：[5527]---------------
+2016-03-16 23:15:08.443|[31]|DEBUG|Log.UserHandler|---开始调用获取赠送列表接口 用户：5527 date：2016/3/16 23:15:08 orderType：4----
+2016-03-16 23:15:10.038|[36]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5527 token：C3D1BB3BF829CF7949C12735F76913EE ----
+2016-03-16 23:15:19.386|[29]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 23:19:30.842|[29]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 23:19:34.246|[35]|DEBUG|Log.UserHandler|数据调试 uid: 5527  userip: 123.195.42.143   usertoken:E0CA1FD9F3254409DB575A4DD1C4172E  url: http://asdf.jj705.com:8899/MobileRechargeCenter/Default.aspx?Platform=IPhonePlayer&UserID=5527&Token=E0CA1FD9F3254409DB575A4DD1C4172E
+2016-03-16 23:19:34.249|[35]|INFO |Log.UserHandler|-----------获得要充值的uid5527---------------
+2016-03-16 23:19:34.260|[35]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[winnie01] 用户ID：[5527]---------------
+2016-03-16 23:19:44.563|[36]|DEBUG|Log.UserHandler|数据调试 uid: 5528  userip: 61.222.87.133   usertoken:1B24D8D578B0BEDC912A6E29D2FF3610  url: http://asdf.jj705.com:8899/MobileRechargeCenter/Default.aspx?Platform=WindowsPlayer&UserID=5528&Token=1B24D8D578B0BEDC912A6E29D2FF3610
+2016-03-16 23:19:44.565|[36]|INFO |Log.UserHandler|-----------获得要充值的uid5528---------------
+2016-03-16 23:19:44.565|[36]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[winnie101] 用户ID：[5528]---------------
+2016-03-16 23:20:43.216|[29]|DEBUG|Log.UserHandler|数据调试 uid: 5527  userip: 123.195.42.143   usertoken:E0CA1FD9F3254409DB575A4DD1C4172E  url: http://asdf.jj705.com:8899/MobileRechargeCenter/Default.aspx?Platform=IPhonePlayer&UserID=5527&Token=E0CA1FD9F3254409DB575A4DD1C4172E
+2016-03-16 23:20:43.217|[29]|INFO |Log.UserHandler|-----------获得要充值的uid5527---------------
+2016-03-16 23:20:43.217|[29]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[winnie01] 用户ID：[5527]---------------
+2016-03-16 23:22:07.798|[31]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 23:22:10.249|[35]|DEBUG|Log.UserHandler|数据调试 uid: 5532  userip: 123.195.42.143   usertoken:830428DE65B9C0480104040F960BDED4  url: http://asdf.jj705.com:8899/MobileRechargeCenter/Default.aspx?Platform=IPhonePlayer&UserID=5532&Token=830428DE65B9C0480104040F960BDED4
+2016-03-16 23:22:10.251|[35]|INFO |Log.UserHandler|-----------获得要充值的uid5532---------------
+2016-03-16 23:22:10.263|[35]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[winnnn] 用户ID：[5532]---------------
+2016-03-16 23:22:12.535|[29]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 23:25:21.572|[31]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 23:29:54.692|[31]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 23:30:38.043|[29]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 23:32:09.473|[36]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 23:33:45.574|[36]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 23:35:56.391|[31]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 23:36:27.961|[31]|DEBUG|Log.UserHandler|数据调试 uid: 5527  userip: 61.222.87.133   usertoken:A96AB22FBBCA4955F263A31560BC6F5F  url: http://asdf.jj705.com:8899/MobileRechargeCenter/Default.aspx?Platform=Android&UserID=5527&Token=A96AB22FBBCA4955F263A31560BC6F5F
+2016-03-16 23:36:27.963|[31]|INFO |Log.UserHandler|-----------获得要充值的uid5527---------------
+2016-03-16 23:36:27.976|[31]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[winnie01] 用户ID：[5527]---------------
+2016-03-16 23:38:26.698|[36]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-03-16 23:38:29.362|[31]|DEBUG|Log.UserHandler|数据调试 uid: 5527  userip: 61.222.87.133   usertoken:62F9A0C8EE8E8375CEA46C59043AC72F  url: http://asdf.jj705.com:8899/MobileRechargeCenter/Default.aspx?Platform=Android&UserID=5527&Token=62F9A0C8EE8E8375CEA46C59043AC72F
+2016-03-16 23:38:29.364|[31]|INFO |Log.UserHandler|-----------获得要充值的uid5527---------------
+2016-03-16 23:38:29.378|[31]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[winnie01] 用户ID：[5527]---------------
+2016-03-16 23:38:32.131|[38]|DEBUG|Log.UserHandler|数据调试 uid: 5527  userip: 61.222.87.133   usertoken:62F9A0C8EE8E8375CEA46C59043AC72F  url: http://asdf.jj705.com:8899/MobileRechargeCenter/Default.aspx?Platform=Android&UserID=5527&Token=62F9A0C8EE8E8375CEA46C59043AC72F
+2016-03-16 23:38:32.133|[38]|INFO |Log.UserHandler|-----------获得要充值的uid5527---------------
+2016-03-16 23:38:32.145|[38]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[winnie01] 用户ID：[5527]---------------

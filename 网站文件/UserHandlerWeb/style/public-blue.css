@@ -1,0 +1,44 @@
+﻿@charset "UTF-8";
+/* ==========================================================
+	* Name: 公共样式
+============================================================*/
+
+/*按钮*/
+.button01{display:inline-block; border:none; background-color:#F97B00; text-align:center; color:#fff;}
+.button02{display:inline-block; border:none; background-color:#c0c0c0; text-align:center; color:#fff;}
+.button03{display:inline-block; border:none; background-color:#2778b6; text-align:center; color:#fff;}
+.button04{display:inline-block; border:none; background-color:#09a80d; text-align:center; color:#fff;}
+.button11{display:inline-block; border:none; background:url(../images/button01a.png) center top no-repeat; text-align:center; color:#53b5ff; font-weight:700;width:137px; height:50px;background-size:137px 50px;}
+/*======*/
+html,body{width:100%; height:auto;}
+body{color:#85dad3;font:14px/1 Arial,'Microsoft YaHei',Tahoma,Verdana,'Simsun';height:100%;}
+body{ background-color:#052435;}
+a{color:#85dad3; text-decoration:underline;}
+a:hover{color:#f60;}
+.Recharge{padding:10px 20px;padding-bottom:0px;}
+.tab_menu li{float:left;width:76px; text-align:center; line-height:35px;height:42px; background:url(../images/button-bg02a.png) center top no-repeat;background-size:76px 42px; color:#85dad3; margin-right:3px; font-size:14px; font-weight:700; cursor:pointer;}
+.tab_menu li.cur{background:url(../images/button-bg01a.png) center top no-repeat;background-size:76px 42px; border-color:#eeae44;color:#012728; font-weight:700;}
+.DivBg{background-color:#052427; border:1px solid #0e2e2b;border-radius:5px;padding:2px;}
+.DivBr{border:1px solid #094a50;border-radius:5px;}
+.rechMode li{float:left;line-height:36px;height:36px;margin-right:10px;}
+.rechMode li label{cursor:pointer;}
+.table01 th{text-align:right;padding-right:10px;width:40%;}
+.table01 th,.table01 td{line-height:22px;}
+.com_input{background-color:#06303c; border:1px solid #094a50;color:#dcd3ca;border-radius:5px;}
+.h_inp{height:30px; line-height:30px;}
+.inp_tip{color:#ff0;}
+.table02 th{color:#250b01; font-weight:700;}
+.table02 th,.table02 td{line-height:46px;text-align:center;}
+.table02 tr:nth-child(2n-1){background-color:#052f3b;}
+.table02 .tr01{background:url(../images/bg-01a.png) center top repeat-x;border-radius:5px;}
+/*分页*/
+.page_box{margin:20px 0;font-size:12px;}
+.page_box a{text-decoration:none;}
+.page_box .left{_height:32px;}
+.page{line-height:26px;}
+.page a,.page .disabled{padding:0px 10px;margin:0 8px;background:url(/images/bg-01a.png) center top repeat-x;color:#250b01;display:inline-block;vertical-align:middle;}
+.page strong{padding:0px 8px;border:1px solid #333;background:#0f0717;color:#fff;display:inline-block;vertical-align:middle;}
+.page a:hover{background:#0f0717;color:#fff;}
+.page .page_txt{padding:3px 5px;width:30px;margin:0 2px;}
+.page .page_btn{padding:2px 4px;cursor:pointer;font-size:12px;_padding:1px 0 0 2px;}
+.page_box .com_btn{margin-left:5px;}

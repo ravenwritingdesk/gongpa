@@ -1,0 +1,62 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="SiteMaster.master.cs" Inherits="OfficialWap.Web.SiteMaster" %>
+
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    <title><%=title %></title>
+    <meta name="keywords" content="手机游戏,安卓手游,Android,苹果手游,ios,斗地主,捕鱼,街机" />
+    <meta name="description" content="千鸟游戏是一款手机游戏与PC游戏数据互通，棋牌平台第一品牌游戏。" />
+    <link rel="stylesheet" type="text/css" href="css/base.css" />
+    <link rel="stylesheet" type="text/css" href="css/widget/slider/slider.css" />
+    <link rel="stylesheet" type="text/css" href="css/widget/slider/slider.default.css" />
+    <link rel="stylesheet" type="text/css" href="css/public.css" />
+   <script type="text/javascript" src="http://gmu.baidu.com/dist/zepto.js"></script>
+    <script type="text/javascript" src="js/touch.js"></script>
+    <script type="text/javascript" src="js/zepto.extend.js"></script>
+    <script type="text/javascript" src="js/zepto.ui.js"></script>
+    <script type="text/javascript" src="js/widget/slider.js"></script>
+</head>
+
+
+
+<body>
+    <header class="fix-header">
+        <div class="cover_content clearfix">
+            <a href="index.aspx" class="web_logo"><i class="logo"></i>
+                <dl>
+                    <dt>
+                        <h1><%=webName %></h1>
+                    </dt>
+                    <dd>享受快乐 享受激情</dd>
+                </dl>
+            </a>
+            <a href="Download.aspx" class="btn_download" title="下载游戏">下载游戏</a>
+        </div>
+    </header>
+    <div class="OcTop"></div>
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+    </asp:ContentPlaceHolder>
+    <div class=" mt50 mb30"><a id="toTop" class="to_top" href="#top">返回顶部</a></div>
+    <div class="common_footer oh">
+        <div class="mfoot">
+            <p class="pt20 pb40 lh20">
+                健康游戏忠告：抵制不良游戏，拒绝盗版游戏;<br>
+                注意自我保护，谨防受骗上当，适度游戏益脑;<br>
+                沉迷游戏伤身，合理安排时间，享受健康生活;
+            </p>
+        </div>
+    </div>
+    <div class="OcBottom"></div>
+    <div class="fix-footer">
+        <ul class="clearfix">
+            <li><a href="index.aspx">游戏首页</a></li>
+            <li><a href="Registered.aspx">立即注册</a></li>
+            <li><a href="Service.aspx">客服中心</a></li>
+        </ul>
+    </div>
+    <div class="none"></div>
+</body>
+</html>

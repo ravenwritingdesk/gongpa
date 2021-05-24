@@ -1,0 +1,16 @@
+2015-11-25 07:27:15.068|[7]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-25 07:37:11.398|[20]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-25 07:37:45.084|[20]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5208 token：801D8B4325D27B53607E22C0AFAFEC51 ----
+2015-11-25 07:38:03.333|[23]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5208 token：801D8B4325D27B53607E22C0AFAFEC51 ----
+2015-11-25 07:38:10.579|[5]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5208 token：801D8B4325D27B53607E22C0AFAFEC51 ----
+2015-11-25 07:38:34.474|[5]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5208 充值金额：500000,orderType:201,password:niuniu,token:801D8B4325D27B53607E22C0AFAFEC51,isWeb:False----
+2015-11-25 07:38:34.629|[5]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5208 充值金额：500000返回：银行余额不足!----
+2015-11-25 07:38:34.750|[11]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5208 token：801D8B4325D27B53607E22C0AFAFEC51 ----
+2015-11-25 07:38:43.230|[14]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5208 充值金额：500000,orderType:201,password:niuniu,token:801D8B4325D27B53607E22C0AFAFEC51,isWeb:False----
+2015-11-25 07:38:43.234|[14]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5208 充值金额：500000返回：银行余额不足!----
+2015-11-25 07:38:43.333|[11]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5208 token：801D8B4325D27B53607E22C0AFAFEC51 ----
+2015-11-25 07:38:59.768|[14]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5208date：Wed Nov 25 2015 07:39:31 GMT+0800 (CST)orderType：200----
+2015-11-25 07:39:02.201|[14]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5208 token：801D8B4325D27B53607E22C0AFAFEC51 ----
+2015-11-25 07:39:03.896|[23]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5208date：Wed Nov 25 2015 07:39:35 GMT+0800 (CST)orderType：201----
+2015-11-25 07:39:15.408|[5]|DEBUG|Log.UserHandler|---开始调用获取赠送列表接口 用户：5208 date：2015/11/25 7:39:15 orderType：4----
+2015-11-25 07:44:13.400|[24]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--

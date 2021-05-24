@@ -1,0 +1,19 @@
+2016-07-04 23:43:34.541|[22]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-04 23:46:37.664|[20]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-04 23:52:29.963|[36]|DEBUG|Log.UserHandler|数据调试 uid: 5918  userip: 42.49.254.186   usertoken:B4C72D33FE64C76D6C0AEE8C6B44216D  url: http://www.8899qpw.com:8081/MobileRechargeCenter/Default.aspx?Platform=WindowsPlayer&UserID=5918&Token=B4C72D33FE64C76D6C0AEE8C6B44216D
+2016-07-04 23:52:30.068|[36]|INFO |Log.UserHandler|-----------获得要充值的uid5918---------------
+2016-07-04 23:52:30.939|[36]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[] 用户ID：[0]---------------
+2016-07-04 23:52:41.738|[39]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5918date：Mon Jul 04 2016 23:52:40 GMT+0800 (?D1ú±ê×?ê±??)orderType：200----
+2016-07-04 23:52:42.286|[23]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5918 token：B4C72D33FE64C76D6C0AEE8C6B44216D ----
+2016-07-04 23:52:43.289|[38]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5918date：Mon Jul 04 2016 23:52:42 GMT+0800 (?D1ú±ê×?ê±??)orderType：201----
+2016-07-04 23:52:43.929|[41]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5918 token：B4C72D33FE64C76D6C0AEE8C6B44216D ----
+2016-07-04 23:52:44.795|[23]|DEBUG|Log.UserHandler|---开始调用获取赠送列表接口 用户：5918 date：2016/7/4 23:52:44 orderType：4----
+2016-07-04 23:53:04.312|[37]|ERROR|Log.UserHandler|System.Exception: 抱歉！您要充值的卡号不存在。如有疑问请联系客服中心。
+   at DimoNetwork.DAL.OnLinePayOrder.FilledLivcard(Int32 operUserID, String serialId, String password, String accounts, String ip)
+   at DimoNetwork.BLL.OnLinePayOrder.lrN06RGSw0fLNsBgpuy(Object , Int32 , Object , Object , Object , Object )
+   at DimoNetwork.BLL.OnLinePayOrder.FilledLivcard(Int32 operUserID, String serialId, String password, String accounts, String ip)
+   at UserHandlerWeb.MobileRechargeCenter.PayCardFillByPC.paySubmit()
+2016-07-04 23:53:04.446|[37]|DEBUG|Log.UserHandler|数据调试 uid: 5918  userip: 42.49.254.186   usertoken:B4C72D33FE64C76D6C0AEE8C6B44216D  url: http://www.8899qpw.com:8081/MobileRechargeCenter/Default.aspx?Platform=WindowsPlayer&UserID=5918&Token=B4C72D33FE64C76D6C0AEE8C6B44216D
+2016-07-04 23:53:04.505|[37]|INFO |Log.UserHandler|-----------获得要充值的uid5918---------------
+2016-07-04 23:53:04.529|[37]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[] 用户ID：[0]---------------
+2016-07-04 23:59:49.507|[29]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--

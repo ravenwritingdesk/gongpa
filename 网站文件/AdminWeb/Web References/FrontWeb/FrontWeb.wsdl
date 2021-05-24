@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="UploadPrizeImg">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="fs" type="s:base64Binary" />
+            <s:element minOccurs="0" maxOccurs="1" name="token" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="prizeId" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UploadPrizeImgResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="UploadPrizeImgResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="UploadPrizeImgSoapIn">
+    <wsdl:part name="parameters" element="tns:UploadPrizeImg" />
+  </wsdl:message>
+  <wsdl:message name="UploadPrizeImgSoapOut">
+    <wsdl:part name="parameters" element="tns:UploadPrizeImgResponse" />
+  </wsdl:message>
+  <wsdl:portType name="FrontWebSoap">
+    <wsdl:operation name="UploadPrizeImg">
+      <wsdl:input message="tns:UploadPrizeImgSoapIn" />
+      <wsdl:output message="tns:UploadPrizeImgSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="FrontWebSoap" type="tns:FrontWebSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="UploadPrizeImg">
+      <soap:operation soapAction="http://tempuri.org/UploadPrizeImg" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="FrontWebSoap12" type="tns:FrontWebSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="UploadPrizeImg">
+      <soap12:operation soapAction="http://tempuri.org/UploadPrizeImg" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="FrontWeb">
+    <wsdl:port name="FrontWebSoap" binding="tns:FrontWebSoap">
+      <soap:address location="http://localhost:810/WebService/FrontWeb.asmx" />
+    </wsdl:port>
+    <wsdl:port name="FrontWebSoap12" binding="tns:FrontWebSoap12">
+      <soap12:address location="http://localhost:810/WebService/FrontWeb.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

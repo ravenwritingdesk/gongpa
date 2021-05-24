@@ -1,0 +1,52 @@
+2016-02-15 13:16:07.926|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-02-15 13:23:04.899|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-02-15 13:30:15.547|[15]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-02-15 13:33:06.150|[24]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-02-15 13:33:12.606|[23]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-02-15 13:34:13.525|[24]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-02-15 13:34:24.519|[25]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-02-15 13:34:45.545|[26]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-02-15 13:35:31.049|[25]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-02-15 13:38:00.268|[25]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-02-15 13:49:12.833|[34]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-02-15 13:49:24.114|[24]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-02-15 20:18:01.070|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-02-15 20:18:14.548|[6]|DEBUG|Log.UserHandler|数据调试 uid: 5454  userip: 223.155.151.83   usertoken:9633EBB02CAF0CB95EA13AF453BAE386  url: http://interface.5k5z.com:8094/MobileRechargeCenter/Default.aspx?Platform=IPhonePlayer&UserID=5454&Token=9633EBB02CAF0CB95EA13AF453BAE386
+2016-02-15 20:18:14.584|[6]|INFO |Log.UserHandler|-----------获得要充值的uid5454---------------
+2016-02-15 20:18:14.975|[6]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[qwe4816297] 用户ID：[5454]---------------
+2016-02-15 20:18:20.945|[6]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5454date：Mon Feb 15 2016 12:18:20 GMT+0000 (UTC)orderType：200----
+2016-02-15 20:18:21.638|[5]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5454 token：9633EBB02CAF0CB95EA13AF453BAE386 ----
+2016-02-15 20:22:10.395|[13]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-02-15 20:23:02.777|[16]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-02-15 20:24:55.865|[18]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-02-15 20:25:39.875|[13]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-02-15 20:25:59.107|[13]|DEBUG|Log.UserHandler|数据调试 uid: 5454  userip: 223.155.151.83   usertoken:20CAD0960CF2DF307D0BF44614EAEBF7  url: http://interface.5k5z.com:8094/MobileRechargeCenter/Default.aspx?Platform=IPhonePlayer&UserID=5454&Token=20CAD0960CF2DF307D0BF44614EAEBF7
+2016-02-15 20:25:59.110|[13]|INFO |Log.UserHandler|-----------获得要充值的uid5454---------------
+2016-02-15 20:25:59.124|[13]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[qwe4816297] 用户ID：[5454]---------------
+2016-02-15 20:26:01.258|[13]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5454date：Mon Feb 15 2016 12:26:01 GMT+0000 (UTC)orderType：200----
+2016-02-15 20:26:06.630|[18]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5454date：Mon Feb 15 2016 12:26:06 GMT+0000 (UTC)orderType：200----
+2016-02-15 20:26:07.728|[17]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5454 token：20CAD0960CF2DF307D0BF44614EAEBF7 ----
+2016-02-15 20:31:26.849|[18]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-02-15 20:32:14.796|[17]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-02-15 20:34:13.694|[17]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-02-15 20:34:37.059|[17]|DEBUG|Log.UserHandler|数据调试 uid: 5454  userip: 223.155.151.83   usertoken:7AE2B0696F4FFD8A668DA0A09AC1DC6F  url: http://interface.5k5z.com:8094/MobileRechargeCenter/Default.aspx?Platform=IPhonePlayer&UserID=5454&Token=7AE2B0696F4FFD8A668DA0A09AC1DC6F
+2016-02-15 20:34:37.062|[17]|INFO |Log.UserHandler|-----------获得要充值的uid5454---------------
+2016-02-15 20:34:37.073|[17]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[qwe4816297] 用户ID：[5454]---------------
+2016-02-15 20:34:59.904|[15]|INFO |Log.UserHandler|用户【qwe4816297】进行充值开始调用生成订单存储：生成单号【6992d8dc38c344168a75f919f2c73779】充值金额【481】充值类型【UNIONPAY】
+2016-02-15 20:35:00.030|[15]|INFO |Log.UserHandler|用户【qwe4816297】进行充值单号【6992d8dc38c344168a75f919f2c73779】充值金额【481】充值类型【UNIONPAY】，生成单号错误：【抱歉！您已经在金币游戏房间了，不能进行充值操作，请先退出金币游戏房间！】
+2016-02-15 20:35:03.141|[23]|DEBUG|Log.UserHandler|数据调试 uid: 5454  userip: 223.155.151.83   usertoken:7AE2B0696F4FFD8A668DA0A09AC1DC6F  url: http://interface.5k5z.com:8094/MobileRechargeCenter/Default.aspx?Platform=IPhonePlayer&UserID=5454&Token=7AE2B0696F4FFD8A668DA0A09AC1DC6F
+2016-02-15 20:35:03.144|[23]|INFO |Log.UserHandler|-----------获得要充值的uid5454---------------
+2016-02-15 20:35:03.154|[23]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[qwe4816297] 用户ID：[5454]---------------
+2016-02-15 20:35:12.763|[21]|INFO |Log.UserHandler|用户【qwe4816297】进行充值开始调用生成订单存储：生成单号【672206951bc7478f81cb443e0d197cb7】充值金额【400】充值类型【ALIPAY】
+2016-02-15 20:35:12.765|[21]|INFO |Log.UserHandler|用户【qwe4816297】进行充值单号【672206951bc7478f81cb443e0d197cb7】充值金额【400】充值类型【ALIPAY】，生成单号错误：【抱歉！您已经在金币游戏房间了，不能进行充值操作，请先退出金币游戏房间！】
+2016-02-15 20:35:16.079|[15]|DEBUG|Log.UserHandler|数据调试 uid: 5454  userip: 223.155.151.83   usertoken:7AE2B0696F4FFD8A668DA0A09AC1DC6F  url: http://interface.5k5z.com:8094/MobileRechargeCenter/Default.aspx?Platform=IPhonePlayer&UserID=5454&Token=7AE2B0696F4FFD8A668DA0A09AC1DC6F
+2016-02-15 20:35:16.081|[15]|INFO |Log.UserHandler|-----------获得要充值的uid5454---------------
+2016-02-15 20:35:16.091|[15]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[qwe4816297] 用户ID：[5454]---------------
+2016-02-15 20:38:23.665|[21]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-02-15 20:38:38.923|[23]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-02-15 20:39:36.958|[17]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-02-15 20:42:13.220|[17]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-02-15 20:46:18.909|[30]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-02-15 21:31:49.688|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-02-15 21:33:24.830|[8]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-02-15 21:33:49.478|[13]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--

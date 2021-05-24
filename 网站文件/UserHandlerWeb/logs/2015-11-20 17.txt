@@ -1,0 +1,245 @@
+2015-11-20 17:00:52.879|[14]|DEBUG|Log.UserHandler|platform：----
+2015-11-20 17:00:52.887|[14]|DEBUG|Log.UserHandler|isWeb：True----
+2015-11-20 17:00:53.183|[14]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5177 充值金额：100,orderType：200,password：,token：6031CF6B36B323E1BBC07E2E3C006F87isWeb：True----
+2015-11-20 17:00:53.351|[14]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5177 充值金额：100返回：订单提交成功!----
+2015-11-20 17:01:01.219|[22]|DEBUG|Log.UserHandler|platform：----
+2015-11-20 17:01:01.219|[22]|DEBUG|Log.UserHandler|isWeb：True----
+2015-11-20 17:01:01.219|[22]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5177 充值金额：100,orderType：201,password：e10adc3949ba59abbe56e057f20f883e,token：6031CF6B36B323E1BBC07E2E3C006F87isWeb：True----
+2015-11-20 17:01:01.234|[22]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5177 充值金额：100返回：订单提交成功!----
+2015-11-20 17:01:06.819|[20]|DEBUG|Log.UserHandler|platform：----
+2015-11-20 17:01:06.819|[20]|DEBUG|Log.UserHandler|isWeb：True----
+2015-11-20 17:01:06.819|[20]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5177 充值金额：100,orderType：201,password：c20ad4d76fe97759aa27a0c99bff6710,token：6031CF6B36B323E1BBC07E2E3C006F87isWeb：True----
+2015-11-20 17:01:06.820|[20]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5177 充值金额：100返回：交易密码错误!----
+2015-11-20 17:01:12.490|[24]|DEBUG|Log.UserHandler|platform：----
+2015-11-20 17:01:12.490|[24]|DEBUG|Log.UserHandler|isWeb：True----
+2015-11-20 17:01:12.490|[24]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5177 充值金额：100,orderType：201,password：670b14728ad9902aecba32e22fa4f6bd,token：6031CF6B36B323E1BBC07E2E3C006F87isWeb：True----
+2015-11-20 17:01:12.491|[24]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5177 充值金额：100返回：交易密码错误!----
+2015-11-20 17:01:14.683|[21]|DEBUG|Log.UserHandler|platform：----
+2015-11-20 17:01:14.683|[21]|DEBUG|Log.UserHandler|isWeb：True----
+2015-11-20 17:01:14.685|[21]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5177date：20151120orderType：201----
+2015-11-20 17:01:17.055|[19]|DEBUG|Log.UserHandler|platform：----
+2015-11-20 17:01:17.055|[19]|DEBUG|Log.UserHandler|isWeb：True----
+2015-11-20 17:01:17.057|[19]|DEBUG|Log.UserHandler|---开始调用取消订单接口userid：5177ApplyNumber：100048CancelReason：客服提供的转帐方式我没有----
+2015-11-20 17:01:17.374|[23]|DEBUG|Log.UserHandler|platform：----
+2015-11-20 17:01:17.374|[23]|DEBUG|Log.UserHandler|isWeb：True----
+2015-11-20 17:01:17.374|[23]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5177date：20151120orderType：201----
+2015-11-20 17:01:19.088|[33]|DEBUG|Log.UserHandler|platform：----
+2015-11-20 17:01:19.088|[33]|DEBUG|Log.UserHandler|isWeb：True----
+2015-11-20 17:01:19.088|[33]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5177date：20151120orderType：200----
+2015-11-20 17:01:24.407|[19]|DEBUG|Log.UserHandler|platform：----
+2015-11-20 17:01:24.407|[19]|DEBUG|Log.UserHandler|isWeb：True----
+2015-11-20 17:01:24.412|[19]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-20 17:01:25.403|[24]|DEBUG|Log.UserHandler|platform：----
+2015-11-20 17:01:25.403|[24]|DEBUG|Log.UserHandler|isWeb：True----
+2015-11-20 17:01:25.403|[24]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5177 充值金额：100,orderType：201,password：e10adc3949ba59abbe56e057f20f883e,token：6031CF6B36B323E1BBC07E2E3C006F87isWeb：True----
+2015-11-20 17:01:25.414|[24]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5177 充值金额：100返回：订单提交成功!----
+2015-11-20 17:01:30.515|[20]|DEBUG|Log.UserHandler|platform：----
+2015-11-20 17:01:30.515|[20]|DEBUG|Log.UserHandler|isWeb：True----
+2015-11-20 17:01:30.515|[20]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5177 充值金额：100,orderType：201,password：e10adc3949ba59abbe56e057f20f883e,token：6031CF6B36B323E1BBC07E2E3C006F87isWeb：True----
+2015-11-20 17:01:30.521|[20]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5177 充值金额：100返回：订单提交成功!----
+2015-11-20 17:01:35.708|[24]|DEBUG|Log.UserHandler|platform：----
+2015-11-20 17:01:35.708|[24]|DEBUG|Log.UserHandler|isWeb：True----
+2015-11-20 17:01:35.708|[24]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5177 充值金额：100,orderType：201,password：e10adc3949ba59abbe56e057f20f883e,token：6031CF6B36B323E1BBC07E2E3C006F87isWeb：True----
+2015-11-20 17:01:35.718|[24]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5177 充值金额：100返回：订单提交成功!----
+2015-11-20 17:01:37.625|[24]|DEBUG|Log.UserHandler|platform：----
+2015-11-20 17:01:37.625|[24]|DEBUG|Log.UserHandler|isWeb：True----
+2015-11-20 17:01:37.625|[24]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5177date：20151120orderType：201----
+2015-11-20 17:01:39.911|[33]|DEBUG|Log.UserHandler|platform：----
+2015-11-20 17:01:39.912|[33]|DEBUG|Log.UserHandler|isWeb：True----
+2015-11-20 17:01:39.912|[33]|DEBUG|Log.UserHandler|---开始调用取消订单接口userid：5177ApplyNumber：100049CancelReason：客服提供的转帐方式我没有----
+2015-11-20 17:01:40.190|[21]|DEBUG|Log.UserHandler|platform：----
+2015-11-20 17:01:40.190|[21]|DEBUG|Log.UserHandler|isWeb：True----
+2015-11-20 17:01:40.190|[21]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5177date：20151120orderType：201----
+2015-11-20 17:01:44.242|[19]|DEBUG|Log.UserHandler|platform：----
+2015-11-20 17:01:44.242|[19]|DEBUG|Log.UserHandler|isWeb：True----
+2015-11-20 17:01:44.242|[19]|DEBUG|Log.UserHandler|---开始调用取消订单接口userid：5177ApplyNumber：100050CancelReason：客服提供的转帐方式我没有----
+2015-11-20 17:01:44.531|[14]|DEBUG|Log.UserHandler|platform：----
+2015-11-20 17:01:44.531|[14]|DEBUG|Log.UserHandler|isWeb：True----
+2015-11-20 17:01:44.531|[14]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5177date：20151120orderType：201----
+2015-11-20 17:01:48.113|[20]|DEBUG|Log.UserHandler|platform：----
+2015-11-20 17:01:48.113|[20]|DEBUG|Log.UserHandler|isWeb：True----
+2015-11-20 17:01:48.113|[20]|DEBUG|Log.UserHandler|---开始调用取消订单接口userid：5177ApplyNumber：100051CancelReason：客服提供的转帐方式我没有----
+2015-11-20 17:01:48.393|[24]|DEBUG|Log.UserHandler|platform：----
+2015-11-20 17:01:48.393|[24]|DEBUG|Log.UserHandler|isWeb：True----
+2015-11-20 17:01:48.393|[24]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5177date：20151120orderType：201----
+2015-11-20 17:01:50.495|[21]|DEBUG|Log.UserHandler|platform：----
+2015-11-20 17:01:50.495|[21]|DEBUG|Log.UserHandler|isWeb：True----
+2015-11-20 17:01:50.495|[21]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5177date：20151120orderType：200----
+2015-11-20 17:01:56.985|[33]|DEBUG|Log.UserHandler|platform：----
+2015-11-20 17:01:56.985|[33]|DEBUG|Log.UserHandler|isWeb：True----
+2015-11-20 17:01:56.985|[33]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5177 充值金额：100,orderType：201,password：e10adc3949ba59abbe56e057f20f883e,token：6031CF6B36B323E1BBC07E2E3C006F87isWeb：True----
+2015-11-20 17:01:56.992|[33]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5177 充值金额：100返回：订单提交成功!----
+2015-11-20 17:02:02.219|[23]|DEBUG|Log.UserHandler|platform：----
+2015-11-20 17:02:02.219|[23]|DEBUG|Log.UserHandler|isWeb：True----
+2015-11-20 17:02:02.219|[23]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5177 充值金额：100,orderType：201,password：e10adc3949ba59abbe56e057f20f883e,token：6031CF6B36B323E1BBC07E2E3C006F87isWeb：True----
+2015-11-20 17:02:02.231|[23]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5177 充值金额：100返回：订单提交成功!----
+2015-11-20 17:02:07.554|[20]|DEBUG|Log.UserHandler|platform：----
+2015-11-20 17:02:07.554|[20]|DEBUG|Log.UserHandler|isWeb：True----
+2015-11-20 17:02:07.554|[20]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5177 充值金额：100,orderType：201,password：e10adc3949ba59abbe56e057f20f883e,token：6031CF6B36B323E1BBC07E2E3C006F87isWeb：True----
+2015-11-20 17:02:07.561|[20]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5177 充值金额：100返回：订单提交成功!----
+2015-11-20 17:02:12.740|[22]|DEBUG|Log.UserHandler|platform：----
+2015-11-20 17:02:12.740|[22]|DEBUG|Log.UserHandler|isWeb：True----
+2015-11-20 17:02:12.740|[22]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5177 充值金额：100,orderType：201,password：e10adc3949ba59abbe56e057f20f883e,token：6031CF6B36B323E1BBC07E2E3C006F87isWeb：True----
+2015-11-20 17:02:12.747|[22]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5177 充值金额：100返回：订单提交成功!----
+2015-11-20 17:02:17.943|[33]|DEBUG|Log.UserHandler|platform：----
+2015-11-20 17:02:17.943|[33]|DEBUG|Log.UserHandler|isWeb：True----
+2015-11-20 17:02:17.943|[33]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5177 充值金额：100,orderType：201,password：e10adc3949ba59abbe56e057f20f883e,token：6031CF6B36B323E1BBC07E2E3C006F87isWeb：True----
+2015-11-20 17:02:17.947|[33]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5177 充值金额：100返回：银行余额不足!----
+2015-11-20 17:02:18.652|[20]|DEBUG|Log.UserHandler|platform：----
+2015-11-20 17:02:18.652|[20]|DEBUG|Log.UserHandler|isWeb：True----
+2015-11-20 17:02:18.653|[20]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-20 17:02:21.739|[24]|DEBUG|Log.UserHandler|platform：----
+2015-11-20 17:02:21.740|[24]|DEBUG|Log.UserHandler|isWeb：True----
+2015-11-20 17:02:21.740|[24]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5177date：20151120orderType：200----
+2015-11-20 17:02:26.033|[21]|DEBUG|Log.UserHandler|platform：----
+2015-11-20 17:02:26.033|[21]|DEBUG|Log.UserHandler|isWeb：True----
+2015-11-20 17:02:26.033|[21]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5177 充值金额：100,orderType：200,password：,token：6031CF6B36B323E1BBC07E2E3C006F87isWeb：True----
+2015-11-20 17:02:26.058|[21]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5177 充值金额：100返回：订单提交成功!----
+2015-11-20 17:02:28.087|[19]|DEBUG|Log.UserHandler|platform：----
+2015-11-20 17:02:28.087|[19]|DEBUG|Log.UserHandler|isWeb：True----
+2015-11-20 17:02:28.087|[19]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5177date：20151120orderType：200----
+2015-11-20 17:02:29.597|[23]|DEBUG|Log.UserHandler|platform：----
+2015-11-20 17:02:29.597|[23]|DEBUG|Log.UserHandler|isWeb：True----
+2015-11-20 17:02:29.597|[23]|DEBUG|Log.UserHandler|---开始调用取消订单接口userid：5177ApplyNumber：100045CancelReason：客服提供的转帐方式我没有----
+2015-11-20 17:02:29.887|[20]|DEBUG|Log.UserHandler|platform：----
+2015-11-20 17:02:29.887|[20]|DEBUG|Log.UserHandler|isWeb：True----
+2015-11-20 17:02:29.887|[20]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5177date：20151120orderType：200----
+2015-11-20 17:02:32.778|[19]|DEBUG|Log.UserHandler|platform：----
+2015-11-20 17:02:32.778|[19]|DEBUG|Log.UserHandler|isWeb：True----
+2015-11-20 17:02:32.778|[19]|DEBUG|Log.UserHandler|---开始调用取消订单接口userid：5177ApplyNumber：100044CancelReason：客服提供的转帐方式我没有----
+2015-11-20 17:02:33.137|[23]|DEBUG|Log.UserHandler|platform：----
+2015-11-20 17:02:33.137|[23]|DEBUG|Log.UserHandler|isWeb：True----
+2015-11-20 17:02:33.137|[23]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5177date：20151120orderType：200----
+2015-11-20 17:02:34.923|[21]|DEBUG|Log.UserHandler|platform：----
+2015-11-20 17:02:34.923|[21]|DEBUG|Log.UserHandler|isWeb：True----
+2015-11-20 17:02:34.923|[21]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5177date：20151120orderType：201----
+2015-11-20 17:02:37.254|[14]|DEBUG|Log.UserHandler|platform：----
+2015-11-20 17:02:37.254|[14]|DEBUG|Log.UserHandler|isWeb：True----
+2015-11-20 17:02:37.254|[14]|DEBUG|Log.UserHandler|---开始调用取消订单接口userid：5177ApplyNumber：100052CancelReason：客服提供的转帐方式我没有----
+2015-11-20 17:02:37.540|[19]|DEBUG|Log.UserHandler|platform：----
+2015-11-20 17:02:37.540|[19]|DEBUG|Log.UserHandler|isWeb：True----
+2015-11-20 17:02:37.540|[19]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5177date：20151120orderType：201----
+2015-11-20 17:02:41.285|[24]|DEBUG|Log.UserHandler|platform：----
+2015-11-20 17:02:41.285|[24]|DEBUG|Log.UserHandler|isWeb：True----
+2015-11-20 17:02:41.285|[24]|DEBUG|Log.UserHandler|---开始调用取消订单接口userid：5177ApplyNumber：100053CancelReason：客服提供的转帐方式我没有----
+2015-11-20 17:02:41.559|[22]|DEBUG|Log.UserHandler|platform：----
+2015-11-20 17:02:41.559|[22]|DEBUG|Log.UserHandler|isWeb：True----
+2015-11-20 17:02:41.559|[22]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5177date：20151120orderType：201----
+2015-11-20 17:02:43.850|[14]|DEBUG|Log.UserHandler|platform：----
+2015-11-20 17:02:43.850|[14]|DEBUG|Log.UserHandler|isWeb：True----
+2015-11-20 17:02:43.850|[14]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5177date：20151120orderType：200----
+2015-11-20 17:03:32.677|[21]|DEBUG|Log.UserHandler|platform：Android----
+2015-11-20 17:03:32.677|[21]|DEBUG|Log.UserHandler|isWeb：False----
+2015-11-20 17:03:32.677|[33]|DEBUG|Log.UserHandler|platform：Android----
+2015-11-20 17:03:32.677|[33]|DEBUG|Log.UserHandler|isWeb：False----
+2015-11-20 17:03:32.677|[21]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Fri Nov 20 2015 17:03:57 GMT+0800 (CST)orderType：200----
+2015-11-20 17:03:32.677|[33]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Fri Nov 20 2015 17:03:57 GMT+0800 (CST)orderType：200----
+2015-11-20 17:03:33.101|[23]|DEBUG|Log.UserHandler|platform：Android----
+2015-11-20 17:03:33.101|[23]|DEBUG|Log.UserHandler|isWeb：False----
+2015-11-20 17:03:33.102|[23]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5179 token：23E00ECDDE12F495A3E3B84FA846429C ----
+2015-11-20 17:03:33.314|[22]|DEBUG|Log.UserHandler|platform：Android----
+2015-11-20 17:03:33.314|[22]|DEBUG|Log.UserHandler|isWeb：False----
+2015-11-20 17:03:33.314|[22]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5179 token：23E00ECDDE12F495A3E3B84FA846429C ----
+2015-11-20 17:03:33.541|[14]|DEBUG|Log.UserHandler|platform：Android----
+2015-11-20 17:03:33.541|[14]|DEBUG|Log.UserHandler|isWeb：False----
+2015-11-20 17:03:33.541|[14]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Fri Nov 20 2015 17:03:59 GMT+0800 (CST)orderType：201----
+2015-11-20 17:04:38.755|[33]|DEBUG|Log.UserHandler|platform：----
+2015-11-20 17:04:38.755|[33]|DEBUG|Log.UserHandler|isWeb：True----
+2015-11-20 17:04:38.757|[33]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-20 17:05:07.355|[19]|DEBUG|Log.UserHandler|platform：Android----
+2015-11-20 17:05:07.355|[19]|DEBUG|Log.UserHandler|isWeb：False----
+2015-11-20 17:05:07.355|[19]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5179 充值金额：10,orderType：200,password：,token：23E00ECDDE12F495A3E3B84FA846429CisWeb：False----
+2015-11-20 17:05:07.370|[19]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5179 充值金额：10返回：订单提交成功!----
+2015-11-20 17:05:28.708|[33]|DEBUG|Log.UserHandler|platform：Android----
+2015-11-20 17:05:28.708|[33]|DEBUG|Log.UserHandler|isWeb：False----
+2015-11-20 17:05:28.708|[33]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Fri Nov 20 2015 17:05:54 GMT+0800 (CST)orderType：200----
+2015-11-20 17:05:31.811|[22]|DEBUG|Log.UserHandler|platform：Android----
+2015-11-20 17:05:31.811|[22]|DEBUG|Log.UserHandler|isWeb：False----
+2015-11-20 17:05:31.812|[22]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5179 token：23E00ECDDE12F495A3E3B84FA846429C ----
+2015-11-20 17:05:54.510|[19]|DEBUG|Log.UserHandler|platform：Android----
+2015-11-20 17:05:54.510|[19]|DEBUG|Log.UserHandler|isWeb：False----
+2015-11-20 17:05:54.511|[19]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5179 token：23E00ECDDE12F495A3E3B84FA846429C ----
+2015-11-20 17:06:10.243|[20]|DEBUG|Log.UserHandler|platform：Android----
+2015-11-20 17:06:10.243|[20]|DEBUG|Log.UserHandler|isWeb：False----
+2015-11-20 17:06:10.243|[20]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Fri Nov 20 2015 17:06:36 GMT+0800 (CST)orderType：201----
+2015-11-20 17:06:11.961|[19]|DEBUG|Log.UserHandler|platform：Android----
+2015-11-20 17:06:11.961|[19]|DEBUG|Log.UserHandler|isWeb：False----
+2015-11-20 17:06:11.961|[19]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5179 token：23E00ECDDE12F495A3E3B84FA846429C ----
+2015-11-20 17:06:48.223|[14]|DEBUG|Log.UserHandler|platform：Android----
+2015-11-20 17:06:48.223|[14]|DEBUG|Log.UserHandler|isWeb：False----
+2015-11-20 17:06:48.223|[14]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Fri Nov 20 2015 17:07:14 GMT+0800 (CST)orderType：200----
+2015-11-20 17:06:48.898|[33]|DEBUG|Log.UserHandler|platform：Android----
+2015-11-20 17:06:48.898|[33]|DEBUG|Log.UserHandler|isWeb：False----
+2015-11-20 17:06:48.898|[33]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5179 token：23E00ECDDE12F495A3E3B84FA846429C ----
+2015-11-20 17:07:25.283|[21]|DEBUG|Log.UserHandler|platform：Android----
+2015-11-20 17:07:25.283|[21]|DEBUG|Log.UserHandler|isWeb：False----
+2015-11-20 17:07:25.283|[21]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Fri Nov 20 2015 17:07:51 GMT+0800 (CST)orderType：200----
+2015-11-20 17:07:26.816|[19]|DEBUG|Log.UserHandler|platform：Android----
+2015-11-20 17:07:26.816|[19]|DEBUG|Log.UserHandler|isWeb：False----
+2015-11-20 17:07:26.816|[19]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5179 token：23E00ECDDE12F495A3E3B84FA846429C ----
+2015-11-20 17:08:11.340|[20]|DEBUG|Log.UserHandler|platform：----
+2015-11-20 17:08:11.340|[20]|DEBUG|Log.UserHandler|isWeb：True----
+2015-11-20 17:08:11.341|[20]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-20 17:08:19.308|[24]|DEBUG|Log.UserHandler|platform：Android----
+2015-11-20 17:08:19.308|[24]|DEBUG|Log.UserHandler|isWeb：False----
+2015-11-20 17:08:19.308|[24]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5176date：Fri Nov 20 2015 17:08:45 GMT+0800 (CST)orderType：200----
+2015-11-20 17:08:31.547|[23]|DEBUG|Log.UserHandler|platform：Android----
+2015-11-20 17:08:31.547|[23]|DEBUG|Log.UserHandler|isWeb：False----
+2015-11-20 17:08:31.547|[23]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5176date：Fri Nov 20 2015 17:08:57 GMT+0800 (CST)orderType：200----
+2015-11-20 17:08:36.997|[19]|DEBUG|Log.UserHandler|platform：Android----
+2015-11-20 17:08:36.997|[19]|DEBUG|Log.UserHandler|isWeb：False----
+2015-11-20 17:08:36.997|[19]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5176date：Fri Nov 20 2015 17:09:03 GMT+0800 (CST)orderType：200----
+2015-11-20 17:10:14.535|[20]|DEBUG|Log.UserHandler|platform：----
+2015-11-20 17:10:14.535|[20]|DEBUG|Log.UserHandler|isWeb：True----
+2015-11-20 17:10:14.540|[20]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-20 17:12:42.608|[21]|DEBUG|Log.UserHandler|platform：----
+2015-11-20 17:12:42.608|[21]|DEBUG|Log.UserHandler|isWeb：True----
+2015-11-20 17:12:42.609|[21]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-20 17:13:01.170|[24]|DEBUG|Log.UserHandler|platform：----
+2015-11-20 17:13:01.170|[24]|DEBUG|Log.UserHandler|isWeb：True----
+2015-11-20 17:13:01.172|[24]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-20 17:14:10.516|[17]|DEBUG|Log.UserHandler|platform：Android----
+2015-11-20 17:14:10.516|[17]|DEBUG|Log.UserHandler|isWeb：False----
+2015-11-20 17:14:10.516|[17]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Fri Nov 20 2015 17:14:36 GMT+0800 (CST)orderType：200----
+2015-11-20 17:14:16.647|[20]|DEBUG|Log.UserHandler|platform：Android----
+2015-11-20 17:14:16.647|[20]|DEBUG|Log.UserHandler|isWeb：False----
+2015-11-20 17:14:16.648|[20]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5179 token：23E00ECDDE12F495A3E3B84FA846429C ----
+2015-11-20 17:14:17.230|[23]|DEBUG|Log.UserHandler|platform：Android----
+2015-11-20 17:14:17.230|[23]|DEBUG|Log.UserHandler|isWeb：False----
+2015-11-20 17:14:17.230|[23]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Fri Nov 20 2015 17:14:43 GMT+0800 (CST)orderType：201----
+2015-11-20 17:14:17.893|[17]|DEBUG|Log.UserHandler|platform：Android----
+2015-11-20 17:14:17.893|[17]|DEBUG|Log.UserHandler|isWeb：False----
+2015-11-20 17:14:17.893|[17]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5179 token：23E00ECDDE12F495A3E3B84FA846429C ----
+2015-11-20 17:14:19.283|[33]|DEBUG|Log.UserHandler|platform：Android----
+2015-11-20 17:14:19.283|[33]|DEBUG|Log.UserHandler|isWeb：False----
+2015-11-20 17:14:19.283|[33]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Fri Nov 20 2015 17:14:45 GMT+0800 (CST)orderType：201----
+2015-11-20 17:14:20.733|[20]|DEBUG|Log.UserHandler|platform：Android----
+2015-11-20 17:14:20.733|[20]|DEBUG|Log.UserHandler|isWeb：False----
+2015-11-20 17:14:20.733|[20]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Fri Nov 20 2015 17:14:46 GMT+0800 (CST)orderType：201----
+2015-11-20 17:14:21.618|[33]|DEBUG|Log.UserHandler|platform：Android----
+2015-11-20 17:14:21.618|[33]|DEBUG|Log.UserHandler|isWeb：False----
+2015-11-20 17:14:21.618|[33]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5179 token：23E00ECDDE12F495A3E3B84FA846429C ----
+2015-11-20 17:14:22.579|[23]|DEBUG|Log.UserHandler|platform：Android----
+2015-11-20 17:14:22.579|[23]|DEBUG|Log.UserHandler|isWeb：False----
+2015-11-20 17:14:22.579|[23]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Fri Nov 20 2015 17:14:48 GMT+0800 (CST)orderType：200----
+2015-11-20 17:14:44.185|[33]|DEBUG|Log.UserHandler|platform：Android----
+2015-11-20 17:14:44.185|[33]|DEBUG|Log.UserHandler|isWeb：False----
+2015-11-20 17:14:44.186|[33]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5179 token：23E00ECDDE12F495A3E3B84FA846429C ----
+2015-11-20 17:14:44.782|[23]|DEBUG|Log.UserHandler|platform：Android----
+2015-11-20 17:14:44.782|[23]|DEBUG|Log.UserHandler|isWeb：False----
+2015-11-20 17:14:44.782|[23]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Fri Nov 20 2015 17:15:10 GMT+0800 (CST)orderType：201----
+2015-11-20 17:14:46.158|[20]|DEBUG|Log.UserHandler|platform：Android----
+2015-11-20 17:14:46.158|[20]|DEBUG|Log.UserHandler|isWeb：False----
+2015-11-20 17:14:46.158|[20]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5179date：Fri Nov 20 2015 17:15:12 GMT+0800 (CST)orderType：200----
+2015-11-20 17:41:59.415|[7]|DEBUG|Log.UserHandler|platform：----
+2015-11-20 17:41:59.452|[7]|DEBUG|Log.UserHandler|isWeb：True----
+2015-11-20 17:42:00.591|[7]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-20 17:42:20.508|[7]|DEBUG|Log.UserHandler|platform：Android----
+2015-11-20 17:42:20.508|[7]|DEBUG|Log.UserHandler|isWeb：False----
+2015-11-20 17:42:20.512|[7]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5176date：Fri Nov 20 2015 17:42:46 GMT+0800 (CST)orderType：200----
+2015-11-20 17:42:21.746|[11]|DEBUG|Log.UserHandler|platform：Android----
+2015-11-20 17:42:21.746|[11]|DEBUG|Log.UserHandler|isWeb：False----
+2015-11-20 17:42:21.746|[11]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5176date：Fri Nov 20 2015 17:42:47 GMT+0800 (CST)orderType：200----
+2015-11-20 17:48:23.209|[18]|DEBUG|Log.UserHandler|platform：----
+2015-11-20 17:48:23.209|[18]|DEBUG|Log.UserHandler|isWeb：True----
+2015-11-20 17:48:23.213|[18]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--

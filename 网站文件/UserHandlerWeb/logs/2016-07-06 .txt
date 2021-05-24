@@ -1,0 +1,20 @@
+2016-07-06 17:20:03.852|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-06 17:20:11.942|[12]|DEBUG|Log.UserHandler|数据调试 uid: 11525  userip: 1.207.43.116   usertoken:E99C3D747F7E41C7E20C8018B7BAA6A3  url: http://www.8899qpw.com:8081/MobileRechargeCenter/Default.aspx?Platform=WindowsPlayer&UserID=11525&Token=E99C3D747F7E41C7E20C8018B7BAA6A3
+2016-07-06 17:20:12.026|[12]|INFO |Log.UserHandler|-----------获得要充值的uid11525---------------
+2016-07-06 17:20:12.226|[12]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[asdasd123] 用户ID：[11525]---------------
+2016-07-06 17:20:46.884|[6]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：11525 充值金额：100,orderType:200,password:,token:E99C3D747F7E41C7E20C8018B7BAA6A3,isWeb:FalseuserHostAddress:1.207.43.116----
+2016-07-06 17:20:46.962|[6]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：11525 充值金额：100返回：用户ID不存在!----
+2016-07-06 17:34:02.172|[37]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-06 17:36:21.565|[12]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-06 17:40:56.229|[26]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-06 17:42:03.224|[18]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-06 17:43:06.518|[35]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-06 17:48:14.180|[35]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-06 18:50:46.678|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-06 18:58:29.031|[24]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-06 19:06:43.133|[27]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-06 19:07:38.547|[25]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-06 19:40:24.007|[17]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-06 21:45:55.724|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-06 21:49:51.332|[13]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-06 21:52:26.748|[29]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--

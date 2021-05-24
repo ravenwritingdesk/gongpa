@@ -1,0 +1,17 @@
+{
+  "VersionList":
+  [
+	{
+		"Version":"1.0.0.0",
+		"DownloadUrl":"http://"
+	},
+	{
+		"Version":"other",
+		"DownloadUrl":"http://"
+	},
+	{
+		"Version":"res",
+		"DownloadUrl":"http://125.88.146.237:9999/download/GameRes3402/Windows/"
+	}
+  ]
+}

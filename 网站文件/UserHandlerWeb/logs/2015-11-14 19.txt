@@ -1,0 +1,20 @@
+2015-11-14 19:00:25.022|[32]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-14 19:00:40.368|[30]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5112date：Sat Nov 14 2015 19:01:05 GMT+0800 (CST)orderType：200----
+2015-11-14 19:00:40.756|[33]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5112 token：E704E6BBCA6ADB7C7502BD03CDC5B599 ----
+2015-11-14 19:00:41.155|[35]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5112date：Sat Nov 14 2015 19:01:06 GMT+0800 (CST)orderType：201----
+2015-11-14 19:00:42.151|[30]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5112 token：E704E6BBCA6ADB7C7502BD03CDC5B599 ----
+2015-11-14 19:00:42.627|[18]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5112date：Sat Nov 14 2015 19:01:07 GMT+0800 (CST)orderType：200----
+2015-11-14 19:00:59.030|[30]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5112date：Sat Nov 14 2015 19:01:23 GMT+0800 (CST)orderType：200----
+2015-11-14 19:00:59.566|[31]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5112 token：E704E6BBCA6ADB7C7502BD03CDC5B599 ----
+2015-11-14 19:01:00.049|[34]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5112date：Sat Nov 14 2015 19:01:24 GMT+0800 (CST)orderType：201----
+2015-11-14 19:01:00.638|[33]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5112 token：E704E6BBCA6ADB7C7502BD03CDC5B599 ----
+2015-11-14 19:01:01.068|[34]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5112date：Sat Nov 14 2015 19:01:25 GMT+0800 (CST)orderType：200----
+2015-11-14 19:01:17.019|[33]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5112date：Sat Nov 14 2015 19:01:41 GMT+0800 (CST)orderType：200----
+2015-11-14 19:01:17.341|[30]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5112 token：E704E6BBCA6ADB7C7502BD03CDC5B599 ----
+2015-11-14 19:01:17.796|[35]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5112date：Sat Nov 14 2015 19:01:42 GMT+0800 (CST)orderType：201----
+2015-11-14 19:01:18.837|[29]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5112date：Sat Nov 14 2015 19:01:43 GMT+0800 (CST)orderType：200----
+2015-11-14 19:01:19.031|[32]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5112date：Sat Nov 14 2015 19:01:43 GMT+0800 (CST)orderType：200----
+2015-11-14 19:01:48.059|[30]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-14 19:01:53.544|[36]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5116date：20151114orderType：200----
+2015-11-14 19:01:54.426|[30]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5116date：20151114orderType：201----
+2015-11-14 19:08:18.426|[35]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--

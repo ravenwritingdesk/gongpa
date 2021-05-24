@@ -1,0 +1,49 @@
+2016-01-07 15:28:18.745|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-07 15:30:38.942|[18]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-07 15:31:41.732|[28]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-07 15:32:51.199|[41]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-07 15:33:41.463|[36]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-07 15:34:26.406|[34]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-07 15:34:47.107|[39]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-07 15:36:13.064|[30]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-07 15:38:12.045|[27]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-07 15:43:12.252|[36]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-07 15:43:44.123|[39]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-07 15:44:47.724|[48]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-07 15:45:28.830|[40]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-07 15:47:07.766|[16]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-07 15:48:47.653|[43]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-07 15:50:03.921|[29]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-07 15:52:08.534|[37]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-07 15:53:06.145|[45]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-07 15:53:10.310|[41]|DEBUG|Log.UserHandler|数据调试 uid: 5383  userip: 14.147.180.87   usertoken:BE0107092474C133D69F3ACCEE603294  url: http://interface.tianmu518.com:8094/MobileRechargeCenter/Default.aspx?Platform=Android&UserID=5383&Token=BE0107092474C133D69F3ACCEE603294
+2016-01-07 15:53:10.419|[41]|INFO |Log.UserHandler|-----------获得要充值的uid5383---------------
+2016-01-07 15:53:11.028|[41]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[monica] 用户ID：[5383]---------------
+2016-01-07 15:53:23.617|[32]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5383 充值金额：1,orderType:200,password:,token:BE0107092474C133D69F3ACCEE603294,isWeb:FalseuserHostAddress:14.147.180.87----
+2016-01-07 15:53:23.664|[32]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5383 充值金额：1返回：订单提交成功!----
+2016-01-07 15:53:33.242|[36]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5383 充值金额：10,orderType:200,password:,token:BE0107092474C133D69F3ACCEE603294,isWeb:FalseuserHostAddress:14.147.180.87----
+2016-01-07 15:53:33.258|[36]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5383 充值金额：10返回：订单提交成功!----
+2016-01-07 15:53:35.317|[30]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5383date：Thu Jan 07 2016 15:53:31 GMT+0800 (CST)orderType：200----
+2016-01-07 15:53:36.939|[47]|DEBUG|Log.UserHandler|---开始调用取消订单接口userid：5383ApplyNumber：100002CancelReason：----
+2016-01-07 15:53:37.033|[45]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5383date：Thu Jan 07 2016 15:53:33 GMT+0800 (CST)orderType：200----
+2016-01-07 15:53:38.718|[38]|DEBUG|Log.UserHandler|---开始调用取消订单接口userid：5383ApplyNumber：100001CancelReason：----
+2016-01-07 15:53:38.765|[43]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5383date：Thu Jan 07 2016 15:53:35 GMT+0800 (CST)orderType：200----
+2016-01-07 15:53:40.231|[29]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5383 token：BE0107092474C133D69F3ACCEE603294 ----
+2016-01-07 15:53:47.781|[40]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5383 充值金额：100,orderType:201,password:123456,token:BE0107092474C133D69F3ACCEE603294,isWeb:FalseuserHostAddress:14.147.180.87----
+2016-01-07 15:53:47.797|[40]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5383 充值金额：100返回：银行余额不足!----
+2016-01-07 15:53:47.859|[41]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5383 token：BE0107092474C133D69F3ACCEE603294 ----
+2016-01-07 15:53:55.441|[45]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5383date：Thu Jan 07 2016 15:53:51 GMT+0800 (CST)orderType：201----
+2016-01-07 15:53:56.393|[38]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5383date：Thu Jan 07 2016 15:53:52 GMT+0800 (CST)orderType：200----
+2016-01-07 15:54:07.765|[18]|INFO |Log.UserHandler|用户【monica】进行充值开始调用生成订单存储：生成单号【850eb72665ad411f95f67160e16215cc】充值金额【1】充值类型【UNIONPAY】
+2016-01-07 15:54:07.827|[18]|INFO |Log.UserHandler|用户【monica】进行充值单号【850eb72665ad411f95f67160e16215cc】充值金额【1】充值类型【UNIONPAY】，生成单号错误：【抱歉！您已经在金币游戏房间了，不能进行充值操作，请先退出金币游戏房间！】
+2016-01-07 15:54:14.785|[41]|DEBUG|Log.UserHandler|数据调试 uid: 5383  userip: 14.147.180.87   usertoken:BE0107092474C133D69F3ACCEE603294  url: http://interface.tianmu518.com:8094/MobileRechargeCenter/Default.aspx?Platform=Android&UserID=5383&Token=BE0107092474C133D69F3ACCEE603294
+2016-01-07 15:54:14.785|[41]|INFO |Log.UserHandler|-----------获得要充值的uid5383---------------
+2016-01-07 15:54:14.801|[41]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[monica] 用户ID：[5383]---------------
+2016-01-07 15:54:58.325|[47]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-07 15:55:10.399|[27]|DEBUG|Log.UserHandler|数据调试 uid: 5383  userip: 14.147.180.87   usertoken:BE0107092474C133D69F3ACCEE603294  url: http://interface.tianmu518.com:8094/MobileRechargeCenter/Default.aspx?Platform=Android&UserID=5383&Token=BE0107092474C133D69F3ACCEE603294
+2016-01-07 15:55:10.399|[27]|INFO |Log.UserHandler|-----------获得要充值的uid5383---------------
+2016-01-07 15:55:10.399|[27]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[monica] 用户ID：[5383]---------------
+2016-01-07 15:57:54.371|[31]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-07 15:59:40.342|[27]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-07 16:42:04.909|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-01-07 17:40:33.184|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--

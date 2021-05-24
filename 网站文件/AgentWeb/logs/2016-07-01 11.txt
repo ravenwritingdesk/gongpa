@@ -1,0 +1,57 @@
+2016-07-01 11:33:13.597|[30]|ERROR|LogCommon|--开始订单处理参数: asdasd123，100014,1,1.207.42.190!
+2016-07-01 11:33:13.626|[30]|ERROR|LogCommon|System.Data.SqlClient.SqlException (0x80131904): 您的银行密码输入有误，请查证后再次尝试！
+执行结果：50000
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at Microsoft.Practices.EnterpriseLibrary.Data.Database.DoExecuteNonQuery(DbCommand command)
+   at Microsoft.Practices.EnterpriseLibrary.Data.Database.ExecuteNonQuery(DbCommand command)
+   at DimoNetwork.DAL.ProxyInfo.DealWithPayOrder(Int32 OperatorId, Int32 OrderId, Int32 OrderStatus, String CancelRemark, String IP, String handlerUserAccount, Int16 OperatorType)
+   at DimoNetwork.BLL.ProxyInfo.DealWithPayOrder(Int32 OperatorId, Int32 OrderId, Int32 OrderStatus, String CancelRemark, String IP, String handlerUserAccount, Int16 OpertorType)
+   at DimoNetwork.QPProxyWeb.ProxyHandler.Member.C0NxnIYUJ7DhCMeeBm4(Object , Int32 , Int32 , Int32 , Object , Object , Object , Int16 )
+   at DimoNetwork.QPProxyWeb.ProxyHandler.Member.OrderManage(String bankpassword, Int32 orderid, Int32 status, String ip)
+2016-07-01 11:33:18.453|[28]|ERROR|LogCommon|--开始订单处理参数: asdasd123，100014,1,1.207.42.190!
+2016-07-01 11:33:18.468|[28]|ERROR|LogCommon|System.Data.SqlClient.SqlException (0x80131904): 您的银行密码输入有误，请查证后再次尝试！
+执行结果：50000
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at Microsoft.Practices.EnterpriseLibrary.Data.Database.DoExecuteNonQuery(DbCommand command)
+   at Microsoft.Practices.EnterpriseLibrary.Data.Database.ExecuteNonQuery(DbCommand command)
+   at DimoNetwork.DAL.ProxyInfo.DealWithPayOrder(Int32 OperatorId, Int32 OrderId, Int32 OrderStatus, String CancelRemark, String IP, String handlerUserAccount, Int16 OperatorType)
+   at DimoNetwork.BLL.ProxyInfo.DealWithPayOrder(Int32 OperatorId, Int32 OrderId, Int32 OrderStatus, String CancelRemark, String IP, String handlerUserAccount, Int16 OpertorType)
+   at DimoNetwork.QPProxyWeb.ProxyHandler.Member.C0NxnIYUJ7DhCMeeBm4(Object , Int32 , Int32 , Int32 , Object , Object , Object , Int16 )
+   at DimoNetwork.QPProxyWeb.ProxyHandler.Member.OrderManage(String bankpassword, Int32 orderid, Int32 status, String ip)
+2016-07-01 11:49:38.857|[19]|ERROR|LogCommon|--开始订单处理参数: 123456，100014,1,1.207.42.190!
+2016-07-01 11:49:38.870|[19]|ERROR|LogCommon|System.Data.SqlClient.SqlException (0x80131904): 您的银行密码输入有误，请查证后再次尝试！
+执行结果：50000
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, DbAsyncResult result)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at Microsoft.Practices.EnterpriseLibrary.Data.Database.DoExecuteNonQuery(DbCommand command)
+   at Microsoft.Practices.EnterpriseLibrary.Data.Database.ExecuteNonQuery(DbCommand command)
+   at DimoNetwork.DAL.ProxyInfo.DealWithPayOrder(Int32 OperatorId, Int32 OrderId, Int32 OrderStatus, String CancelRemark, String IP, String handlerUserAccount, Int16 OperatorType)
+   at DimoNetwork.BLL.ProxyInfo.DealWithPayOrder(Int32 OperatorId, Int32 OrderId, Int32 OrderStatus, String CancelRemark, String IP, String handlerUserAccount, Int16 OpertorType)
+   at DimoNetwork.QPProxyWeb.ProxyHandler.Member.C0NxnIYUJ7DhCMeeBm4(Object , Int32 , Int32 , Int32 , Object , Object , Object , Int16 )
+   at DimoNetwork.QPProxyWeb.ProxyHandler.Member.OrderManage(String bankpassword, Int32 orderid, Int32 status, String ip)
+2016-07-01 11:51:54.558|[41]|ERROR|LogCommon|--开始订单处理参数: asdasd123，100014,1,1.207.42.190!
+2016-07-01 11:51:54.622|[41]|ERROR|LogCommon|--订单处理完成: 订单100014，结果0
+2016-07-01 11:51:54.641|[41]|ERROR|LogCommon|--开始订单处理步骤 result(): asdasd123，100014,1,0!

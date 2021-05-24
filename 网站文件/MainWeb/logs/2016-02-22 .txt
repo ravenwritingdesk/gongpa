@@ -1,0 +1,4 @@
+2016-02-22 10:32:58.484|[39]|INFO |Log.FrontWeb|-----------获得要充值的uid---------------
+2016-02-22 11:24:51.437|[34]|INFO |Log.FrontWeb|-----------获得要充值的uid---------------
+2016-02-22 11:25:19.580|[20]|INFO |Log.FrontWeb|用户【heimao】进行充值开始调用生成订单存储：生成单号【85407a1d95e147a98a1f1ca3df75f644】充值金额【100】充值类型【ALIPAY】
+2016-02-22 11:25:20.157|[20]|INFO |Log.FrontWeb|调用支付宝接口：单号【85407a1d95e147a98a1f1ca3df75f644】充值金额【10000】，返回：result.resultCode：【4】result.resultMsg：【MISS_PARAM】

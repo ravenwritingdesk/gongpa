@@ -1,0 +1,4 @@
+2016-02-21 11:05:43.130|[5]|DEBUG|Log.UserHandler|数据调试 uid:   userip: 121.42.0.35   usertoken:  url: http://interface.5k5z.com:8094/MobileRechargeCenter/Default.aspx
+2016-02-21 11:05:43.536|[5]|INFO |Log.UserHandler|-----------获得要充值的uid---------------
+2016-02-21 16:21:38.850|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-02-21 17:53:07.093|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--

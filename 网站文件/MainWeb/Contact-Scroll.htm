@@ -1,0 +1,225 @@
+﻿
+
+    <style type="text/css">
+        .QQbox {
+            z-index: 99;
+            width: 170px;
+            right: 3px;
+            top: 145px;
+            position: absolute;
+        }
+
+            .QQbox .press {
+                right: 0;
+                border: none;
+                cursor: pointer;
+                width: 26px;
+                height: 136px;
+                position: absolute;
+            }
+
+        .kef {
+            background: url('/images/ke_bg2.gif') no-repeat;
+            width: 162px;
+            height: 343px;
+            margin: auto;
+        }
+
+            .kef .dj {
+                margin: auto;
+                overflow: hidden;
+                clear: both;
+                padding-left: 23px;
+                padding-top: 110px;
+                float: left;
+            }
+
+                .kef .dj .l {
+                    color: #007eba;
+                    font-size: 12px;
+                    font-weight: bold;
+                    text-align: left;
+                    padding-top: 10px;
+                    line-height: 20px;
+                }
+
+                .kef .dj .hm {
+                    color: #2a2a2a;
+                    font-size: 12px;
+                    text-align: left;
+                    /* 	padding-left: 20px; */
+                    line-height: 26px;
+                    text-decoration: none;
+                }
+
+                    .kef .dj .hm img {
+                        vertical-align: middle;
+                        line-height: 26px;
+                    }
+
+                    .kef .dj .hm a {
+                        color: #2a2a2a;
+                        font-size: 12px;
+                        text-align: left;
+                        line-height: 26px;
+                        text-decoration: none;
+                    }
+
+                        .kef .dj .hm a:hover {
+                            color: #ff6500;
+                            font-size: 12px;
+                            text-align: left;
+                            line-height: 26px;
+                            text-decoration: underline;
+                        }
+
+                .kef .dj .button {
+                    background: url('/images/ke_button.gif') no-repeat;
+                    width: 111px;
+                    height: 31px;
+                    border: medium none;
+                    cursor: pointer;
+                    line-height: 31px;
+                    letter-spacing: 2px;
+                    color: #fff;
+                    font-size: 12px;
+                    margin-top: 5px;
+                }
+    </style>
+
+    <script type="text/javascript">
+        function doContact(qq) {
+            var url = "http://wpa.qq.com/msgrd?v=3&uin=" + qq + "&site=qq&menu=yes";
+            window.open(url);
+        }
+    </script>
+
+    <div class='QQbox' id='divQQbox'>
+        <div class='kef' id='divOnline' onmouseout='hideMsgBox(event);' style='display: none;'>
+            <div class="kef" onmouseover='OnlineOver();'>
+                <div class="dj">
+                    <div class="l">
+                        服务热线：
+                    </div>
+
+                    <div class="hm">
+                        <img src="/images/ke_ico1.gif" />
+                        4000225995
+                    </div>
+                    <div class="hm">
+                        <img src="/images/ke_ico1.gif" />
+                        13352871995
+
+                    </div>
+                    <div class="hm">
+                        <img src="/images/ke_ico1.gif" />
+                        18928842623
+                    </div>
+
+                    <div class="l">
+                        客服QQ：
+                    </div>
+
+                    <div class="hm">
+                        <img src="/images/ke_ico2.gif" />
+                        <a href="javascript:void(0)" onclick="doContact('4000225995');">4000225995</a>
+                    </div>
+                    <div class="hm">
+                        <img src="/images/ke_ico2.gif" />
+                        <a href="javascript:void(0)" onclick="doContact('286195811');">286195811</a>
+                    </div>
+                    <div class="hm">
+                        <img src="/images/ke_ico2.gif" />
+                        <a href="javascript:void(0)" onclick="doContact('379670777');">379670777</a>
+                    </div>
+                </div>
+
+
+
+
+            </div>
+        </div>
+
+        <div id='divMenu' onmouseover='OnlineOver();'>
+            <img src='/images/qq_1.gif' class='press' />
+        </div>
+
+    </div>
+    <script language='javascript' type='text/javascript'>
+        var tips;
+        var theTop = 145;
+        var old = theTop;
+
+        function initFloatTips() {
+            tips = document.getElementById('divQQbox');
+            moveTips();
+        };
+
+        function moveTips() {
+            var tt = 50;
+            if (window.innerHeight) {
+                posQQ = window.pageYOffset;
+            } else if (document.documentElement && document.documentElement.scrollTop) {
+                posQQ = document.documentElement.scrollTop;
+            } else if (document.body) {
+                posQQ = document.body.scrollTop;
+            }
+            posQQ = posQQ - tips.offsetTop + theTop;
+            posQQ = tips.offsetTop + posQQ / 10;
+
+            if (posQQ < theTop)
+                posQQ = theTop;
+            if (posQQ != old) {
+                tips.style.top = posQQ + "px";
+                tt = 10;
+                //alert(tips.style.top);
+            }
+
+            old = posQQ;
+            setTimeout(moveTips, tt);
+        }
+        //!]]>
+
+        initFloatTips();
+
+        function OnlineOver() {
+            document.getElementById("divMenu").style.display = "none";
+            document.getElementById("divOnline").style.display = "block";
+            document.getElementById("divQQbox").style.width = "170px";
+        }
+
+        function OnlineOut() {
+            document.getElementById("divMenu").style.display = "block";
+            document.getElementById("divOnline").style.display = "none";
+        }
+
+        if (typeof (HTMLElement) != "undefined") {
+            HTMLElement.prototype.contains = function (obj) {
+                while (obj != null && typeof (obj.tagName) != "undefind") {
+                    if (obj == this)
+                        return true;
+                    obj = obj.parentNode;
+                }
+                return false;
+            };
+        }
+        function hideMsgBox(theEvent) {
+            if (theEvent) {
+                var browser = navigator.userAgent;
+                if (browser.indexOf("Firefox") > 0) {
+                    if (document.getElementById('divOnline').contains(
+                            theEvent.relatedTarget)) {
+                        return;
+                    }
+                }
+
+                if (browser.indexOf("MSIE") > 0) {
+                    if (document.getElementById('divOnline').contains(event.toElement)) {
+                        return;
+                    }
+                }
+            }
+            document.getElementById("divMenu").style.display = "block";
+            document.getElementById("divOnline").style.display = "none";
+        }
+    </script>

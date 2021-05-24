@@ -1,0 +1,43 @@
+2016-02-23 11:23:27.906|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-02-23 11:25:37.318|[15]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-02-23 11:28:17.855|[17]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-02-23 11:28:44.042|[11]|DEBUG|Log.UserHandler|数据调试 uid: 5448  userip: 171.91.126.26   usertoken:BA713C68A90F87C10AEA74ECC5289986  url: http://interface.5k5z.com:8094/MobileRechargeCenter/Default.aspx?Platform=WindowsPlayer&UserID=5448&Token=BA713C68A90F87C10AEA74ECC5289986
+2016-02-23 11:28:44.067|[11]|INFO |Log.UserHandler|-----------获得要充值的uid5448---------------
+2016-02-23 11:28:44.486|[11]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[2304162] 用户ID：[5448]---------------
+2016-02-23 12:33:15.983|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-02-23 12:34:55.023|[9]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-02-23 12:35:14.545|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-02-23 12:35:14.784|[10]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-02-23 15:08:02.932|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-02-23 15:10:15.318|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-02-23 15:12:37.744|[13]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-02-23 15:24:59.433|[25]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-02-23 15:26:21.786|[18]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-02-23 15:27:00.088|[18]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-02-23 15:53:10.911|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-02-23 16:24:21.008|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-02-23 16:30:13.922|[14]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-02-23 20:12:04.942|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-02-23 20:13:11.702|[6]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-02-23 20:14:33.893|[6]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-02-23 20:26:26.247|[24]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-02-23 20:27:41.066|[6]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-02-23 20:29:12.543|[25]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-02-23 20:29:27.097|[22]|DEBUG|Log.UserHandler|数据调试 uid: 5438  userip: 14.108.122.223   usertoken:77C5D4639C9407E7D10ABBABED1DEA2D  url: http://interface.5k5z.com:8094/MobileRechargeCenter/Default.aspx?Platform=WindowsPlayer&UserID=5438&Token=77C5D4639C9407E7D10ABBABED1DEA2D
+2016-02-23 20:29:27.133|[22]|INFO |Log.UserHandler|-----------获得要充值的uid5438---------------
+2016-02-23 20:29:27.560|[22]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[miyou13] 用户ID：[5438]---------------
+2016-02-23 20:29:30.042|[27]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5438date：Tue Feb 23 2016 20:27:30 GMT+0800 (?D1ú±ê×?ê±??)orderType：200----
+2016-02-23 20:29:30.713|[29]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5438 token：77C5D4639C9407E7D10ABBABED1DEA2D ----
+2016-02-23 20:29:31.397|[28]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5438date：Tue Feb 23 2016 20:27:32 GMT+0800 (?D1ú±ê×?ê±??)orderType：201----
+2016-02-23 20:29:32.022|[24]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5438 token：77C5D4639C9407E7D10ABBABED1DEA2D ----
+2016-02-23 20:29:32.552|[16]|DEBUG|Log.UserHandler|---开始调用获取赠送列表接口 用户：5438 date：2016/2/23 20:29:32 orderType：4----
+2016-02-23 20:34:23.763|[30]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-02-23 20:47:01.859|[17]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-02-23 20:52:21.765|[40]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-02-23 20:56:53.091|[43]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-02-23 20:57:09.619|[44]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-02-23 20:58:39.754|[47]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-02-23 21:15:53.368|[48]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-02-23 21:23:21.573|[55]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-02-23 21:24:24.075|[59]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-02-23 21:25:01.618|[59]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--

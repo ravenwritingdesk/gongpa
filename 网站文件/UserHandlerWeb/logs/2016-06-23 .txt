@@ -1,0 +1,5 @@
+2016-06-23 21:49:16.010|[43]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-06-23 21:51:25.225|[58]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-06-23 21:51:36.704|[53]|DEBUG|Log.UserHandler|数据调试 uid: 5718  userip: 183.10.234.226   usertoken:109D5C288E9F70DC92A9D5D73752F470  url: http://www.8899qpw.com:8081/MobileRechargeCenter/Default.aspx?Platform=Android&UserID=5718&Token=109D5C288E9F70DC92A9D5D73752F470
+2016-06-23 21:51:36.726|[53]|INFO |Log.UserHandler|-----------获得要充值的uid5718---------------
+2016-06-23 21:51:37.076|[53]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[administrator] 用户ID：[5718]---------------

@@ -1,0 +1,58 @@
+2015-11-19 21:00:03.950|[7]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-19 21:00:23.078|[9]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-19 21:00:55.181|[7]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-19 21:02:28.738|[13]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-19 21:02:53.446|[14]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-19 21:03:15.446|[9]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5176date：Thu Nov 19 2015 21:03:40 GMT+0800 (CST)orderType：200----
+2015-11-19 21:03:20.090|[14]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5176 token：6970290C12F785BF8AA33EFB0ACE299D ----
+2015-11-19 21:04:11.109|[14]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5176date：Thu Nov 19 2015 21:04:36 GMT+0800 (CST)orderType：201----
+2015-11-19 21:04:12.669|[17]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-19 21:04:42.756|[14]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-19 21:05:10.690|[19]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5176 充值金额：111,200,123456,6970290C12F785BF8AA33EFB0ACE299D----
+2015-11-19 21:05:10.713|[19]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5176 充值金额：111返回：订单提交成功!----
+2015-11-19 21:05:12.958|[18]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5176date：Thu Nov 19 2015 21:05:38 GMT+0800 (CST)orderType：200----
+2015-11-19 21:05:26.393|[13]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5176date：Thu Nov 19 2015 21:05:51 GMT+0800 (CST)orderType：200----
+2015-11-19 21:05:32.426|[19]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-19 21:05:38.030|[7]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5176date：Thu Nov 19 2015 21:06:03 GMT+0800 (CST)orderType：200----
+2015-11-19 21:05:38.281|[14]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5176 token：6970290C12F785BF8AA33EFB0ACE299D ----
+2015-11-19 21:05:39.556|[18]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5176date：Thu Nov 19 2015 21:06:04 GMT+0800 (CST)orderType：200----
+2015-11-19 21:05:39.982|[16]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5176date：Thu Nov 19 2015 21:06:05 GMT+0800 (CST)orderType：201----
+2015-11-19 21:05:41.064|[14]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5176 token：6970290C12F785BF8AA33EFB0ACE299D ----
+2015-11-19 21:06:02.468|[16]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-19 21:06:26.711|[9]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5176 充值金额：144,200,123456,6970290C12F785BF8AA33EFB0ACE299D----
+2015-11-19 21:06:26.717|[9]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5176 充值金额：144返回：订单提交成功!----
+2015-11-19 21:06:34.829|[13]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5176date：Thu Nov 19 2015 21:06:59 GMT+0800 (CST)orderType：200----
+2015-11-19 21:07:14.127|[19]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5176date：Thu Nov 19 2015 21:07:39 GMT+0800 (CST)orderType：200----
+2015-11-19 21:07:38.476|[17]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-19 21:07:48.282|[13]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-19 21:08:04.788|[13]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-19 21:08:11.208|[9]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5143date：Thu Nov 19 2015 21:08:36 GMT+0800 (CST)orderType：200----
+2015-11-19 21:08:11.650|[17]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5143 token：88178B2AB5D2D793AA45F4C63D517526 ----
+2015-11-19 21:08:11.938|[19]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5143date：Thu Nov 19 2015 21:08:37 GMT+0800 (CST)orderType：201----
+2015-11-19 21:08:12.399|[21]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5143 token：88178B2AB5D2D793AA45F4C63D517526 ----
+2015-11-19 21:08:12.883|[18]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5143date：Thu Nov 19 2015 21:08:38 GMT+0800 (CST)orderType：200----
+2015-11-19 21:08:13.096|[9]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5143 token：88178B2AB5D2D793AA45F4C63D517526 ----
+2015-11-19 21:08:13.268|[17]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5143date：Thu Nov 19 2015 21:08:38 GMT+0800 (CST)orderType：201----
+2015-11-19 21:08:14.095|[13]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5143date：Thu Nov 19 2015 21:08:39 GMT+0800 (CST)orderType：201----
+2015-11-19 21:09:18.217|[13]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5176date：Thu Nov 19 2015 21:09:43 GMT+0800 (CST)orderType：200----
+2015-11-19 21:09:19.672|[7]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5176 token：6970290C12F785BF8AA33EFB0ACE299D ----
+2015-11-19 21:09:20.119|[21]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5176date：Thu Nov 19 2015 21:09:45 GMT+0800 (CST)orderType：200----
+2015-11-19 21:09:22.717|[7]|DEBUG|Log.UserHandler|---开始调用取消订单接口userid：5176ApplyNumber：100041CancelReason：----
+2015-11-19 21:09:23.759|[13]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5176date：Thu Nov 19 2015 21:09:48 GMT+0800 (CST)orderType：200----
+2015-11-19 21:09:28.087|[19]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5176date：Thu Nov 19 2015 21:09:53 GMT+0800 (CST)orderType：201----
+2015-11-19 21:09:33.251|[21]|DEBUG|Log.UserHandler|---开始调用取消订单接口userid：5176ApplyNumber：100040CancelReason：----
+2015-11-19 21:09:34.291|[21]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5176date：Thu Nov 19 2015 21:09:59 GMT+0800 (CST)orderType：201----
+2015-11-19 21:09:35.487|[9]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5176 token：6970290C12F785BF8AA33EFB0ACE299D ----
+2015-11-19 21:09:36.182|[18]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5176date：Thu Nov 19 2015 21:10:01 GMT+0800 (CST)orderType：200----
+2015-11-19 21:09:37.159|[17]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5176date：Thu Nov 19 2015 21:10:02 GMT+0800 (CST)orderType：201----
+2015-11-19 21:09:37.810|[13]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5176 token：6970290C12F785BF8AA33EFB0ACE299D ----
+2015-11-19 21:09:38.647|[21]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5176date：Thu Nov 19 2015 21:10:03 GMT+0800 (CST)orderType：200----
+2015-11-19 21:09:55.224|[13]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-19 21:10:06.616|[21]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5176 token：6970290C12F785BF8AA33EFB0ACE299D ----
+2015-11-19 21:10:07.743|[7]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5176date：Thu Nov 19 2015 21:10:32 GMT+0800 (CST)orderType：200----
+2015-11-19 21:10:08.580|[18]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5176date：Thu Nov 19 2015 21:10:33 GMT+0800 (CST)orderType：200----
+2015-11-19 21:10:10.119|[19]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5176 token：6970290C12F785BF8AA33EFB0ACE299D ----
+2015-11-19 21:10:10.136|[17]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5176date：Thu Nov 19 2015 21:10:34 GMT+0800 (CST)orderType：200----
+2015-11-19 21:11:03.118|[19]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-19 21:11:27.186|[9]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-11-19 21:12:39.252|[7]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--

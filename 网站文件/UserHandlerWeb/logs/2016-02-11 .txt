@@ -1,0 +1,10 @@
+2016-02-11 00:44:04.885|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-02-11 12:14:56.268|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--
+2016-02-11 12:15:09.328|[8]|DEBUG|Log.UserHandler|数据调试 uid: 5448  userip: 123.179.240.69   usertoken:C76413770C55574313EBAEB3CF3756F5  url: http://interface.5k5z.com:8094/MobileRechargeCenter/Default.aspx?Platform=WindowsPlayer&UserID=5448&Token=C76413770C55574313EBAEB3CF3756F5
+2016-02-11 12:15:09.363|[8]|INFO |Log.UserHandler|-----------获得要充值的uid5448---------------
+2016-02-11 12:15:09.762|[8]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[2304162] 用户ID：[5448]---------------
+2016-02-11 12:15:12.353|[5]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5448date：Thu Feb 11 2016 12:15:11 GMT+0800 (?D1ú±ê×?ê±??)orderType：200----
+2016-02-11 12:15:13.079|[8]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5448 token：C76413770C55574313EBAEB3CF3756F5 ----
+2016-02-11 12:15:13.636|[9]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5448date：Thu Feb 11 2016 12:15:12 GMT+0800 (?D1ú±ê×?ê±??)orderType：201----
+2016-02-11 12:15:14.472|[8]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5448 token：C76413770C55574313EBAEB3CF3756F5 ----
+2016-02-11 12:22:29.940|[14]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据0条--

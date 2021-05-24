@@ -1,0 +1,90 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="User.master.cs" Inherits="Game.FrontWeb.User.User" %>
+
+<%@ Register Src="~/UserControl/SiteHead.ascx" TagPrefix="uc1" TagName="SiteHead" %>
+<%@ Register Src="~/UserControl/SiteMenu.ascx" TagPrefix="uc1" TagName="SiteMenu" %>
+<%@ Register Src="~/UserControl/SiteFooter.ascx" TagPrefix="uc1" TagName="SiteFooter" %>
+
+
+<!DOCTYPE HTML>
+<html>
+<uc1:SiteHead runat="server" ID="SiteHead" />
+<script src="../js/formValidator.js"></script>
+<script src="../js/formValidatorRegex.js"></script>
+<link href="../css/user.css" rel="stylesheet" />
+<body>
+
+    <div id="wrapper">
+    <uc1:SiteMenu runat="server" ID="SiteMenu" />
+
+        <div class="wrap clearfix tl">
+            <!-- leftMold-->
+            <div class="leftMold fl">
+                <div class="comUserNav comMold">
+                    <dl>
+                        <dt class="clearfix">
+                            <p class="fl">
+                                <img src="/images/ico-UserInfo.png" alt="">
+                            </p>
+                           
+                        </dt>
+                        <div class="body p10">
+                            <div class="UserInfo">
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                    <tr>
+                                        <td width="42%" valign="top">
+                                            <p class="Photo">
+                                                <img src="/images/Product/434.jpg" alt="">
+                                            </p>
+                                        </td>
+                                        <td valign="top" class="lh22">帐号：<%=currentAccountsInfo.Accounts%>
+                                            <br>
+                                            ＩＤ：<%=currentAccountsInfo.UserID%>
+                                            <br>
+                                            昵称：<%=currentAccountsInfo.NickName%><br>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="2" valign="top" class="lh30 tc ptb10">【<a href="UserIndex.aspx">个人中心</a>】【<a href="/LoginOut.aspx">退出登录</a>】</td>
+                                    </tr>
+                                </table>
+                            </div>
+                        </div>
+                    </dl>
+                    <dl>
+                        <dt class="clearfix">
+                            <p class="fl">
+                                <img src="/images/ico-Edit.png" alt="">
+                            </p>
+                        </dt>
+                        <div class="list p10">
+                            <ul>
+                                <li <%=(MenuName == "修改昵称" ? "class='cur'" : "")%> ><a href="/User/UserEditName.aspx">修改昵称</a></li>
+                                <li class="<%=MenuName == "修改信息" ? "cur" : ""%>" ><a href="/User/UserEditInfo.aspx">修改信息</a></li>
+                                <li class="<%=MenuName == "修改密码" ? "cur" : ""%>" ><a href="/User/UserEditPassword.aspx">修改密码</a></li>
+                                <li class="<%=MenuName == "修改保险密码" ? "cur" : ""%>" ><a href="/User/UserEditSafetyPW.aspx">修改保险密码</a></li>
+                                <%--<li class="<%=MenuName=="密码保护"?"cur":"" %>" ><a href="/User/UserApplyProtect.aspx">密码保护</a></li>--%>
+                                <%--<li class="<%=MenuName=="交易明细"?"cur":"" %>" ><a href="/User/UserTradingRecord.aspx	">交易明细</a></li>--%>
+                                <li class="<%=MenuName=="兑换奖券"?"cur":"" %>" ><a href="/User/ChangeGold.aspx">兑换奖券</a></li>
+                                <li class="<%=MenuName == "充值提现记录" ? "cur" : ""%>" ><a href="/User/UserRechargeRecord.aspx">充值提现记录</a></li>
+                                <li class="<%=MenuName == "游戏记录" ? "cur" : ""%>" ><a href="/User/UserGamesRecord.aspx">游戏记录</a></li>
+                            </ul>
+                        </div>
+                    </dl>
+                </div>
+            </div>
+            <!-- leftMold /-->
+
+            <!-- rightMold-->
+            <form id="form1" runat="server">
+                <div>
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+            </form>
+            <!-- rightMold /-->
+        </div>
+    </div>
+    <uc1:SiteFooter runat="server" ID="SiteFooter" />
+</body>
+</html>
+

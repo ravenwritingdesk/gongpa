@@ -1,0 +1,27 @@
+2015-12-13 15:12:43.767|[7]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-13 15:13:32.222|[11]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-13 15:15:52.111|[7]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-13 15:16:05.969|[16]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-13 15:17:16.664|[17]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-13 15:17:31.601|[7]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-13 15:17:55.120|[19]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-13 15:18:26.982|[7]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-13 15:19:02.066|[7]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-13 15:24:12.532|[28]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-13 15:25:03.191|[31]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-13 15:26:36.479|[34]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-13 15:27:38.746|[34]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-13 15:32:53.535|[37]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-13 15:49:07.305|[46]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5253 充值金额：1,orderType:200,password:,token:9AC18B0B60BBAF0010CFD1A285AA1193,isWeb:True----
+2015-12-13 15:49:07.775|[46]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5253 充值金额：1返回：订单提交成功!----
+2015-12-13 15:49:34.213|[46]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5253date：20151213orderType：200----
+2015-12-13 15:50:44.769|[55]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5253date：20151213orderType：200----
+2015-12-13 15:51:51.391|[57]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5253 充值金额：2000,orderType:200,password:,token:9AC18B0B60BBAF0010CFD1A285AA1193,isWeb:True----
+2015-12-13 15:51:51.396|[57]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5253 充值金额：2000返回：订单提交成功!----
+2015-12-13 15:52:08.726|[46]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5253date：20151213orderType：200----
+2015-12-13 15:56:33.998|[58]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5314 充值金额：10,orderType:200,password:,token:4904871B5CC4CF349FA577C2B44588C2,isWeb:True----
+2015-12-13 15:56:34.013|[58]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5314 充值金额：10返回：订单提交成功!----
+2015-12-13 15:57:30.839|[52]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5314 充值金额：1,orderType:200,password:,token:4904871B5CC4CF349FA577C2B44588C2,isWeb:True----
+2015-12-13 15:57:30.845|[52]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5314 充值金额：1返回：订单提交成功!----
+2015-12-13 15:57:53.299|[52]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5314date：20151213orderType：200----
+2015-12-13 15:57:55.966|[52]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5314date：20151213orderType：201----

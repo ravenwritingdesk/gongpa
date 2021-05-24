@@ -1,0 +1,16 @@
+<Assignments>
+  <Assignment>
+    <PlanType Value="0">0</PlanType>
+    <PlanName Value="更新抽水">更新抽水</PlanName>
+    <IsActive Value="1">1</IsActive>
+    <LastExecDate Value="2016-07-08 11:09:05">2016-07-08 11:09:05</LastExecDate>
+    <TimeType Value="0">0<Day Value=""></Day><Hour Value="11">11</Hour><Minute Value="5">5</Minute></TimeType>
+  </Assignment>
+  <Assignment>
+    <PlanType Value="1">1</PlanType>
+    <PlanName Value="发放红利">发放红利</PlanName>
+    <IsActive Value="0">0</IsActive>
+    <LastExecDate Value="2016-03-21 23:00:07">2016-03-21 23:00:07</LastExecDate>
+    <TimeType Value="1">1<Day Value="1">1</Day><Hour Value="23">23</Hour><Minute Value="0">0</Minute></TimeType>
+  </Assignment>
+</Assignments>

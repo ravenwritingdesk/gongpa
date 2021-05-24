@@ -1,0 +1,18 @@
+2015-12-15 03:01:09.728|[51]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-15 03:04:20.658|[51]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-15 03:04:51.351|[51]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-15 03:12:26.964|[47]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5280 充值金额：500,orderType:200,password:,token:4E84EC110E29DF7E4AA8D0C1867544FD,isWeb:False----
+2015-12-15 03:12:26.987|[47]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5280 充值金额：500返回：订单提交成功!----
+2015-12-15 03:13:25.180|[51]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-15 03:14:02.469|[54]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5280date：Tue Dec 15 2015 03:14:02 GMT+0800 (CST)orderType：200----
+2015-12-15 03:14:07.170|[47]|DEBUG|Log.UserHandler|---开始调用取消订单接口userid：5280ApplyNumber：100065CancelReason：----
+2015-12-15 03:14:07.395|[54]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5280date：Tue Dec 15 2015 03:14:07 GMT+0800 (CST)orderType：200----
+2015-12-15 03:48:26.513|[7]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-15 03:48:55.059|[15]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5333date：Tue Dec 15 2015 03:48:54 GMT+0800 (CST)orderType：200----
+2015-12-15 03:48:56.785|[14]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5333 token：3AF4A3BEEF9FC836AD8828BAF5A0CF13 ----
+2015-12-15 03:48:57.641|[7]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5333date：Tue Dec 15 2015 03:48:57 GMT+0800 (CST)orderType：201----
+2015-12-15 03:49:00.912|[14]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5333 token：3AF4A3BEEF9FC836AD8828BAF5A0CF13 ----
+2015-12-15 03:49:03.644|[13]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5333date：Tue Dec 15 2015 03:49:03 GMT+0800 (CST)orderType：201----
+2015-12-15 03:49:05.641|[11]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5333 token：3AF4A3BEEF9FC836AD8828BAF5A0CF13 ----
+2015-12-15 03:49:14.826|[7]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5333date：Tue Dec 15 2015 03:49:14 GMT+0800 (CST)orderType：200----
+2015-12-15 03:53:16.148|[17]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--

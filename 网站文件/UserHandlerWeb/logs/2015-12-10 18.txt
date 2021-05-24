@@ -1,0 +1,45 @@
+2015-12-10 18:00:41.367|[24]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5271 token：E87CA3F65A1C0C1498F68FBFE12E1FEB ----
+2015-12-10 18:00:44.949|[20]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5271 充值金额：100,orderType:201,password:mmm368891,token:E87CA3F65A1C0C1498F68FBFE12E1FEB,isWeb:False----
+2015-12-10 18:00:44.953|[20]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5271 充值金额：100返回：银行余额不足!----
+2015-12-10 18:00:45.103|[30]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5271 token：E87CA3F65A1C0C1498F68FBFE12E1FEB ----
+2015-12-10 18:00:47.209|[33]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5271date：Thu Dec 10 2015 18:00:46 GMT+0800 (CST)orderType：201----
+2015-12-10 18:00:48.349|[25]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5271 token：E87CA3F65A1C0C1498F68FBFE12E1FEB ----
+2015-12-10 18:00:50.858|[25]|DEBUG|Log.UserHandler|---开始调用获取赠送列表接口 用户：5271 date：2015/12/10 18:00:50 orderType：4----
+2015-12-10 18:05:13.353|[33]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-10 18:06:15.551|[25]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5278date：Thu Dec 10 2015 18:06:15 GMT+0800 (CST)orderType：200----
+2015-12-10 18:06:18.430|[30]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5278 token：C83CEA2558BE7CA63A6D85870E830506 ----
+2015-12-10 18:06:29.304|[33]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5278date：Thu Dec 10 2015 18:06:29 GMT+0800 (CST)orderType：201----
+2015-12-10 18:06:31.065|[24]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5278 token：C83CEA2558BE7CA63A6D85870E830506 ----
+2015-12-10 18:07:14.843|[18]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-10 18:10:51.720|[30]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-10 18:18:32.472|[20]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-10 18:18:45.789|[19]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-10 18:19:54.467|[22]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-10 18:20:44.226|[22]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-10 18:20:56.181|[19]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-10 18:22:15.336|[21]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-10 18:24:18.465|[20]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-10 18:24:46.307|[12]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-10 18:24:50.715|[30]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-10 18:25:56.609|[12]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-10 18:26:14.439|[19]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-10 18:26:51.184|[19]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-10 18:27:03.170|[21]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-10 18:28:14.379|[8]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-10 18:29:29.263|[21]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-10 18:30:07.752|[21]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-10 18:31:20.482|[20]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-10 18:31:52.447|[20]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-10 18:32:57.819|[20]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-10 18:33:10.510|[7]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-10 18:33:25.284|[15]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5278 token：4BD40F4333F9DF85FE3F43B2CC88BBB4 ----
+2015-12-10 18:33:56.970|[8]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5278 充值金额：123,orderType:201,password:l123,token:4BD40F4333F9DF85FE3F43B2CC88BBB4,isWeb:False----
+2015-12-10 18:33:56.972|[8]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5278 充值金额：123返回：交易密码错误!----
+2015-12-10 18:33:57.074|[15]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5278 token：4BD40F4333F9DF85FE3F43B2CC88BBB4 ----
+2015-12-10 18:34:00.408|[20]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5278 token：4BD40F4333F9DF85FE3F43B2CC88BBB4 ----
+2015-12-10 18:34:35.348|[11]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5278 充值金额：100,orderType:200,password:,token:4BD40F4333F9DF85FE3F43B2CC88BBB4,isWeb:False----
+2015-12-10 18:34:35.352|[11]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5278 充值金额：100返回：订单提交成功!----
+2015-12-10 18:37:22.170|[15]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-10 18:41:29.574|[19]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-10 18:50:18.829|[30]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-10 18:58:24.095|[29]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--

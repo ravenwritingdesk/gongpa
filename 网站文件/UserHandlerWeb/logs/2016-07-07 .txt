@@ -1,0 +1,55 @@
+2016-07-07 00:33:58.443|[10]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-07 00:34:47.293|[9]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-07 00:54:28.273|[19]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-07 00:57:18.687|[12]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-07 00:58:48.281|[6]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-07 00:59:16.742|[6]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-07 01:01:38.718|[7]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-07 01:07:31.104|[9]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-07 01:10:06.265|[28]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-07 01:36:00.512|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-07 01:37:06.462|[6]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-07 01:49:29.467|[47]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-07 01:49:34.936|[47]|DEBUG|Log.UserHandler|数据调试 uid: 11540  userip: 1.207.32.50   usertoken:CEB1E083FF928105D0993B42DC74E293  url: http://www.8899qpw.com:8081/MobileRechargeCenter/Default.aspx?Platform=Android&UserID=11540&Token=CEB1E083FF928105D0993B42DC74E293
+2016-07-07 01:49:35.006|[47]|INFO |Log.UserHandler|-----------获得要充值的uid11540---------------
+2016-07-07 01:49:35.324|[47]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[asdasd321] 用户ID：[11540]---------------
+2016-07-07 01:53:41.482|[56]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-07 02:35:42.854|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-07 02:36:43.912|[17]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-07 02:40:45.005|[22]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-07 02:41:36.326|[20]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-07 02:44:33.302|[26]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-07 04:00:07.657|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-07 04:02:39.179|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-07 10:26:01.582|[47]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-07 11:04:18.306|[55]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-07 11:12:43.269|[38]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-07 11:35:32.784|[15]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-07 11:54:16.538|[27]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-07 13:11:00.615|[8]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-07 17:41:33.644|[5]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-07 20:52:12.785|[16]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-07 20:52:36.356|[9]|DEBUG|Log.UserHandler|数据调试 uid: 5918  userip: 219.137.95.157   usertoken:8113B100798EC55567877B2710F40B13  url: http://www.8899qpw.com:8081/MobileRechargeCenter/Default.aspx?Platform=WindowsPlayer&UserID=5918&Token=8113B100798EC55567877B2710F40B13
+2016-07-07 20:52:36.441|[9]|INFO |Log.UserHandler|-----------获得要充值的uid5918---------------
+2016-07-07 20:52:36.619|[9]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[] 用户ID：[0]---------------
+2016-07-07 20:52:47.154|[24]|DEBUG|Log.UserHandler|数据调试 uid: 5918  userip: 111.206.36.9   usertoken:8113B100798EC55567877B2710F40B13  url: http://www.8899qpw.com:8081/MobileRechargeCenter/Default.aspx?Platform=WindowsPlayer&UserID=5918&Token=8113B100798EC55567877B2710F40B13
+2016-07-07 20:52:47.157|[24]|INFO |Log.UserHandler|-----------获得要充值的uid5918---------------
+2016-07-07 20:52:47.174|[24]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[] 用户ID：[0]---------------
+2016-07-07 20:53:04.410|[10]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-07 21:01:16.386|[22]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-07 21:01:29.568|[25]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-07 21:01:56.052|[30]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-07 21:02:30.024|[22]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-07 21:02:52.006|[25]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-07 21:26:25.683|[22]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-07 21:36:59.544|[46]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-07 21:47:28.164|[45]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-07 22:02:50.848|[51]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-07 22:09:55.381|[51]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-07 22:15:57.647|[53]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-07 22:16:07.782|[57]|DEBUG|Log.UserHandler|数据调试 uid: 11542  userip: 1.207.36.21   usertoken:5C732AAD72B5D6828D6B66943DF991C2  url: http://www.8899qpw.com:8081/MobileRechargeCenter/Default.aspx?Platform=Android&UserID=11542&Token=5C732AAD72B5D6828D6B66943DF991C2
+2016-07-07 22:16:07.785|[57]|INFO |Log.UserHandler|-----------获得要充值的uid11542---------------
+2016-07-07 22:16:07.805|[57]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[sdffess] 用户ID：[11542]---------------
+2016-07-07 22:16:10.209|[42]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：11542 token：5C732AAD72B5D6828D6B66943DF991C2 ----
+2016-07-07 22:16:30.806|[59]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-07-07 22:29:43.036|[57]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--

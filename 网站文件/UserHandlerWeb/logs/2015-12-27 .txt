@@ -1,0 +1,42 @@
+2015-12-27 17:03:04.946|[7]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-27 18:19:27.692|[7]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-27 20:16:57.793|[7]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-27 20:21:33.126|[11]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-27 20:24:17.345|[18]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-27 20:24:25.244|[20]|DEBUG|Log.UserHandler|数据调试 uid: 5362  userip: 111.176.76.96   usertoken:6AE2FF7CD8B702F9E5D252BAD52314B7  url: http://interface.5092.cc:8094/MobileRechargeCenter/Default.aspx?Platform=IPhonePlayer&UserID=5362&Token=6AE2FF7CD8B702F9E5D252BAD52314B7
+2015-12-27 20:24:25.290|[20]|INFO |Log.UserHandler|-----------获得要充值的uid5362---------------
+2015-12-27 20:24:25.701|[20]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[15826640089] 用户ID：[5362]---------------
+2015-12-27 20:24:36.353|[23]|DEBUG|Log.UserHandler|数据调试 uid: 5362  userip: 111.176.76.96   usertoken:6AE2FF7CD8B702F9E5D252BAD52314B7  url: http://interface.5092.cc:8094/MobileRechargeCenter/Default.aspx?Platform=IPhonePlayer&UserID=5362&Token=6AE2FF7CD8B702F9E5D252BAD52314B7
+2015-12-27 20:24:36.356|[23]|INFO |Log.UserHandler|-----------获得要充值的uid5362---------------
+2015-12-27 20:24:36.363|[23]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[15826640089] 用户ID：[5362]---------------
+2015-12-27 20:24:38.764|[18]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5362 token：6AE2FF7CD8B702F9E5D252BAD52314B7 ----
+2015-12-27 20:25:57.836|[19]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5362 充值金额：10000,orderType:201,password:w640089,token:6AE2FF7CD8B702F9E5D252BAD52314B7,isWeb:FalseuserHostAddress:111.176.76.96----
+2015-12-27 20:25:57.862|[19]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5362 充值金额：10000返回：银行余额不足!----
+2015-12-27 20:25:58.084|[18]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5362 token：6AE2FF7CD8B702F9E5D252BAD52314B7 ----
+2015-12-27 20:26:04.479|[11]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5362 充值金额：10000,orderType:201,password:w640089,token:6AE2FF7CD8B702F9E5D252BAD52314B7,isWeb:FalseuserHostAddress:111.176.76.96----
+2015-12-27 20:26:04.483|[11]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5362 充值金额：10000返回：银行余额不足!----
+2015-12-27 20:26:04.576|[25]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5362 token：6AE2FF7CD8B702F9E5D252BAD52314B7 ----
+2015-12-27 20:26:18.197|[14]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5362 充值金额：100,orderType:201,password:w640089,token:6AE2FF7CD8B702F9E5D252BAD52314B7,isWeb:FalseuserHostAddress:111.176.76.96----
+2015-12-27 20:26:18.201|[14]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5362 充值金额：100返回：银行余额不足!----
+2015-12-27 20:26:18.262|[19]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5362 token：6AE2FF7CD8B702F9E5D252BAD52314B7 ----
+2015-12-27 20:26:20.980|[18]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5362 充值金额：100,orderType:201,password:w640089,token:6AE2FF7CD8B702F9E5D252BAD52314B7,isWeb:FalseuserHostAddress:111.176.76.96----
+2015-12-27 20:26:20.985|[18]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5362 充值金额：100返回：银行余额不足!----
+2015-12-27 20:26:21.058|[19]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5362 token：6AE2FF7CD8B702F9E5D252BAD52314B7 ----
+2015-12-27 20:26:26.328|[11]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5362date：Sun Dec 27 2015 20:26:26 GMT+0800 (CST)orderType：201----
+2015-12-27 20:26:28.896|[14]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5362date：Sun Dec 27 2015 20:26:28 GMT+0800 (CST)orderType：200----
+2015-12-27 20:41:42.086|[11]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-27 20:42:06.805|[11]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-27 20:47:22.746|[11]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-27 21:08:38.344|[7]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-27 21:09:43.099|[11]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-27 21:09:47.397|[12]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-27 21:10:16.922|[11]|DEBUG|Log.UserHandler|数据调试 uid: 5362  userip: 111.176.76.96   usertoken:6AE2FF7CD8B702F9E5D252BAD52314B7  url: http://interface.5092.cc:8094/MobileRechargeCenter/Default.aspx?Platform=IPhonePlayer&UserID=5362&Token=6AE2FF7CD8B702F9E5D252BAD52314B7
+2015-12-27 21:10:16.967|[11]|INFO |Log.UserHandler|-----------获得要充值的uid5362---------------
+2015-12-27 21:10:17.364|[11]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[15826640089] 用户ID：[5362]---------------
+2015-12-27 22:22:55.036|[7]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-27 22:23:32.123|[12]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-27 22:24:34.109|[11]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-27 22:24:52.059|[14]|DEBUG|Log.UserHandler|数据调试 uid: 5365  userip: 111.176.76.96   usertoken:2E3D5D761B203A9B9B6882483C6BBED5  url: http://interface.5092.cc:8094/MobileRechargeCenter/Default.aspx?Platform=IPhonePlayer&UserID=5365&Token=2E3D5D761B203A9B9B6882483C6BBED5
+2015-12-27 22:24:52.104|[14]|INFO |Log.UserHandler|-----------获得要充值的uid5365---------------
+2015-12-27 22:24:52.511|[14]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[tamade] 用户ID：[5365]---------------
+2015-12-27 23:48:20.890|[7]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--

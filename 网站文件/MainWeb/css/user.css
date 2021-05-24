@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+.comMold{background-color:#0b5b7a;}
+.comMold dt{height:45px;background: url(../images/sprites.png) 0 -218px repeat-x;}
+.w500{width:500px;}
+.w210{width:210px;}
+
+#wrapper{width: 100%;height: auto;position: relative;margin: 0 auto; margin-top:10px;}
+.Poster{height:450px;}
+.Poster01{height:250px;}
+.leftMold{width:200px;}
+.rightMold{width:790px;}
+
+.comUserNav .body{background-color:#fff;}
+.comUserNav .UserInfo .Photo{width:70px;height:70px;}
+.comUserNav .UserInfo .Photo img{border:1px solid #ddd; padding:1px;width:66px;height:66px;border-radius:3px}
+.comUserNav .list li{line-height:30px; padding-bottom:1px;}
+.comUserNav .list li a{border:1px solid #fff; background-color:#fff; text-align:center; font-size:14px; display:block;}
+.comUserNav .list li a:hover{background-color:#0d8bb3; color:#fff;}
+.comUserNav .list li.cur a{background-color:#0d8bb3; color:#fff; font-weight:700;}
+
+.comUserMold .body{background-color:#fff;}
+.comUserMold h2{background:url(../images/dian-bg01.png) left bottom repeat-x; line-height:30px;}
+.comUserMold h2 .title{display:inline-block;padding:0 10px; border-bottom:2px solid #0d8bb3; font-size:16px; font-weight:700;}
+.user_table_box table td {padding: 10px 5px;line-height: 26px;word-break: break-all;}
+.user_table_box table th{ text-align:right; font-size:14px;}
+.user_table_box table textarea {border: 1px solid #C2C2C2;height: 150px;line-height: 20px;padding: 10px;margin-right: 10px;}
+.ser_table td .com_input{padding:3px 5px;}
+.ser_table select,.page_box select{height: 22px;line-height: 18px;padding: 2px;}
+.user_table_box01 th{font-weight:700; background-color:#077395;color:#fff; line-height:30px;}
+.user_table_box01 th,.user_table_box01 td{border:1px solid #0d8bb3;padding:0 5px; text-align:center;}
+.user_table_box02 th{font-weight:700; background-color:#077395;color:#fff; line-height:30px;}
+.user_table_box02 th,.user_table_box02 td{border:1px solid #0d8bb3;padding:8px 5px; text-align:center; line-height:20px;}
+.user_table_box02 tr:hover{background-color:#eff8ff;}

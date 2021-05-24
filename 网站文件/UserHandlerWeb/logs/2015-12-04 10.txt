@@ -1,0 +1,8 @@
+2015-12-04 10:26:17.244|[7]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5250date：Fri Dec 04 2015 10:26:05 GMT+0800 (CST)orderType：200----
+2015-12-04 10:26:17.537|[7]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5250 token：043571F0DCE335BE970F409D662E4876 ----
+2015-12-04 10:26:17.977|[7]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5250date：Fri Dec 04 2015 10:26:06 GMT+0800 (CST)orderType：201----
+2015-12-04 10:26:19.608|[10]|DEBUG|Log.UserHandler|---开始调用获取赠送列表接口 用户：5250 date：2015/12/4 10:26:19 orderType：4----
+2015-12-04 10:26:20.236|[10]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5250date：Fri Dec 04 2015 10:26:08 GMT+0800 (CST)orderType：201----
+2015-12-04 10:26:20.652|[11]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5250 token：043571F0DCE335BE970F409D662E4876 ----
+2015-12-04 10:26:21.303|[12]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5250date：Fri Dec 04 2015 10:26:09 GMT+0800 (CST)orderType：200----
+2015-12-04 10:26:34.671|[7]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5250date：Fri Dec 04 2015 10:26:22 GMT+0800 (CST)orderType：200----

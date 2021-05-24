@@ -1,0 +1,16 @@
+2015-12-16 10:15:23.986|[7]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-16 10:25:00.753|[24]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-16 10:29:26.072|[29]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-16 10:29:47.661|[29]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-16 10:30:06.391|[33]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-16 10:41:42.121|[30]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-16 10:43:14.096|[34]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-16 10:57:35.665|[33]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-16 10:57:51.355|[29]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5342date：Wed Dec 16 2015 10:57:51 GMT+0800 (CST)orderType：200----
+2015-12-16 10:57:52.951|[34]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5342 token：F69B24DFF2CA52FE1D4731C0126A08AB ----
+2015-12-16 10:57:54.292|[26]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5342date：Wed Dec 16 2015 10:57:54 GMT+0800 (CST)orderType：201----
+2015-12-16 10:57:56.360|[32]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5342 token：F69B24DFF2CA52FE1D4731C0126A08AB ----
+2015-12-16 10:57:57.232|[35]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5342date：Wed Dec 16 2015 10:57:57 GMT+0800 (CST)orderType：200----
+2015-12-16 10:58:04.858|[34]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5342date：Wed Dec 16 2015 10:58:04 GMT+0800 (CST)orderType：200----
+2015-12-16 10:58:07.343|[33]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5342 token：F69B24DFF2CA52FE1D4731C0126A08AB ----
+2015-12-16 10:58:09.892|[35]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5342date：Wed Dec 16 2015 10:58:09 GMT+0800 (CST)orderType：201----

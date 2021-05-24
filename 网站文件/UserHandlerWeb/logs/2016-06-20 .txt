@@ -1,0 +1,38 @@
+2016-06-20 05:01:51.003|[40]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-06-20 05:07:19.865|[75]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-06-20 05:24:31.061|[89]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-06-20 05:26:49.703|[73]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-06-20 05:29:05.628|[73]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-06-20 05:32:48.671|[73]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-06-20 05:32:54.868|[93]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-06-20 05:33:07.092|[89]|DEBUG|Log.UserHandler|数据调试 uid: 5718  userip: 119.120.226.136   usertoken:8F0606785DE42340A12A2F532C263DA7  url: http://www.8899qpw.com:8081/MobileRechargeCenter/Default.aspx?Platform=WindowsPlayer&UserID=5718&Token=8F0606785DE42340A12A2F532C263DA7
+2016-06-20 05:33:07.311|[89]|INFO |Log.UserHandler|-----------获得要充值的uid5718---------------
+2016-06-20 05:33:07.575|[89]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[administrator] 用户ID：[5718]---------------
+2016-06-20 05:33:22.928|[73]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5718 充值金额：100,orderType:200,password:,token:8F0606785DE42340A12A2F532C263DA7,isWeb:FalseuserHostAddress:119.120.226.136----
+2016-06-20 05:33:22.988|[73]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5718 充值金额：100返回：订单提交成功!----
+2016-06-20 05:33:38.439|[97]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5718date：Mon Jun 20 2016 05:33:36 GMT+0800 (?D1ú±ê×?ê±??)orderType：200----
+2016-06-20 05:33:42.069|[88]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5718 token：8F0606785DE42340A12A2F532C263DA7 ----
+2016-06-20 05:33:43.823|[96]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5718date：Mon Jun 20 2016 05:33:42 GMT+0800 (?D1ú±ê×?ê±??)orderType：201----
+2016-06-20 05:33:46.591|[96]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5718 token：8F0606785DE42340A12A2F532C263DA7 ----
+2016-06-20 05:33:47.289|[97]|DEBUG|Log.UserHandler|---开始调用获取赠送列表接口 用户：5718 date：2016/6/20 5:33:47 orderType：4----
+2016-06-20 05:33:51.085|[93]|DEBUG|Log.UserHandler|数据调试 uid: 5718  userip: 119.120.226.136   usertoken:8F0606785DE42340A12A2F532C263DA7  url: http://www.8899qpw.com:8081/MobileRechargeCenter/Default.aspx?Platform=WindowsPlayer&UserID=5718&Token=8F0606785DE42340A12A2F532C263DA7
+2016-06-20 05:33:51.088|[93]|INFO |Log.UserHandler|-----------获得要充值的uid5718---------------
+2016-06-20 05:33:51.114|[93]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[administrator] 用户ID：[5718]---------------
+2016-06-20 05:34:06.647|[93]|DEBUG|Log.UserHandler|数据调试 uid: 5718  userip: 119.120.226.136   usertoken:8F0606785DE42340A12A2F532C263DA7  url: http://www.8899qpw.com:8081/MobileRechargeCenter/Default.aspx?Platform=WindowsPlayer&UserID=5718&Token=8F0606785DE42340A12A2F532C263DA7
+2016-06-20 05:34:06.649|[93]|INFO |Log.UserHandler|-----------获得要充值的uid5718---------------
+2016-06-20 05:34:06.676|[93]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[administrator] 用户ID：[5718]---------------
+2016-06-20 14:04:51.127|[69]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-06-20 14:07:05.697|[71]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-06-20 14:07:56.165|[84]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-06-20 14:08:23.448|[84]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-06-20 23:17:48.895|[25]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-06-20 23:18:47.099|[43]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-06-20 23:24:18.828|[25]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-06-20 23:25:18.223|[26]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-06-20 23:27:35.004|[28]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-06-20 23:30:41.591|[20]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-06-20 23:31:35.541|[40]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-06-20 23:33:46.694|[32]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-06-20 23:36:32.123|[43]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-06-20 23:39:36.805|[41]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2016-06-20 23:42:31.231|[41]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--

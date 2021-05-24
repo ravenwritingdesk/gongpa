@@ -1,0 +1,56 @@
+2015-12-25 02:16:21.748|[7]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-25 02:20:00.079|[11]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-25 02:39:35.651|[30]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-25 02:42:11.528|[29]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-25 02:47:03.342|[34]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-25 12:26:59.977|[7]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-25 12:31:47.301|[18]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-25 12:32:44.081|[12]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-25 12:32:58.623|[10]|DEBUG|Log.UserHandler|数据调试 uid: 5361  userip: 117.136.81.63   usertoken:F66DDF6BE1734C9C150651B012801E9C  url: http://interface.5092.cc:8094/MobileRechargeCenter/Default.aspx?Platform=Android&UserID=5361&Token=F66DDF6BE1734C9C150651B012801E9C
+2015-12-25 12:32:58.666|[10]|INFO |Log.UserHandler|-----------获得要充值的uid5361---------------
+2015-12-25 12:32:59.086|[10]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[1862728] 用户ID：[5361]---------------
+2015-12-25 12:33:06.371|[17]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5361date：Fri Dec 25 2015 12:33:05 GMT+0800 (CST)orderType：200----
+2015-12-25 12:33:08.001|[12]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5361 token：F66DDF6BE1734C9C150651B012801E9C ----
+2015-12-25 12:33:08.758|[19]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5361date：Fri Dec 25 2015 12:33:08 GMT+0800 (CST)orderType：201----
+2015-12-25 12:33:30.857|[19]|DEBUG|Log.UserHandler|数据调试 uid: 5361  userip: 117.136.81.63   usertoken:F66DDF6BE1734C9C150651B012801E9C  url: http://interface.5092.cc:8094/MobileRechargeCenter/Default.aspx?Platform=Android&UserID=5361&Token=F66DDF6BE1734C9C150651B012801E9C
+2015-12-25 12:33:30.859|[19]|INFO |Log.UserHandler|-----------获得要充值的uid5361---------------
+2015-12-25 12:33:30.866|[19]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[1862728] 用户ID：[5361]---------------
+2015-12-25 12:33:36.837|[17]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5361date：Fri Dec 25 2015 12:33:36 GMT+0800 (CST)orderType：200----
+2015-12-25 12:33:39.015|[14]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5361 token：F66DDF6BE1734C9C150651B012801E9C ----
+2015-12-25 12:33:42.575|[10]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5361date：Fri Dec 25 2015 12:33:41 GMT+0800 (CST)orderType：201----
+2015-12-25 12:34:35.185|[23]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-25 12:34:48.589|[24]|DEBUG|Log.UserHandler|数据调试 uid: 5362  userip: 111.176.76.96   usertoken:6AE2FF7CD8B702F9E5D252BAD52314B7  url: http://interface.5092.cc:8094/MobileRechargeCenter/Default.aspx?Platform=IPhonePlayer&UserID=5362&Token=6AE2FF7CD8B702F9E5D252BAD52314B7
+2015-12-25 12:34:48.591|[24]|INFO |Log.UserHandler|-----------获得要充值的uid5362---------------
+2015-12-25 12:34:48.598|[24]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[15826640089] 用户ID：[5362]---------------
+2015-12-25 12:35:15.688|[28]|DEBUG|Log.UserHandler|---开始调用充值接口用户Id：5362 充值金额：100,orderType:200,password:,token:6AE2FF7CD8B702F9E5D252BAD52314B7,isWeb:FalseuserHostAddress:111.176.76.96----
+2015-12-25 12:35:15.706|[28]|DEBUG|Log.UserHandler|---结束调用充值接口用户Id：5362 充值金额：100返回：订单提交成功!----
+2015-12-25 12:35:27.135|[14]|ERROR|Log.UserHandler|System.Exception: 抱歉！您要充值的卡号不存在。如有疑问请联系客服中心。
+   在 DimoNetwork.DAL.OnLinePayOrder.FilledLivcard(Int32 operUserID, String serialId, String password, String accounts, String ip)
+   在 DimoNetwork.BLL.OnLinePayOrder.lZ6Hh1wgsRGHi5oasWA(Object , Int32 , Object , Object , Object , Object )
+   在 DimoNetwork.BLL.OnLinePayOrder.FilledLivcard(Int32 operUserID, String serialId, String password, String accounts, String ip)
+   在 UserHandlerWeb.MobileRechargeCenter.PayCardFillByPC.sNaGHR51RSPZmbpFDdq(Object , Int32 , Object , Object , Object , Object )
+   在 UserHandlerWeb.MobileRechargeCenter.PayCardFillByPC.paySubmit()
+2015-12-25 12:35:28.921|[25]|DEBUG|Log.UserHandler|数据调试 uid: 5362  userip: 111.176.76.96   usertoken:6AE2FF7CD8B702F9E5D252BAD52314B7  url: http://interface.5092.cc:8094/MobileRechargeCenter/Default.aspx?Platform=IPhonePlayer&UserID=5362&Token=6AE2FF7CD8B702F9E5D252BAD52314B7
+2015-12-25 12:35:28.922|[25]|INFO |Log.UserHandler|-----------获得要充值的uid5362---------------
+2015-12-25 12:35:28.930|[25]|INFO |Log.UserHandler|-----------解析出要充值的用户账号：[15826640089] 用户ID：[5362]---------------
+2015-12-25 12:35:32.142|[17]|DEBUG|Log.UserHandler|---开始调用获取余额查询接口 用户：5362 token：6AE2FF7CD8B702F9E5D252BAD52314B7 ----
+2015-12-25 12:35:37.048|[27]|DEBUG|Log.UserHandler|---开始调用获取充值列表接口用户：5362date：Fri Dec 25 2015 12:35:36 GMT+0800 (CST)orderType：201----
+2015-12-25 12:36:58.750|[28]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-25 12:37:43.204|[17]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-25 12:38:40.000|[28]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-25 12:41:34.660|[40]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-25 12:42:53.054|[36]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-25 12:43:49.291|[17]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-25 12:44:08.074|[41]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-25 12:44:30.877|[17]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-25 12:44:49.854|[41]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-25 12:45:11.386|[17]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-25 12:45:33.409|[41]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-25 12:45:51.869|[41]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-25 12:46:40.291|[17]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-25 12:59:21.692|[49]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-25 19:29:28.946|[7]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-25 19:30:47.579|[10]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-25 19:37:11.433|[21]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-25 19:37:33.024|[7]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
+2015-12-25 20:00:22.286|[7]|DEBUG|Log.UserHandler|---调用获取代理公告接口,获得数据1条--
